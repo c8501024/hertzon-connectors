@@ -1,0 +1,4419 @@
+{
+ "version": 1,
+ "parts": [
+  {
+   "manufacturer": "Southwest Microwave",
+   "part_number": "292-04A-12",
+   "series": "End Launch",
+   "interface": "SMA",
+   "gender": "jack (female)",
+   "f_max_GHz": 27.0,
+   "mounting": "edge clamp, solderless (standard block, thread-in)",
+   "template": "flange_block",
+   "pcb_thickness_mm": [
+    0.0,
+    1.651
+   ],
+   "launch_pin_od_mm": 0.254,
+   "launch_dielectric_od_mm": 1.6129,
+   "materials": {
+    "housing": "passivated stainless steel (CRES)",
+    "center_contact": "gold-plated BeCu",
+    "bead": "Ultem 1000 (PEI)",
+    "interface_dielectric": "PTFE",
+    "block": "nickel-plated brass",
+    "launch_pin": "gold-plated BeCu",
+    "launch_dielectric": "PTFE",
+    "screws": "#0-80 SHCS (connector), #1-72 SHCS (board)"
+   },
+   "datasheet_url": "https://mpd.southwestmicrowave.com/wp-content/uploads/End-Launch-Connectors-2024.pdf",
+   "product_url": "https://mpd.southwestmicrowave.com/",
+   "cad": {
+    "step": "on request (catalogue: '3D models for mechanical layouts')",
+    "em_model": "encrypted HFSS model on request (HFSS 18+)",
+    "step_url": null
+   },
+   "origin": "source (catalogue 2024); body dimensions only in drawings (images) -> estimate",
+   "notes": "Super SMA (27 GHz)",
+   "id": "southwest-292-04a-12"
+  },
+  {
+   "manufacturer": "Southwest Microwave",
+   "part_number": "293-01A-12",
+   "series": "End Launch",
+   "interface": "SMA",
+   "gender": "plug (male)",
+   "f_max_GHz": 27.0,
+   "mounting": "edge clamp, solderless (standard block, thread-in)",
+   "template": "flange_block",
+   "pcb_thickness_mm": [
+    0.0,
+    1.651
+   ],
+   "launch_pin_od_mm": 0.254,
+   "launch_dielectric_od_mm": 1.6129,
+   "materials": {
+    "housing": "passivated stainless steel (CRES)",
+    "center_contact": "gold-plated BeCu",
+    "bead": "Ultem 1000 (PEI)",
+    "interface_dielectric": "PTFE",
+    "block": "nickel-plated brass",
+    "launch_pin": "gold-plated BeCu",
+    "launch_dielectric": "PTFE",
+    "screws": "#0-80 SHCS (connector), #1-72 SHCS (board)"
+   },
+   "datasheet_url": "https://mpd.southwestmicrowave.com/wp-content/uploads/End-Launch-Connectors-2024.pdf",
+   "product_url": "https://mpd.southwestmicrowave.com/",
+   "cad": {
+    "step": "on request (catalogue: '3D models for mechanical layouts')",
+    "em_model": "encrypted HFSS model on request (HFSS 18+)",
+    "step_url": null
+   },
+   "origin": "source (catalogue 2024); body dimensions only in drawings (images) -> estimate",
+   "notes": "Super SMA (27 GHz)",
+   "id": "southwest-293-01a-12"
+  },
+  {
+   "manufacturer": "Southwest Microwave",
+   "part_number": "292-04A-7",
+   "series": "End Launch",
+   "interface": "SMA",
+   "gender": "jack (female)",
+   "f_max_GHz": 27.0,
+   "mounting": "edge clamp, solderless (standard block)",
+   "template": "flange_block",
+   "pcb_thickness_mm": [
+    2.286,
+    5.334
+   ],
+   "launch_pin_od_mm": 0.254,
+   "launch_dielectric_od_mm": 1.6129,
+   "materials": {
+    "housing": "passivated stainless steel (CRES)",
+    "center_contact": "gold-plated BeCu",
+    "bead": "Ultem 1000 (PEI)",
+    "interface_dielectric": "PTFE",
+    "block": "nickel-plated brass",
+    "launch_pin": "gold-plated BeCu",
+    "launch_dielectric": "PTFE",
+    "screws": "#0-80 SHCS (connector), #1-72 SHCS (board)"
+   },
+   "datasheet_url": "https://mpd.southwestmicrowave.com/wp-content/uploads/End-Launch-Connectors-2024.pdf",
+   "product_url": "https://mpd.southwestmicrowave.com/",
+   "cad": {
+    "step": "on request (catalogue: '3D models for mechanical layouts')",
+    "em_model": "encrypted HFSS model on request (HFSS 18+)",
+    "step_url": null
+   },
+   "origin": "source (catalogue 2024); body dimensions only in drawings (images) -> estimate",
+   "notes": "Super SMA (27 GHz)",
+   "id": "southwest-292-04a-7"
+  },
+  {
+   "manufacturer": "Southwest Microwave",
+   "part_number": "293-01A-7",
+   "series": "End Launch",
+   "interface": "SMA",
+   "gender": "plug (male)",
+   "f_max_GHz": 27.0,
+   "mounting": "edge clamp, solderless (standard block)",
+   "template": "flange_block",
+   "pcb_thickness_mm": [
+    2.286,
+    5.334
+   ],
+   "launch_pin_od_mm": 0.254,
+   "launch_dielectric_od_mm": 1.6129,
+   "materials": {
+    "housing": "passivated stainless steel (CRES)",
+    "center_contact": "gold-plated BeCu",
+    "bead": "Ultem 1000 (PEI)",
+    "interface_dielectric": "PTFE",
+    "block": "nickel-plated brass",
+    "launch_pin": "gold-plated BeCu",
+    "launch_dielectric": "PTFE",
+    "screws": "#0-80 SHCS (connector), #1-72 SHCS (board)"
+   },
+   "datasheet_url": "https://mpd.southwestmicrowave.com/wp-content/uploads/End-Launch-Connectors-2024.pdf",
+   "product_url": "https://mpd.southwestmicrowave.com/",
+   "cad": {
+    "step": "on request (catalogue: '3D models for mechanical layouts')",
+    "em_model": "encrypted HFSS model on request (HFSS 18+)",
+    "step_url": null
+   },
+   "origin": "source (catalogue 2024); body dimensions only in drawings (images) -> estimate",
+   "notes": "Super SMA (27 GHz)",
+   "id": "southwest-293-01a-7"
+  },
+  {
+   "manufacturer": "Southwest Microwave",
+   "part_number": "292-04A-8",
+   "series": "End Launch",
+   "interface": "SMA",
+   "gender": "jack (female)",
+   "f_max_GHz": 27.0,
+   "mounting": "edge clamp, solderless (standard block)",
+   "template": "flange_block",
+   "pcb_thickness_mm": [
+    4.826,
+    7.62
+   ],
+   "launch_pin_od_mm": 0.254,
+   "launch_dielectric_od_mm": 1.6129,
+   "materials": {
+    "housing": "passivated stainless steel (CRES)",
+    "center_contact": "gold-plated BeCu",
+    "bead": "Ultem 1000 (PEI)",
+    "interface_dielectric": "PTFE",
+    "block": "nickel-plated brass",
+    "launch_pin": "gold-plated BeCu",
+    "launch_dielectric": "PTFE",
+    "screws": "#0-80 SHCS (connector), #1-72 SHCS (board)"
+   },
+   "datasheet_url": "https://mpd.southwestmicrowave.com/wp-content/uploads/End-Launch-Connectors-2024.pdf",
+   "product_url": "https://mpd.southwestmicrowave.com/",
+   "cad": {
+    "step": "on request (catalogue: '3D models for mechanical layouts')",
+    "em_model": "encrypted HFSS model on request (HFSS 18+)",
+    "step_url": null
+   },
+   "origin": "source (catalogue 2024); body dimensions only in drawings (images) -> estimate",
+   "notes": "Super SMA (27 GHz)",
+   "id": "southwest-292-04a-8"
+  },
+  {
+   "manufacturer": "Southwest Microwave",
+   "part_number": "293-01A-8",
+   "series": "End Launch",
+   "interface": "SMA",
+   "gender": "plug (male)",
+   "f_max_GHz": 27.0,
+   "mounting": "edge clamp, solderless (standard block)",
+   "template": "flange_block",
+   "pcb_thickness_mm": [
+    4.826,
+    7.62
+   ],
+   "launch_pin_od_mm": 0.254,
+   "launch_dielectric_od_mm": 1.6129,
+   "materials": {
+    "housing": "passivated stainless steel (CRES)",
+    "center_contact": "gold-plated BeCu",
+    "bead": "Ultem 1000 (PEI)",
+    "interface_dielectric": "PTFE",
+    "block": "nickel-plated brass",
+    "launch_pin": "gold-plated BeCu",
+    "launch_dielectric": "PTFE",
+    "screws": "#0-80 SHCS (connector), #1-72 SHCS (board)"
+   },
+   "datasheet_url": "https://mpd.southwestmicrowave.com/wp-content/uploads/End-Launch-Connectors-2024.pdf",
+   "product_url": "https://mpd.southwestmicrowave.com/",
+   "cad": {
+    "step": "on request (catalogue: '3D models for mechanical layouts')",
+    "em_model": "encrypted HFSS model on request (HFSS 18+)",
+    "step_url": null
+   },
+   "origin": "source (catalogue 2024); body dimensions only in drawings (images) -> estimate",
+   "notes": "Super SMA (27 GHz)",
+   "id": "southwest-293-01a-8"
+  },
+  {
+   "manufacturer": "Southwest Microwave",
+   "part_number": "292-04A-9",
+   "series": "End Launch",
+   "interface": "SMA",
+   "gender": "jack (female)",
+   "f_max_GHz": 27.0,
+   "mounting": "edge clamp, solderless (narrow block (.350 in), thread-in)",
+   "template": "flange_block",
+   "pcb_thickness_mm": [
+    0.0,
+    1.651
+   ],
+   "launch_pin_od_mm": 0.254,
+   "launch_dielectric_od_mm": 1.6129,
+   "materials": {
+    "housing": "passivated stainless steel (CRES)",
+    "center_contact": "gold-plated BeCu",
+    "bead": "Ultem 1000 (PEI)",
+    "interface_dielectric": "PTFE",
+    "block": "nickel-plated brass",
+    "launch_pin": "gold-plated BeCu",
+    "launch_dielectric": "PTFE",
+    "screws": "#0-80 SHCS (connector), #1-72 SHCS (board)"
+   },
+   "datasheet_url": "https://mpd.southwestmicrowave.com/wp-content/uploads/End-Launch-Connectors-2024.pdf",
+   "product_url": "https://mpd.southwestmicrowave.com/",
+   "cad": {
+    "step": "on request (catalogue: '3D models for mechanical layouts')",
+    "em_model": "encrypted HFSS model on request (HFSS 18+)",
+    "step_url": null
+   },
+   "origin": "source (catalogue 2024); body dimensions only in drawings (images) -> estimate",
+   "notes": "Super SMA (27 GHz)",
+   "id": "southwest-292-04a-9"
+  },
+  {
+   "manufacturer": "Southwest Microwave",
+   "part_number": "293-01A-9",
+   "series": "End Launch",
+   "interface": "SMA",
+   "gender": "plug (male)",
+   "f_max_GHz": 27.0,
+   "mounting": "edge clamp, solderless (narrow block (.350 in), thread-in)",
+   "template": "flange_block",
+   "pcb_thickness_mm": [
+    0.0,
+    1.651
+   ],
+   "launch_pin_od_mm": 0.254,
+   "launch_dielectric_od_mm": 1.6129,
+   "materials": {
+    "housing": "passivated stainless steel (CRES)",
+    "center_contact": "gold-plated BeCu",
+    "bead": "Ultem 1000 (PEI)",
+    "interface_dielectric": "PTFE",
+    "block": "nickel-plated brass",
+    "launch_pin": "gold-plated BeCu",
+    "launch_dielectric": "PTFE",
+    "screws": "#0-80 SHCS (connector), #1-72 SHCS (board)"
+   },
+   "datasheet_url": "https://mpd.southwestmicrowave.com/wp-content/uploads/End-Launch-Connectors-2024.pdf",
+   "product_url": "https://mpd.southwestmicrowave.com/",
+   "cad": {
+    "step": "on request (catalogue: '3D models for mechanical layouts')",
+    "em_model": "encrypted HFSS model on request (HFSS 18+)",
+    "step_url": null
+   },
+   "origin": "source (catalogue 2024); body dimensions only in drawings (images) -> estimate",
+   "notes": "Super SMA (27 GHz)",
+   "id": "southwest-293-01a-9"
+  },
+  {
+   "manufacturer": "Southwest Microwave",
+   "part_number": "292-04A-14",
+   "series": "End Launch",
+   "interface": "SMA",
+   "gender": "jack (female)",
+   "f_max_GHz": 27.0,
+   "mounting": "edge clamp, solderless (narrow block, thread-in)",
+   "template": "flange_block",
+   "pcb_thickness_mm": [
+    1.016,
+    2.286
+   ],
+   "launch_pin_od_mm": 0.254,
+   "launch_dielectric_od_mm": 1.6129,
+   "materials": {
+    "housing": "passivated stainless steel (CRES)",
+    "center_contact": "gold-plated BeCu",
+    "bead": "Ultem 1000 (PEI)",
+    "interface_dielectric": "PTFE",
+    "block": "nickel-plated brass",
+    "launch_pin": "gold-plated BeCu",
+    "launch_dielectric": "PTFE",
+    "screws": "#0-80 SHCS (connector), #1-72 SHCS (board)"
+   },
+   "datasheet_url": "https://mpd.southwestmicrowave.com/wp-content/uploads/End-Launch-Connectors-2024.pdf",
+   "product_url": "https://mpd.southwestmicrowave.com/",
+   "cad": {
+    "step": "on request (catalogue: '3D models for mechanical layouts')",
+    "em_model": "encrypted HFSS model on request (HFSS 18+)",
+    "step_url": null
+   },
+   "origin": "source (catalogue 2024); body dimensions only in drawings (images) -> estimate",
+   "notes": "Super SMA (27 GHz)",
+   "id": "southwest-292-04a-14"
+  },
+  {
+   "manufacturer": "Southwest Microwave",
+   "part_number": "293-01A-14",
+   "series": "End Launch",
+   "interface": "SMA",
+   "gender": "plug (male)",
+   "f_max_GHz": 27.0,
+   "mounting": "edge clamp, solderless (narrow block, thread-in)",
+   "template": "flange_block",
+   "pcb_thickness_mm": [
+    1.016,
+    2.286
+   ],
+   "launch_pin_od_mm": 0.254,
+   "launch_dielectric_od_mm": 1.6129,
+   "materials": {
+    "housing": "passivated stainless steel (CRES)",
+    "center_contact": "gold-plated BeCu",
+    "bead": "Ultem 1000 (PEI)",
+    "interface_dielectric": "PTFE",
+    "block": "nickel-plated brass",
+    "launch_pin": "gold-plated BeCu",
+    "launch_dielectric": "PTFE",
+    "screws": "#0-80 SHCS (connector), #1-72 SHCS (board)"
+   },
+   "datasheet_url": "https://mpd.southwestmicrowave.com/wp-content/uploads/End-Launch-Connectors-2024.pdf",
+   "product_url": "https://mpd.southwestmicrowave.com/",
+   "cad": {
+    "step": "on request (catalogue: '3D models for mechanical layouts')",
+    "em_model": "encrypted HFSS model on request (HFSS 18+)",
+    "step_url": null
+   },
+   "origin": "source (catalogue 2024); body dimensions only in drawings (images) -> estimate",
+   "notes": "Super SMA (27 GHz)",
+   "id": "southwest-293-01a-14"
+  },
+  {
+   "manufacturer": "Southwest Microwave",
+   "part_number": "292-06A-12",
+   "series": "End Launch",
+   "interface": "SMA",
+   "gender": "jack (female)",
+   "f_max_GHz": 27.0,
+   "mounting": "edge clamp, solderless (standard block, thread-in)",
+   "template": "flange_block",
+   "pcb_thickness_mm": [
+    0.0,
+    1.651
+   ],
+   "launch_pin_od_mm": 0.1778,
+   "launch_dielectric_od_mm": 0.9906,
+   "materials": {
+    "housing": "passivated stainless steel (CRES)",
+    "center_contact": "gold-plated BeCu",
+    "bead": "Ultem 1000 (PEI)",
+    "interface_dielectric": "PTFE",
+    "block": "nickel-plated brass",
+    "launch_pin": "gold-plated BeCu",
+    "launch_dielectric": "PTFE",
+    "screws": "#0-80 SHCS (connector), #1-72 SHCS (board)"
+   },
+   "datasheet_url": "https://mpd.southwestmicrowave.com/wp-content/uploads/End-Launch-Connectors-2024.pdf",
+   "product_url": "https://mpd.southwestmicrowave.com/",
+   "cad": {
+    "step": "on request (catalogue: '3D models for mechanical layouts')",
+    "em_model": "encrypted HFSS model on request (HFSS 18+)",
+    "step_url": null
+   },
+   "origin": "source (catalogue 2024); body dimensions only in drawings (images) -> estimate",
+   "notes": "Super SMA (27 GHz)",
+   "id": "southwest-292-06a-12"
+  },
+  {
+   "manufacturer": "Southwest Microwave",
+   "part_number": "293-03A-12",
+   "series": "End Launch",
+   "interface": "SMA",
+   "gender": "plug (male)",
+   "f_max_GHz": 27.0,
+   "mounting": "edge clamp, solderless (standard block, thread-in)",
+   "template": "flange_block",
+   "pcb_thickness_mm": [
+    0.0,
+    1.651
+   ],
+   "launch_pin_od_mm": 0.1778,
+   "launch_dielectric_od_mm": 0.9906,
+   "materials": {
+    "housing": "passivated stainless steel (CRES)",
+    "center_contact": "gold-plated BeCu",
+    "bead": "Ultem 1000 (PEI)",
+    "interface_dielectric": "PTFE",
+    "block": "nickel-plated brass",
+    "launch_pin": "gold-plated BeCu",
+    "launch_dielectric": "PTFE",
+    "screws": "#0-80 SHCS (connector), #1-72 SHCS (board)"
+   },
+   "datasheet_url": "https://mpd.southwestmicrowave.com/wp-content/uploads/End-Launch-Connectors-2024.pdf",
+   "product_url": "https://mpd.southwestmicrowave.com/",
+   "cad": {
+    "step": "on request (catalogue: '3D models for mechanical layouts')",
+    "em_model": "encrypted HFSS model on request (HFSS 18+)",
+    "step_url": null
+   },
+   "origin": "source (catalogue 2024); body dimensions only in drawings (images) -> estimate",
+   "notes": "Super SMA (27 GHz)",
+   "id": "southwest-293-03a-12"
+  },
+  {
+   "manufacturer": "Southwest Microwave",
+   "part_number": "292-06A-7",
+   "series": "End Launch",
+   "interface": "SMA",
+   "gender": "jack (female)",
+   "f_max_GHz": 27.0,
+   "mounting": "edge clamp, solderless (standard block)",
+   "template": "flange_block",
+   "pcb_thickness_mm": [
+    2.286,
+    5.334
+   ],
+   "launch_pin_od_mm": 0.1778,
+   "launch_dielectric_od_mm": 0.9906,
+   "materials": {
+    "housing": "passivated stainless steel (CRES)",
+    "center_contact": "gold-plated BeCu",
+    "bead": "Ultem 1000 (PEI)",
+    "interface_dielectric": "PTFE",
+    "block": "nickel-plated brass",
+    "launch_pin": "gold-plated BeCu",
+    "launch_dielectric": "PTFE",
+    "screws": "#0-80 SHCS (connector), #1-72 SHCS (board)"
+   },
+   "datasheet_url": "https://mpd.southwestmicrowave.com/wp-content/uploads/End-Launch-Connectors-2024.pdf",
+   "product_url": "https://mpd.southwestmicrowave.com/",
+   "cad": {
+    "step": "on request (catalogue: '3D models for mechanical layouts')",
+    "em_model": "encrypted HFSS model on request (HFSS 18+)",
+    "step_url": null
+   },
+   "origin": "source (catalogue 2024); body dimensions only in drawings (images) -> estimate",
+   "notes": "Super SMA (27 GHz)",
+   "id": "southwest-292-06a-7"
+  },
+  {
+   "manufacturer": "Southwest Microwave",
+   "part_number": "293-03A-7",
+   "series": "End Launch",
+   "interface": "SMA",
+   "gender": "plug (male)",
+   "f_max_GHz": 27.0,
+   "mounting": "edge clamp, solderless (standard block)",
+   "template": "flange_block",
+   "pcb_thickness_mm": [
+    2.286,
+    5.334
+   ],
+   "launch_pin_od_mm": 0.1778,
+   "launch_dielectric_od_mm": 0.9906,
+   "materials": {
+    "housing": "passivated stainless steel (CRES)",
+    "center_contact": "gold-plated BeCu",
+    "bead": "Ultem 1000 (PEI)",
+    "interface_dielectric": "PTFE",
+    "block": "nickel-plated brass",
+    "launch_pin": "gold-plated BeCu",
+    "launch_dielectric": "PTFE",
+    "screws": "#0-80 SHCS (connector), #1-72 SHCS (board)"
+   },
+   "datasheet_url": "https://mpd.southwestmicrowave.com/wp-content/uploads/End-Launch-Connectors-2024.pdf",
+   "product_url": "https://mpd.southwestmicrowave.com/",
+   "cad": {
+    "step": "on request (catalogue: '3D models for mechanical layouts')",
+    "em_model": "encrypted HFSS model on request (HFSS 18+)",
+    "step_url": null
+   },
+   "origin": "source (catalogue 2024); body dimensions only in drawings (images) -> estimate",
+   "notes": "Super SMA (27 GHz)",
+   "id": "southwest-293-03a-7"
+  },
+  {
+   "manufacturer": "Southwest Microwave",
+   "part_number": "292-06A-8",
+   "series": "End Launch",
+   "interface": "SMA",
+   "gender": "jack (female)",
+   "f_max_GHz": 27.0,
+   "mounting": "edge clamp, solderless (standard block)",
+   "template": "flange_block",
+   "pcb_thickness_mm": [
+    4.826,
+    7.62
+   ],
+   "launch_pin_od_mm": 0.1778,
+   "launch_dielectric_od_mm": 0.9906,
+   "materials": {
+    "housing": "passivated stainless steel (CRES)",
+    "center_contact": "gold-plated BeCu",
+    "bead": "Ultem 1000 (PEI)",
+    "interface_dielectric": "PTFE",
+    "block": "nickel-plated brass",
+    "launch_pin": "gold-plated BeCu",
+    "launch_dielectric": "PTFE",
+    "screws": "#0-80 SHCS (connector), #1-72 SHCS (board)"
+   },
+   "datasheet_url": "https://mpd.southwestmicrowave.com/wp-content/uploads/End-Launch-Connectors-2024.pdf",
+   "product_url": "https://mpd.southwestmicrowave.com/",
+   "cad": {
+    "step": "on request (catalogue: '3D models for mechanical layouts')",
+    "em_model": "encrypted HFSS model on request (HFSS 18+)",
+    "step_url": null
+   },
+   "origin": "source (catalogue 2024); body dimensions only in drawings (images) -> estimate",
+   "notes": "Super SMA (27 GHz)",
+   "id": "southwest-292-06a-8"
+  },
+  {
+   "manufacturer": "Southwest Microwave",
+   "part_number": "293-03A-8",
+   "series": "End Launch",
+   "interface": "SMA",
+   "gender": "plug (male)",
+   "f_max_GHz": 27.0,
+   "mounting": "edge clamp, solderless (standard block)",
+   "template": "flange_block",
+   "pcb_thickness_mm": [
+    4.826,
+    7.62
+   ],
+   "launch_pin_od_mm": 0.1778,
+   "launch_dielectric_od_mm": 0.9906,
+   "materials": {
+    "housing": "passivated stainless steel (CRES)",
+    "center_contact": "gold-plated BeCu",
+    "bead": "Ultem 1000 (PEI)",
+    "interface_dielectric": "PTFE",
+    "block": "nickel-plated brass",
+    "launch_pin": "gold-plated BeCu",
+    "launch_dielectric": "PTFE",
+    "screws": "#0-80 SHCS (connector), #1-72 SHCS (board)"
+   },
+   "datasheet_url": "https://mpd.southwestmicrowave.com/wp-content/uploads/End-Launch-Connectors-2024.pdf",
+   "product_url": "https://mpd.southwestmicrowave.com/",
+   "cad": {
+    "step": "on request (catalogue: '3D models for mechanical layouts')",
+    "em_model": "encrypted HFSS model on request (HFSS 18+)",
+    "step_url": null
+   },
+   "origin": "source (catalogue 2024); body dimensions only in drawings (images) -> estimate",
+   "notes": "Super SMA (27 GHz)",
+   "id": "southwest-293-03a-8"
+  },
+  {
+   "manufacturer": "Southwest Microwave",
+   "part_number": "292-06A-9",
+   "series": "End Launch",
+   "interface": "SMA",
+   "gender": "jack (female)",
+   "f_max_GHz": 27.0,
+   "mounting": "edge clamp, solderless (narrow block (.350 in), thread-in)",
+   "template": "flange_block",
+   "pcb_thickness_mm": [
+    0.0,
+    1.651
+   ],
+   "launch_pin_od_mm": 0.1778,
+   "launch_dielectric_od_mm": 0.9906,
+   "materials": {
+    "housing": "passivated stainless steel (CRES)",
+    "center_contact": "gold-plated BeCu",
+    "bead": "Ultem 1000 (PEI)",
+    "interface_dielectric": "PTFE",
+    "block": "nickel-plated brass",
+    "launch_pin": "gold-plated BeCu",
+    "launch_dielectric": "PTFE",
+    "screws": "#0-80 SHCS (connector), #1-72 SHCS (board)"
+   },
+   "datasheet_url": "https://mpd.southwestmicrowave.com/wp-content/uploads/End-Launch-Connectors-2024.pdf",
+   "product_url": "https://mpd.southwestmicrowave.com/",
+   "cad": {
+    "step": "on request (catalogue: '3D models for mechanical layouts')",
+    "em_model": "encrypted HFSS model on request (HFSS 18+)",
+    "step_url": null
+   },
+   "origin": "source (catalogue 2024); body dimensions only in drawings (images) -> estimate",
+   "notes": "Super SMA (27 GHz)",
+   "id": "southwest-292-06a-9"
+  },
+  {
+   "manufacturer": "Southwest Microwave",
+   "part_number": "293-03A-9",
+   "series": "End Launch",
+   "interface": "SMA",
+   "gender": "plug (male)",
+   "f_max_GHz": 27.0,
+   "mounting": "edge clamp, solderless (narrow block (.350 in), thread-in)",
+   "template": "flange_block",
+   "pcb_thickness_mm": [
+    0.0,
+    1.651
+   ],
+   "launch_pin_od_mm": 0.1778,
+   "launch_dielectric_od_mm": 0.9906,
+   "materials": {
+    "housing": "passivated stainless steel (CRES)",
+    "center_contact": "gold-plated BeCu",
+    "bead": "Ultem 1000 (PEI)",
+    "interface_dielectric": "PTFE",
+    "block": "nickel-plated brass",
+    "launch_pin": "gold-plated BeCu",
+    "launch_dielectric": "PTFE",
+    "screws": "#0-80 SHCS (connector), #1-72 SHCS (board)"
+   },
+   "datasheet_url": "https://mpd.southwestmicrowave.com/wp-content/uploads/End-Launch-Connectors-2024.pdf",
+   "product_url": "https://mpd.southwestmicrowave.com/",
+   "cad": {
+    "step": "on request (catalogue: '3D models for mechanical layouts')",
+    "em_model": "encrypted HFSS model on request (HFSS 18+)",
+    "step_url": null
+   },
+   "origin": "source (catalogue 2024); body dimensions only in drawings (images) -> estimate",
+   "notes": "Super SMA (27 GHz)",
+   "id": "southwest-293-03a-9"
+  },
+  {
+   "manufacturer": "Southwest Microwave",
+   "part_number": "292-06A-14",
+   "series": "End Launch",
+   "interface": "SMA",
+   "gender": "jack (female)",
+   "f_max_GHz": 27.0,
+   "mounting": "edge clamp, solderless (narrow block, thread-in)",
+   "template": "flange_block",
+   "pcb_thickness_mm": [
+    1.016,
+    2.286
+   ],
+   "launch_pin_od_mm": 0.1778,
+   "launch_dielectric_od_mm": 0.9906,
+   "materials": {
+    "housing": "passivated stainless steel (CRES)",
+    "center_contact": "gold-plated BeCu",
+    "bead": "Ultem 1000 (PEI)",
+    "interface_dielectric": "PTFE",
+    "block": "nickel-plated brass",
+    "launch_pin": "gold-plated BeCu",
+    "launch_dielectric": "PTFE",
+    "screws": "#0-80 SHCS (connector), #1-72 SHCS (board)"
+   },
+   "datasheet_url": "https://mpd.southwestmicrowave.com/wp-content/uploads/End-Launch-Connectors-2024.pdf",
+   "product_url": "https://mpd.southwestmicrowave.com/",
+   "cad": {
+    "step": "on request (catalogue: '3D models for mechanical layouts')",
+    "em_model": "encrypted HFSS model on request (HFSS 18+)",
+    "step_url": null
+   },
+   "origin": "source (catalogue 2024); body dimensions only in drawings (images) -> estimate",
+   "notes": "Super SMA (27 GHz)",
+   "id": "southwest-292-06a-14"
+  },
+  {
+   "manufacturer": "Southwest Microwave",
+   "part_number": "293-03A-14",
+   "series": "End Launch",
+   "interface": "SMA",
+   "gender": "plug (male)",
+   "f_max_GHz": 27.0,
+   "mounting": "edge clamp, solderless (narrow block, thread-in)",
+   "template": "flange_block",
+   "pcb_thickness_mm": [
+    1.016,
+    2.286
+   ],
+   "launch_pin_od_mm": 0.1778,
+   "launch_dielectric_od_mm": 0.9906,
+   "materials": {
+    "housing": "passivated stainless steel (CRES)",
+    "center_contact": "gold-plated BeCu",
+    "bead": "Ultem 1000 (PEI)",
+    "interface_dielectric": "PTFE",
+    "block": "nickel-plated brass",
+    "launch_pin": "gold-plated BeCu",
+    "launch_dielectric": "PTFE",
+    "screws": "#0-80 SHCS (connector), #1-72 SHCS (board)"
+   },
+   "datasheet_url": "https://mpd.southwestmicrowave.com/wp-content/uploads/End-Launch-Connectors-2024.pdf",
+   "product_url": "https://mpd.southwestmicrowave.com/",
+   "cad": {
+    "step": "on request (catalogue: '3D models for mechanical layouts')",
+    "em_model": "encrypted HFSS model on request (HFSS 18+)",
+    "step_url": null
+   },
+   "origin": "source (catalogue 2024); body dimensions only in drawings (images) -> estimate",
+   "notes": "Super SMA (27 GHz)",
+   "id": "southwest-293-03a-14"
+  },
+  {
+   "manufacturer": "Southwest Microwave",
+   "part_number": "292-07A-12",
+   "series": "End Launch",
+   "interface": "SMA",
+   "gender": "jack (female)",
+   "f_max_GHz": 27.0,
+   "mounting": "edge clamp, solderless (standard block, thread-in)",
+   "template": "flange_block",
+   "pcb_thickness_mm": [
+    0.0,
+    1.651
+   ],
+   "launch_pin_od_mm": 0.127,
+   "launch_dielectric_od_mm": 0.7366,
+   "materials": {
+    "housing": "passivated stainless steel (CRES)",
+    "center_contact": "gold-plated BeCu",
+    "bead": "Ultem 1000 (PEI)",
+    "interface_dielectric": "PTFE",
+    "block": "nickel-plated brass",
+    "launch_pin": "gold-plated BeCu",
+    "launch_dielectric": "PTFE",
+    "screws": "#0-80 SHCS (connector), #1-72 SHCS (board)"
+   },
+   "datasheet_url": "https://mpd.southwestmicrowave.com/wp-content/uploads/End-Launch-Connectors-2024.pdf",
+   "product_url": "https://mpd.southwestmicrowave.com/",
+   "cad": {
+    "step": "on request (catalogue: '3D models for mechanical layouts')",
+    "em_model": "encrypted HFSS model on request (HFSS 18+)",
+    "step_url": null
+   },
+   "origin": "source (catalogue 2024); body dimensions only in drawings (images) -> estimate",
+   "notes": "Super SMA (27 GHz)",
+   "id": "southwest-292-07a-12"
+  },
+  {
+   "manufacturer": "Southwest Microwave",
+   "part_number": "293-04A-12",
+   "series": "End Launch",
+   "interface": "SMA",
+   "gender": "plug (male)",
+   "f_max_GHz": 27.0,
+   "mounting": "edge clamp, solderless (standard block, thread-in)",
+   "template": "flange_block",
+   "pcb_thickness_mm": [
+    0.0,
+    1.651
+   ],
+   "launch_pin_od_mm": 0.127,
+   "launch_dielectric_od_mm": 0.7366,
+   "materials": {
+    "housing": "passivated stainless steel (CRES)",
+    "center_contact": "gold-plated BeCu",
+    "bead": "Ultem 1000 (PEI)",
+    "interface_dielectric": "PTFE",
+    "block": "nickel-plated brass",
+    "launch_pin": "gold-plated BeCu",
+    "launch_dielectric": "PTFE",
+    "screws": "#0-80 SHCS (connector), #1-72 SHCS (board)"
+   },
+   "datasheet_url": "https://mpd.southwestmicrowave.com/wp-content/uploads/End-Launch-Connectors-2024.pdf",
+   "product_url": "https://mpd.southwestmicrowave.com/",
+   "cad": {
+    "step": "on request (catalogue: '3D models for mechanical layouts')",
+    "em_model": "encrypted HFSS model on request (HFSS 18+)",
+    "step_url": null
+   },
+   "origin": "source (catalogue 2024); body dimensions only in drawings (images) -> estimate",
+   "notes": "Super SMA (27 GHz)",
+   "id": "southwest-293-04a-12"
+  },
+  {
+   "manufacturer": "Southwest Microwave",
+   "part_number": "292-07A-7",
+   "series": "End Launch",
+   "interface": "SMA",
+   "gender": "jack (female)",
+   "f_max_GHz": 27.0,
+   "mounting": "edge clamp, solderless (standard block)",
+   "template": "flange_block",
+   "pcb_thickness_mm": [
+    2.286,
+    5.334
+   ],
+   "launch_pin_od_mm": 0.127,
+   "launch_dielectric_od_mm": 0.7366,
+   "materials": {
+    "housing": "passivated stainless steel (CRES)",
+    "center_contact": "gold-plated BeCu",
+    "bead": "Ultem 1000 (PEI)",
+    "interface_dielectric": "PTFE",
+    "block": "nickel-plated brass",
+    "launch_pin": "gold-plated BeCu",
+    "launch_dielectric": "PTFE",
+    "screws": "#0-80 SHCS (connector), #1-72 SHCS (board)"
+   },
+   "datasheet_url": "https://mpd.southwestmicrowave.com/wp-content/uploads/End-Launch-Connectors-2024.pdf",
+   "product_url": "https://mpd.southwestmicrowave.com/",
+   "cad": {
+    "step": "on request (catalogue: '3D models for mechanical layouts')",
+    "em_model": "encrypted HFSS model on request (HFSS 18+)",
+    "step_url": null
+   },
+   "origin": "source (catalogue 2024); body dimensions only in drawings (images) -> estimate",
+   "notes": "Super SMA (27 GHz)",
+   "id": "southwest-292-07a-7"
+  },
+  {
+   "manufacturer": "Southwest Microwave",
+   "part_number": "293-04A-7",
+   "series": "End Launch",
+   "interface": "SMA",
+   "gender": "plug (male)",
+   "f_max_GHz": 27.0,
+   "mounting": "edge clamp, solderless (standard block)",
+   "template": "flange_block",
+   "pcb_thickness_mm": [
+    2.286,
+    5.334
+   ],
+   "launch_pin_od_mm": 0.127,
+   "launch_dielectric_od_mm": 0.7366,
+   "materials": {
+    "housing": "passivated stainless steel (CRES)",
+    "center_contact": "gold-plated BeCu",
+    "bead": "Ultem 1000 (PEI)",
+    "interface_dielectric": "PTFE",
+    "block": "nickel-plated brass",
+    "launch_pin": "gold-plated BeCu",
+    "launch_dielectric": "PTFE",
+    "screws": "#0-80 SHCS (connector), #1-72 SHCS (board)"
+   },
+   "datasheet_url": "https://mpd.southwestmicrowave.com/wp-content/uploads/End-Launch-Connectors-2024.pdf",
+   "product_url": "https://mpd.southwestmicrowave.com/",
+   "cad": {
+    "step": "on request (catalogue: '3D models for mechanical layouts')",
+    "em_model": "encrypted HFSS model on request (HFSS 18+)",
+    "step_url": null
+   },
+   "origin": "source (catalogue 2024); body dimensions only in drawings (images) -> estimate",
+   "notes": "Super SMA (27 GHz)",
+   "id": "southwest-293-04a-7"
+  },
+  {
+   "manufacturer": "Southwest Microwave",
+   "part_number": "292-07A-8",
+   "series": "End Launch",
+   "interface": "SMA",
+   "gender": "jack (female)",
+   "f_max_GHz": 27.0,
+   "mounting": "edge clamp, solderless (standard block)",
+   "template": "flange_block",
+   "pcb_thickness_mm": [
+    4.826,
+    7.62
+   ],
+   "launch_pin_od_mm": 0.127,
+   "launch_dielectric_od_mm": 0.7366,
+   "materials": {
+    "housing": "passivated stainless steel (CRES)",
+    "center_contact": "gold-plated BeCu",
+    "bead": "Ultem 1000 (PEI)",
+    "interface_dielectric": "PTFE",
+    "block": "nickel-plated brass",
+    "launch_pin": "gold-plated BeCu",
+    "launch_dielectric": "PTFE",
+    "screws": "#0-80 SHCS (connector), #1-72 SHCS (board)"
+   },
+   "datasheet_url": "https://mpd.southwestmicrowave.com/wp-content/uploads/End-Launch-Connectors-2024.pdf",
+   "product_url": "https://mpd.southwestmicrowave.com/",
+   "cad": {
+    "step": "on request (catalogue: '3D models for mechanical layouts')",
+    "em_model": "encrypted HFSS model on request (HFSS 18+)",
+    "step_url": null
+   },
+   "origin": "source (catalogue 2024); body dimensions only in drawings (images) -> estimate",
+   "notes": "Super SMA (27 GHz)",
+   "id": "southwest-292-07a-8"
+  },
+  {
+   "manufacturer": "Southwest Microwave",
+   "part_number": "293-04A-8",
+   "series": "End Launch",
+   "interface": "SMA",
+   "gender": "plug (male)",
+   "f_max_GHz": 27.0,
+   "mounting": "edge clamp, solderless (standard block)",
+   "template": "flange_block",
+   "pcb_thickness_mm": [
+    4.826,
+    7.62
+   ],
+   "launch_pin_od_mm": 0.127,
+   "launch_dielectric_od_mm": 0.7366,
+   "materials": {
+    "housing": "passivated stainless steel (CRES)",
+    "center_contact": "gold-plated BeCu",
+    "bead": "Ultem 1000 (PEI)",
+    "interface_dielectric": "PTFE",
+    "block": "nickel-plated brass",
+    "launch_pin": "gold-plated BeCu",
+    "launch_dielectric": "PTFE",
+    "screws": "#0-80 SHCS (connector), #1-72 SHCS (board)"
+   },
+   "datasheet_url": "https://mpd.southwestmicrowave.com/wp-content/uploads/End-Launch-Connectors-2024.pdf",
+   "product_url": "https://mpd.southwestmicrowave.com/",
+   "cad": {
+    "step": "on request (catalogue: '3D models for mechanical layouts')",
+    "em_model": "encrypted HFSS model on request (HFSS 18+)",
+    "step_url": null
+   },
+   "origin": "source (catalogue 2024); body dimensions only in drawings (images) -> estimate",
+   "notes": "Super SMA (27 GHz)",
+   "id": "southwest-293-04a-8"
+  },
+  {
+   "manufacturer": "Southwest Microwave",
+   "part_number": "292-07A-9",
+   "series": "End Launch",
+   "interface": "SMA",
+   "gender": "jack (female)",
+   "f_max_GHz": 27.0,
+   "mounting": "edge clamp, solderless (narrow block (.350 in), thread-in)",
+   "template": "flange_block",
+   "pcb_thickness_mm": [
+    0.0,
+    1.651
+   ],
+   "launch_pin_od_mm": 0.127,
+   "launch_dielectric_od_mm": 0.7366,
+   "materials": {
+    "housing": "passivated stainless steel (CRES)",
+    "center_contact": "gold-plated BeCu",
+    "bead": "Ultem 1000 (PEI)",
+    "interface_dielectric": "PTFE",
+    "block": "nickel-plated brass",
+    "launch_pin": "gold-plated BeCu",
+    "launch_dielectric": "PTFE",
+    "screws": "#0-80 SHCS (connector), #1-72 SHCS (board)"
+   },
+   "datasheet_url": "https://mpd.southwestmicrowave.com/wp-content/uploads/End-Launch-Connectors-2024.pdf",
+   "product_url": "https://mpd.southwestmicrowave.com/",
+   "cad": {
+    "step": "on request (catalogue: '3D models for mechanical layouts')",
+    "em_model": "encrypted HFSS model on request (HFSS 18+)",
+    "step_url": null
+   },
+   "origin": "source (catalogue 2024); body dimensions only in drawings (images) -> estimate",
+   "notes": "Super SMA (27 GHz)",
+   "id": "southwest-292-07a-9"
+  },
+  {
+   "manufacturer": "Southwest Microwave",
+   "part_number": "293-04A-9",
+   "series": "End Launch",
+   "interface": "SMA",
+   "gender": "plug (male)",
+   "f_max_GHz": 27.0,
+   "mounting": "edge clamp, solderless (narrow block (.350 in), thread-in)",
+   "template": "flange_block",
+   "pcb_thickness_mm": [
+    0.0,
+    1.651
+   ],
+   "launch_pin_od_mm": 0.127,
+   "launch_dielectric_od_mm": 0.7366,
+   "materials": {
+    "housing": "passivated stainless steel (CRES)",
+    "center_contact": "gold-plated BeCu",
+    "bead": "Ultem 1000 (PEI)",
+    "interface_dielectric": "PTFE",
+    "block": "nickel-plated brass",
+    "launch_pin": "gold-plated BeCu",
+    "launch_dielectric": "PTFE",
+    "screws": "#0-80 SHCS (connector), #1-72 SHCS (board)"
+   },
+   "datasheet_url": "https://mpd.southwestmicrowave.com/wp-content/uploads/End-Launch-Connectors-2024.pdf",
+   "product_url": "https://mpd.southwestmicrowave.com/",
+   "cad": {
+    "step": "on request (catalogue: '3D models for mechanical layouts')",
+    "em_model": "encrypted HFSS model on request (HFSS 18+)",
+    "step_url": null
+   },
+   "origin": "source (catalogue 2024); body dimensions only in drawings (images) -> estimate",
+   "notes": "Super SMA (27 GHz)",
+   "id": "southwest-293-04a-9"
+  },
+  {
+   "manufacturer": "Southwest Microwave",
+   "part_number": "292-07A-14",
+   "series": "End Launch",
+   "interface": "SMA",
+   "gender": "jack (female)",
+   "f_max_GHz": 27.0,
+   "mounting": "edge clamp, solderless (narrow block, thread-in)",
+   "template": "flange_block",
+   "pcb_thickness_mm": [
+    1.016,
+    2.286
+   ],
+   "launch_pin_od_mm": 0.127,
+   "launch_dielectric_od_mm": 0.7366,
+   "materials": {
+    "housing": "passivated stainless steel (CRES)",
+    "center_contact": "gold-plated BeCu",
+    "bead": "Ultem 1000 (PEI)",
+    "interface_dielectric": "PTFE",
+    "block": "nickel-plated brass",
+    "launch_pin": "gold-plated BeCu",
+    "launch_dielectric": "PTFE",
+    "screws": "#0-80 SHCS (connector), #1-72 SHCS (board)"
+   },
+   "datasheet_url": "https://mpd.southwestmicrowave.com/wp-content/uploads/End-Launch-Connectors-2024.pdf",
+   "product_url": "https://mpd.southwestmicrowave.com/",
+   "cad": {
+    "step": "on request (catalogue: '3D models for mechanical layouts')",
+    "em_model": "encrypted HFSS model on request (HFSS 18+)",
+    "step_url": null
+   },
+   "origin": "source (catalogue 2024); body dimensions only in drawings (images) -> estimate",
+   "notes": "Super SMA (27 GHz)",
+   "id": "southwest-292-07a-14"
+  },
+  {
+   "manufacturer": "Southwest Microwave",
+   "part_number": "293-04A-14",
+   "series": "End Launch",
+   "interface": "SMA",
+   "gender": "plug (male)",
+   "f_max_GHz": 27.0,
+   "mounting": "edge clamp, solderless (narrow block, thread-in)",
+   "template": "flange_block",
+   "pcb_thickness_mm": [
+    1.016,
+    2.286
+   ],
+   "launch_pin_od_mm": 0.127,
+   "launch_dielectric_od_mm": 0.7366,
+   "materials": {
+    "housing": "passivated stainless steel (CRES)",
+    "center_contact": "gold-plated BeCu",
+    "bead": "Ultem 1000 (PEI)",
+    "interface_dielectric": "PTFE",
+    "block": "nickel-plated brass",
+    "launch_pin": "gold-plated BeCu",
+    "launch_dielectric": "PTFE",
+    "screws": "#0-80 SHCS (connector), #1-72 SHCS (board)"
+   },
+   "datasheet_url": "https://mpd.southwestmicrowave.com/wp-content/uploads/End-Launch-Connectors-2024.pdf",
+   "product_url": "https://mpd.southwestmicrowave.com/",
+   "cad": {
+    "step": "on request (catalogue: '3D models for mechanical layouts')",
+    "em_model": "encrypted HFSS model on request (HFSS 18+)",
+    "step_url": null
+   },
+   "origin": "source (catalogue 2024); body dimensions only in drawings (images) -> estimate",
+   "notes": "Super SMA (27 GHz)",
+   "id": "southwest-293-04a-14"
+  },
+  {
+   "manufacturer": "Southwest Microwave",
+   "part_number": "1092-03A-12",
+   "series": "End Launch",
+   "interface": "2.92mm",
+   "gender": "jack (female)",
+   "f_max_GHz": 40.0,
+   "mounting": "edge clamp, solderless (standard block, thread-in)",
+   "template": "flange_block",
+   "pcb_thickness_mm": [
+    0.0,
+    1.651
+   ],
+   "launch_pin_od_mm": 0.254,
+   "launch_dielectric_od_mm": 1.6129,
+   "materials": {
+    "housing": "passivated stainless steel (CRES)",
+    "center_contact": "gold-plated BeCu",
+    "bead": "Ultem 1000 (PEI) / Kel-F (PCTFE)",
+    "interface_dielectric": "air",
+    "block": "nickel-plated brass",
+    "launch_pin": "gold-plated BeCu",
+    "launch_dielectric": "PTFE",
+    "screws": "#0-80 SHCS (connector), #1-72 SHCS (board)"
+   },
+   "datasheet_url": "https://mpd.southwestmicrowave.com/wp-content/uploads/End-Launch-Connectors-2024.pdf",
+   "product_url": "https://mpd.southwestmicrowave.com/",
+   "cad": {
+    "step": "on request (catalogue: '3D models for mechanical layouts')",
+    "em_model": "encrypted HFSS model on request (HFSS 18+)",
+    "step_url": null
+   },
+   "origin": "source (catalogue 2024); body dimensions only in drawings (images) -> estimate",
+   "notes": "",
+   "id": "southwest-1092-03a-12"
+  },
+  {
+   "manufacturer": "Southwest Microwave",
+   "part_number": "1093-01A-12",
+   "series": "End Launch",
+   "interface": "2.92mm",
+   "gender": "plug (male)",
+   "f_max_GHz": 40.0,
+   "mounting": "edge clamp, solderless (standard block, thread-in)",
+   "template": "flange_block",
+   "pcb_thickness_mm": [
+    0.0,
+    1.651
+   ],
+   "launch_pin_od_mm": 0.254,
+   "launch_dielectric_od_mm": 1.6129,
+   "materials": {
+    "housing": "passivated stainless steel (CRES)",
+    "center_contact": "gold-plated BeCu",
+    "bead": "Ultem 1000 (PEI) / Kel-F (PCTFE)",
+    "interface_dielectric": "air",
+    "block": "nickel-plated brass",
+    "launch_pin": "gold-plated BeCu",
+    "launch_dielectric": "PTFE",
+    "screws": "#0-80 SHCS (connector), #1-72 SHCS (board)"
+   },
+   "datasheet_url": "https://mpd.southwestmicrowave.com/wp-content/uploads/End-Launch-Connectors-2024.pdf",
+   "product_url": "https://mpd.southwestmicrowave.com/",
+   "cad": {
+    "step": "on request (catalogue: '3D models for mechanical layouts')",
+    "em_model": "encrypted HFSS model on request (HFSS 18+)",
+    "step_url": null
+   },
+   "origin": "source (catalogue 2024); body dimensions only in drawings (images) -> estimate",
+   "notes": "",
+   "id": "southwest-1093-01a-12"
+  },
+  {
+   "manufacturer": "Southwest Microwave",
+   "part_number": "1092-03A-7",
+   "series": "End Launch",
+   "interface": "2.92mm",
+   "gender": "jack (female)",
+   "f_max_GHz": 40.0,
+   "mounting": "edge clamp, solderless (standard block)",
+   "template": "flange_block",
+   "pcb_thickness_mm": [
+    2.286,
+    5.334
+   ],
+   "launch_pin_od_mm": 0.254,
+   "launch_dielectric_od_mm": 1.6129,
+   "materials": {
+    "housing": "passivated stainless steel (CRES)",
+    "center_contact": "gold-plated BeCu",
+    "bead": "Ultem 1000 (PEI) / Kel-F (PCTFE)",
+    "interface_dielectric": "air",
+    "block": "nickel-plated brass",
+    "launch_pin": "gold-plated BeCu",
+    "launch_dielectric": "PTFE",
+    "screws": "#0-80 SHCS (connector), #1-72 SHCS (board)"
+   },
+   "datasheet_url": "https://mpd.southwestmicrowave.com/wp-content/uploads/End-Launch-Connectors-2024.pdf",
+   "product_url": "https://mpd.southwestmicrowave.com/",
+   "cad": {
+    "step": "on request (catalogue: '3D models for mechanical layouts')",
+    "em_model": "encrypted HFSS model on request (HFSS 18+)",
+    "step_url": null
+   },
+   "origin": "source (catalogue 2024); body dimensions only in drawings (images) -> estimate",
+   "notes": "",
+   "id": "southwest-1092-03a-7"
+  },
+  {
+   "manufacturer": "Southwest Microwave",
+   "part_number": "1093-01A-7",
+   "series": "End Launch",
+   "interface": "2.92mm",
+   "gender": "plug (male)",
+   "f_max_GHz": 40.0,
+   "mounting": "edge clamp, solderless (standard block)",
+   "template": "flange_block",
+   "pcb_thickness_mm": [
+    2.286,
+    5.334
+   ],
+   "launch_pin_od_mm": 0.254,
+   "launch_dielectric_od_mm": 1.6129,
+   "materials": {
+    "housing": "passivated stainless steel (CRES)",
+    "center_contact": "gold-plated BeCu",
+    "bead": "Ultem 1000 (PEI) / Kel-F (PCTFE)",
+    "interface_dielectric": "air",
+    "block": "nickel-plated brass",
+    "launch_pin": "gold-plated BeCu",
+    "launch_dielectric": "PTFE",
+    "screws": "#0-80 SHCS (connector), #1-72 SHCS (board)"
+   },
+   "datasheet_url": "https://mpd.southwestmicrowave.com/wp-content/uploads/End-Launch-Connectors-2024.pdf",
+   "product_url": "https://mpd.southwestmicrowave.com/",
+   "cad": {
+    "step": "on request (catalogue: '3D models for mechanical layouts')",
+    "em_model": "encrypted HFSS model on request (HFSS 18+)",
+    "step_url": null
+   },
+   "origin": "source (catalogue 2024); body dimensions only in drawings (images) -> estimate",
+   "notes": "",
+   "id": "southwest-1093-01a-7"
+  },
+  {
+   "manufacturer": "Southwest Microwave",
+   "part_number": "1092-03A-8",
+   "series": "End Launch",
+   "interface": "2.92mm",
+   "gender": "jack (female)",
+   "f_max_GHz": 40.0,
+   "mounting": "edge clamp, solderless (standard block)",
+   "template": "flange_block",
+   "pcb_thickness_mm": [
+    4.826,
+    7.62
+   ],
+   "launch_pin_od_mm": 0.254,
+   "launch_dielectric_od_mm": 1.6129,
+   "materials": {
+    "housing": "passivated stainless steel (CRES)",
+    "center_contact": "gold-plated BeCu",
+    "bead": "Ultem 1000 (PEI) / Kel-F (PCTFE)",
+    "interface_dielectric": "air",
+    "block": "nickel-plated brass",
+    "launch_pin": "gold-plated BeCu",
+    "launch_dielectric": "PTFE",
+    "screws": "#0-80 SHCS (connector), #1-72 SHCS (board)"
+   },
+   "datasheet_url": "https://mpd.southwestmicrowave.com/wp-content/uploads/End-Launch-Connectors-2024.pdf",
+   "product_url": "https://mpd.southwestmicrowave.com/",
+   "cad": {
+    "step": "on request (catalogue: '3D models for mechanical layouts')",
+    "em_model": "encrypted HFSS model on request (HFSS 18+)",
+    "step_url": null
+   },
+   "origin": "source (catalogue 2024); body dimensions only in drawings (images) -> estimate",
+   "notes": "",
+   "id": "southwest-1092-03a-8"
+  },
+  {
+   "manufacturer": "Southwest Microwave",
+   "part_number": "1093-01A-8",
+   "series": "End Launch",
+   "interface": "2.92mm",
+   "gender": "plug (male)",
+   "f_max_GHz": 40.0,
+   "mounting": "edge clamp, solderless (standard block)",
+   "template": "flange_block",
+   "pcb_thickness_mm": [
+    4.826,
+    7.62
+   ],
+   "launch_pin_od_mm": 0.254,
+   "launch_dielectric_od_mm": 1.6129,
+   "materials": {
+    "housing": "passivated stainless steel (CRES)",
+    "center_contact": "gold-plated BeCu",
+    "bead": "Ultem 1000 (PEI) / Kel-F (PCTFE)",
+    "interface_dielectric": "air",
+    "block": "nickel-plated brass",
+    "launch_pin": "gold-plated BeCu",
+    "launch_dielectric": "PTFE",
+    "screws": "#0-80 SHCS (connector), #1-72 SHCS (board)"
+   },
+   "datasheet_url": "https://mpd.southwestmicrowave.com/wp-content/uploads/End-Launch-Connectors-2024.pdf",
+   "product_url": "https://mpd.southwestmicrowave.com/",
+   "cad": {
+    "step": "on request (catalogue: '3D models for mechanical layouts')",
+    "em_model": "encrypted HFSS model on request (HFSS 18+)",
+    "step_url": null
+   },
+   "origin": "source (catalogue 2024); body dimensions only in drawings (images) -> estimate",
+   "notes": "",
+   "id": "southwest-1093-01a-8"
+  },
+  {
+   "manufacturer": "Southwest Microwave",
+   "part_number": "1092-03A-9",
+   "series": "End Launch",
+   "interface": "2.92mm",
+   "gender": "jack (female)",
+   "f_max_GHz": 40.0,
+   "mounting": "edge clamp, solderless (narrow block (.350 in), thread-in)",
+   "template": "flange_block",
+   "pcb_thickness_mm": [
+    0.0,
+    1.651
+   ],
+   "launch_pin_od_mm": 0.254,
+   "launch_dielectric_od_mm": 1.6129,
+   "materials": {
+    "housing": "passivated stainless steel (CRES)",
+    "center_contact": "gold-plated BeCu",
+    "bead": "Ultem 1000 (PEI) / Kel-F (PCTFE)",
+    "interface_dielectric": "air",
+    "block": "nickel-plated brass",
+    "launch_pin": "gold-plated BeCu",
+    "launch_dielectric": "PTFE",
+    "screws": "#0-80 SHCS (connector), #1-72 SHCS (board)"
+   },
+   "datasheet_url": "https://mpd.southwestmicrowave.com/wp-content/uploads/End-Launch-Connectors-2024.pdf",
+   "product_url": "https://mpd.southwestmicrowave.com/",
+   "cad": {
+    "step": "on request (catalogue: '3D models for mechanical layouts')",
+    "em_model": "encrypted HFSS model on request (HFSS 18+)",
+    "step_url": null
+   },
+   "origin": "source (catalogue 2024); body dimensions only in drawings (images) -> estimate",
+   "notes": "",
+   "id": "southwest-1092-03a-9"
+  },
+  {
+   "manufacturer": "Southwest Microwave",
+   "part_number": "1093-01A-9",
+   "series": "End Launch",
+   "interface": "2.92mm",
+   "gender": "plug (male)",
+   "f_max_GHz": 40.0,
+   "mounting": "edge clamp, solderless (narrow block (.350 in), thread-in)",
+   "template": "flange_block",
+   "pcb_thickness_mm": [
+    0.0,
+    1.651
+   ],
+   "launch_pin_od_mm": 0.254,
+   "launch_dielectric_od_mm": 1.6129,
+   "materials": {
+    "housing": "passivated stainless steel (CRES)",
+    "center_contact": "gold-plated BeCu",
+    "bead": "Ultem 1000 (PEI) / Kel-F (PCTFE)",
+    "interface_dielectric": "air",
+    "block": "nickel-plated brass",
+    "launch_pin": "gold-plated BeCu",
+    "launch_dielectric": "PTFE",
+    "screws": "#0-80 SHCS (connector), #1-72 SHCS (board)"
+   },
+   "datasheet_url": "https://mpd.southwestmicrowave.com/wp-content/uploads/End-Launch-Connectors-2024.pdf",
+   "product_url": "https://mpd.southwestmicrowave.com/",
+   "cad": {
+    "step": "on request (catalogue: '3D models for mechanical layouts')",
+    "em_model": "encrypted HFSS model on request (HFSS 18+)",
+    "step_url": null
+   },
+   "origin": "source (catalogue 2024); body dimensions only in drawings (images) -> estimate",
+   "notes": "",
+   "id": "southwest-1093-01a-9"
+  },
+  {
+   "manufacturer": "Southwest Microwave",
+   "part_number": "1092-03A-14",
+   "series": "End Launch",
+   "interface": "2.92mm",
+   "gender": "jack (female)",
+   "f_max_GHz": 40.0,
+   "mounting": "edge clamp, solderless (narrow block, thread-in)",
+   "template": "flange_block",
+   "pcb_thickness_mm": [
+    1.016,
+    2.286
+   ],
+   "launch_pin_od_mm": 0.254,
+   "launch_dielectric_od_mm": 1.6129,
+   "materials": {
+    "housing": "passivated stainless steel (CRES)",
+    "center_contact": "gold-plated BeCu",
+    "bead": "Ultem 1000 (PEI) / Kel-F (PCTFE)",
+    "interface_dielectric": "air",
+    "block": "nickel-plated brass",
+    "launch_pin": "gold-plated BeCu",
+    "launch_dielectric": "PTFE",
+    "screws": "#0-80 SHCS (connector), #1-72 SHCS (board)"
+   },
+   "datasheet_url": "https://mpd.southwestmicrowave.com/wp-content/uploads/End-Launch-Connectors-2024.pdf",
+   "product_url": "https://mpd.southwestmicrowave.com/",
+   "cad": {
+    "step": "on request (catalogue: '3D models for mechanical layouts')",
+    "em_model": "encrypted HFSS model on request (HFSS 18+)",
+    "step_url": null
+   },
+   "origin": "source (catalogue 2024); body dimensions only in drawings (images) -> estimate",
+   "notes": "",
+   "id": "southwest-1092-03a-14"
+  },
+  {
+   "manufacturer": "Southwest Microwave",
+   "part_number": "1093-01A-14",
+   "series": "End Launch",
+   "interface": "2.92mm",
+   "gender": "plug (male)",
+   "f_max_GHz": 40.0,
+   "mounting": "edge clamp, solderless (narrow block, thread-in)",
+   "template": "flange_block",
+   "pcb_thickness_mm": [
+    1.016,
+    2.286
+   ],
+   "launch_pin_od_mm": 0.254,
+   "launch_dielectric_od_mm": 1.6129,
+   "materials": {
+    "housing": "passivated stainless steel (CRES)",
+    "center_contact": "gold-plated BeCu",
+    "bead": "Ultem 1000 (PEI) / Kel-F (PCTFE)",
+    "interface_dielectric": "air",
+    "block": "nickel-plated brass",
+    "launch_pin": "gold-plated BeCu",
+    "launch_dielectric": "PTFE",
+    "screws": "#0-80 SHCS (connector), #1-72 SHCS (board)"
+   },
+   "datasheet_url": "https://mpd.southwestmicrowave.com/wp-content/uploads/End-Launch-Connectors-2024.pdf",
+   "product_url": "https://mpd.southwestmicrowave.com/",
+   "cad": {
+    "step": "on request (catalogue: '3D models for mechanical layouts')",
+    "em_model": "encrypted HFSS model on request (HFSS 18+)",
+    "step_url": null
+   },
+   "origin": "source (catalogue 2024); body dimensions only in drawings (images) -> estimate",
+   "notes": "",
+   "id": "southwest-1093-01a-14"
+  },
+  {
+   "manufacturer": "Southwest Microwave",
+   "part_number": "1092-04A-12",
+   "series": "End Launch",
+   "interface": "2.92mm",
+   "gender": "jack (female)",
+   "f_max_GHz": 40.0,
+   "mounting": "edge clamp, solderless (standard block, thread-in)",
+   "template": "flange_block",
+   "pcb_thickness_mm": [
+    0.0,
+    1.651
+   ],
+   "launch_pin_od_mm": 0.1778,
+   "launch_dielectric_od_mm": 0.9906,
+   "materials": {
+    "housing": "passivated stainless steel (CRES)",
+    "center_contact": "gold-plated BeCu",
+    "bead": "Ultem 1000 (PEI) / Kel-F (PCTFE)",
+    "interface_dielectric": "air",
+    "block": "nickel-plated brass",
+    "launch_pin": "gold-plated BeCu",
+    "launch_dielectric": "PTFE",
+    "screws": "#0-80 SHCS (connector), #1-72 SHCS (board)"
+   },
+   "datasheet_url": "https://mpd.southwestmicrowave.com/wp-content/uploads/End-Launch-Connectors-2024.pdf",
+   "product_url": "https://mpd.southwestmicrowave.com/",
+   "cad": {
+    "step": "on request (catalogue: '3D models for mechanical layouts')",
+    "em_model": "encrypted HFSS model on request (HFSS 18+)",
+    "step_url": null
+   },
+   "origin": "source (catalogue 2024); body dimensions only in drawings (images) -> estimate",
+   "notes": "",
+   "id": "southwest-1092-04a-12"
+  },
+  {
+   "manufacturer": "Southwest Microwave",
+   "part_number": "1093-03A-12",
+   "series": "End Launch",
+   "interface": "2.92mm",
+   "gender": "plug (male)",
+   "f_max_GHz": 40.0,
+   "mounting": "edge clamp, solderless (standard block, thread-in)",
+   "template": "flange_block",
+   "pcb_thickness_mm": [
+    0.0,
+    1.651
+   ],
+   "launch_pin_od_mm": 0.1778,
+   "launch_dielectric_od_mm": 0.9906,
+   "materials": {
+    "housing": "passivated stainless steel (CRES)",
+    "center_contact": "gold-plated BeCu",
+    "bead": "Ultem 1000 (PEI) / Kel-F (PCTFE)",
+    "interface_dielectric": "air",
+    "block": "nickel-plated brass",
+    "launch_pin": "gold-plated BeCu",
+    "launch_dielectric": "PTFE",
+    "screws": "#0-80 SHCS (connector), #1-72 SHCS (board)"
+   },
+   "datasheet_url": "https://mpd.southwestmicrowave.com/wp-content/uploads/End-Launch-Connectors-2024.pdf",
+   "product_url": "https://mpd.southwestmicrowave.com/",
+   "cad": {
+    "step": "on request (catalogue: '3D models for mechanical layouts')",
+    "em_model": "encrypted HFSS model on request (HFSS 18+)",
+    "step_url": null
+   },
+   "origin": "source (catalogue 2024); body dimensions only in drawings (images) -> estimate",
+   "notes": "",
+   "id": "southwest-1093-03a-12"
+  },
+  {
+   "manufacturer": "Southwest Microwave",
+   "part_number": "1092-04A-7",
+   "series": "End Launch",
+   "interface": "2.92mm",
+   "gender": "jack (female)",
+   "f_max_GHz": 40.0,
+   "mounting": "edge clamp, solderless (standard block)",
+   "template": "flange_block",
+   "pcb_thickness_mm": [
+    2.286,
+    5.334
+   ],
+   "launch_pin_od_mm": 0.1778,
+   "launch_dielectric_od_mm": 0.9906,
+   "materials": {
+    "housing": "passivated stainless steel (CRES)",
+    "center_contact": "gold-plated BeCu",
+    "bead": "Ultem 1000 (PEI) / Kel-F (PCTFE)",
+    "interface_dielectric": "air",
+    "block": "nickel-plated brass",
+    "launch_pin": "gold-plated BeCu",
+    "launch_dielectric": "PTFE",
+    "screws": "#0-80 SHCS (connector), #1-72 SHCS (board)"
+   },
+   "datasheet_url": "https://mpd.southwestmicrowave.com/wp-content/uploads/End-Launch-Connectors-2024.pdf",
+   "product_url": "https://mpd.southwestmicrowave.com/",
+   "cad": {
+    "step": "on request (catalogue: '3D models for mechanical layouts')",
+    "em_model": "encrypted HFSS model on request (HFSS 18+)",
+    "step_url": null
+   },
+   "origin": "source (catalogue 2024); body dimensions only in drawings (images) -> estimate",
+   "notes": "",
+   "id": "southwest-1092-04a-7"
+  },
+  {
+   "manufacturer": "Southwest Microwave",
+   "part_number": "1093-03A-7",
+   "series": "End Launch",
+   "interface": "2.92mm",
+   "gender": "plug (male)",
+   "f_max_GHz": 40.0,
+   "mounting": "edge clamp, solderless (standard block)",
+   "template": "flange_block",
+   "pcb_thickness_mm": [
+    2.286,
+    5.334
+   ],
+   "launch_pin_od_mm": 0.1778,
+   "launch_dielectric_od_mm": 0.9906,
+   "materials": {
+    "housing": "passivated stainless steel (CRES)",
+    "center_contact": "gold-plated BeCu",
+    "bead": "Ultem 1000 (PEI) / Kel-F (PCTFE)",
+    "interface_dielectric": "air",
+    "block": "nickel-plated brass",
+    "launch_pin": "gold-plated BeCu",
+    "launch_dielectric": "PTFE",
+    "screws": "#0-80 SHCS (connector), #1-72 SHCS (board)"
+   },
+   "datasheet_url": "https://mpd.southwestmicrowave.com/wp-content/uploads/End-Launch-Connectors-2024.pdf",
+   "product_url": "https://mpd.southwestmicrowave.com/",
+   "cad": {
+    "step": "on request (catalogue: '3D models for mechanical layouts')",
+    "em_model": "encrypted HFSS model on request (HFSS 18+)",
+    "step_url": null
+   },
+   "origin": "source (catalogue 2024); body dimensions only in drawings (images) -> estimate",
+   "notes": "",
+   "id": "southwest-1093-03a-7"
+  },
+  {
+   "manufacturer": "Southwest Microwave",
+   "part_number": "1092-04A-8",
+   "series": "End Launch",
+   "interface": "2.92mm",
+   "gender": "jack (female)",
+   "f_max_GHz": 40.0,
+   "mounting": "edge clamp, solderless (standard block)",
+   "template": "flange_block",
+   "pcb_thickness_mm": [
+    4.826,
+    7.62
+   ],
+   "launch_pin_od_mm": 0.1778,
+   "launch_dielectric_od_mm": 0.9906,
+   "materials": {
+    "housing": "passivated stainless steel (CRES)",
+    "center_contact": "gold-plated BeCu",
+    "bead": "Ultem 1000 (PEI) / Kel-F (PCTFE)",
+    "interface_dielectric": "air",
+    "block": "nickel-plated brass",
+    "launch_pin": "gold-plated BeCu",
+    "launch_dielectric": "PTFE",
+    "screws": "#0-80 SHCS (connector), #1-72 SHCS (board)"
+   },
+   "datasheet_url": "https://mpd.southwestmicrowave.com/wp-content/uploads/End-Launch-Connectors-2024.pdf",
+   "product_url": "https://mpd.southwestmicrowave.com/",
+   "cad": {
+    "step": "on request (catalogue: '3D models for mechanical layouts')",
+    "em_model": "encrypted HFSS model on request (HFSS 18+)",
+    "step_url": null
+   },
+   "origin": "source (catalogue 2024); body dimensions only in drawings (images) -> estimate",
+   "notes": "",
+   "id": "southwest-1092-04a-8"
+  },
+  {
+   "manufacturer": "Southwest Microwave",
+   "part_number": "1093-03A-8",
+   "series": "End Launch",
+   "interface": "2.92mm",
+   "gender": "plug (male)",
+   "f_max_GHz": 40.0,
+   "mounting": "edge clamp, solderless (standard block)",
+   "template": "flange_block",
+   "pcb_thickness_mm": [
+    4.826,
+    7.62
+   ],
+   "launch_pin_od_mm": 0.1778,
+   "launch_dielectric_od_mm": 0.9906,
+   "materials": {
+    "housing": "passivated stainless steel (CRES)",
+    "center_contact": "gold-plated BeCu",
+    "bead": "Ultem 1000 (PEI) / Kel-F (PCTFE)",
+    "interface_dielectric": "air",
+    "block": "nickel-plated brass",
+    "launch_pin": "gold-plated BeCu",
+    "launch_dielectric": "PTFE",
+    "screws": "#0-80 SHCS (connector), #1-72 SHCS (board)"
+   },
+   "datasheet_url": "https://mpd.southwestmicrowave.com/wp-content/uploads/End-Launch-Connectors-2024.pdf",
+   "product_url": "https://mpd.southwestmicrowave.com/",
+   "cad": {
+    "step": "on request (catalogue: '3D models for mechanical layouts')",
+    "em_model": "encrypted HFSS model on request (HFSS 18+)",
+    "step_url": null
+   },
+   "origin": "source (catalogue 2024); body dimensions only in drawings (images) -> estimate",
+   "notes": "",
+   "id": "southwest-1093-03a-8"
+  },
+  {
+   "manufacturer": "Southwest Microwave",
+   "part_number": "1092-04A-9",
+   "series": "End Launch",
+   "interface": "2.92mm",
+   "gender": "jack (female)",
+   "f_max_GHz": 40.0,
+   "mounting": "edge clamp, solderless (narrow block (.350 in), thread-in)",
+   "template": "flange_block",
+   "pcb_thickness_mm": [
+    0.0,
+    1.651
+   ],
+   "launch_pin_od_mm": 0.1778,
+   "launch_dielectric_od_mm": 0.9906,
+   "materials": {
+    "housing": "passivated stainless steel (CRES)",
+    "center_contact": "gold-plated BeCu",
+    "bead": "Ultem 1000 (PEI) / Kel-F (PCTFE)",
+    "interface_dielectric": "air",
+    "block": "nickel-plated brass",
+    "launch_pin": "gold-plated BeCu",
+    "launch_dielectric": "PTFE",
+    "screws": "#0-80 SHCS (connector), #1-72 SHCS (board)"
+   },
+   "datasheet_url": "https://mpd.southwestmicrowave.com/wp-content/uploads/End-Launch-Connectors-2024.pdf",
+   "product_url": "https://mpd.southwestmicrowave.com/",
+   "cad": {
+    "step": "on request (catalogue: '3D models for mechanical layouts')",
+    "em_model": "encrypted HFSS model on request (HFSS 18+)",
+    "step_url": null
+   },
+   "origin": "source (catalogue 2024); body dimensions only in drawings (images) -> estimate",
+   "notes": "",
+   "id": "southwest-1092-04a-9"
+  },
+  {
+   "manufacturer": "Southwest Microwave",
+   "part_number": "1093-03A-9",
+   "series": "End Launch",
+   "interface": "2.92mm",
+   "gender": "plug (male)",
+   "f_max_GHz": 40.0,
+   "mounting": "edge clamp, solderless (narrow block (.350 in), thread-in)",
+   "template": "flange_block",
+   "pcb_thickness_mm": [
+    0.0,
+    1.651
+   ],
+   "launch_pin_od_mm": 0.1778,
+   "launch_dielectric_od_mm": 0.9906,
+   "materials": {
+    "housing": "passivated stainless steel (CRES)",
+    "center_contact": "gold-plated BeCu",
+    "bead": "Ultem 1000 (PEI) / Kel-F (PCTFE)",
+    "interface_dielectric": "air",
+    "block": "nickel-plated brass",
+    "launch_pin": "gold-plated BeCu",
+    "launch_dielectric": "PTFE",
+    "screws": "#0-80 SHCS (connector), #1-72 SHCS (board)"
+   },
+   "datasheet_url": "https://mpd.southwestmicrowave.com/wp-content/uploads/End-Launch-Connectors-2024.pdf",
+   "product_url": "https://mpd.southwestmicrowave.com/",
+   "cad": {
+    "step": "on request (catalogue: '3D models for mechanical layouts')",
+    "em_model": "encrypted HFSS model on request (HFSS 18+)",
+    "step_url": null
+   },
+   "origin": "source (catalogue 2024); body dimensions only in drawings (images) -> estimate",
+   "notes": "",
+   "id": "southwest-1093-03a-9"
+  },
+  {
+   "manufacturer": "Southwest Microwave",
+   "part_number": "1092-04A-14",
+   "series": "End Launch",
+   "interface": "2.92mm",
+   "gender": "jack (female)",
+   "f_max_GHz": 40.0,
+   "mounting": "edge clamp, solderless (narrow block, thread-in)",
+   "template": "flange_block",
+   "pcb_thickness_mm": [
+    1.016,
+    2.286
+   ],
+   "launch_pin_od_mm": 0.1778,
+   "launch_dielectric_od_mm": 0.9906,
+   "materials": {
+    "housing": "passivated stainless steel (CRES)",
+    "center_contact": "gold-plated BeCu",
+    "bead": "Ultem 1000 (PEI) / Kel-F (PCTFE)",
+    "interface_dielectric": "air",
+    "block": "nickel-plated brass",
+    "launch_pin": "gold-plated BeCu",
+    "launch_dielectric": "PTFE",
+    "screws": "#0-80 SHCS (connector), #1-72 SHCS (board)"
+   },
+   "datasheet_url": "https://mpd.southwestmicrowave.com/wp-content/uploads/End-Launch-Connectors-2024.pdf",
+   "product_url": "https://mpd.southwestmicrowave.com/",
+   "cad": {
+    "step": "on request (catalogue: '3D models for mechanical layouts')",
+    "em_model": "encrypted HFSS model on request (HFSS 18+)",
+    "step_url": null
+   },
+   "origin": "source (catalogue 2024); body dimensions only in drawings (images) -> estimate",
+   "notes": "",
+   "id": "southwest-1092-04a-14"
+  },
+  {
+   "manufacturer": "Southwest Microwave",
+   "part_number": "1093-03A-14",
+   "series": "End Launch",
+   "interface": "2.92mm",
+   "gender": "plug (male)",
+   "f_max_GHz": 40.0,
+   "mounting": "edge clamp, solderless (narrow block, thread-in)",
+   "template": "flange_block",
+   "pcb_thickness_mm": [
+    1.016,
+    2.286
+   ],
+   "launch_pin_od_mm": 0.1778,
+   "launch_dielectric_od_mm": 0.9906,
+   "materials": {
+    "housing": "passivated stainless steel (CRES)",
+    "center_contact": "gold-plated BeCu",
+    "bead": "Ultem 1000 (PEI) / Kel-F (PCTFE)",
+    "interface_dielectric": "air",
+    "block": "nickel-plated brass",
+    "launch_pin": "gold-plated BeCu",
+    "launch_dielectric": "PTFE",
+    "screws": "#0-80 SHCS (connector), #1-72 SHCS (board)"
+   },
+   "datasheet_url": "https://mpd.southwestmicrowave.com/wp-content/uploads/End-Launch-Connectors-2024.pdf",
+   "product_url": "https://mpd.southwestmicrowave.com/",
+   "cad": {
+    "step": "on request (catalogue: '3D models for mechanical layouts')",
+    "em_model": "encrypted HFSS model on request (HFSS 18+)",
+    "step_url": null
+   },
+   "origin": "source (catalogue 2024); body dimensions only in drawings (images) -> estimate",
+   "notes": "",
+   "id": "southwest-1093-03a-14"
+  },
+  {
+   "manufacturer": "Southwest Microwave",
+   "part_number": "1092-01A-12",
+   "series": "End Launch",
+   "interface": "2.92mm",
+   "gender": "jack (female)",
+   "f_max_GHz": 40.0,
+   "mounting": "edge clamp, solderless (standard block, thread-in)",
+   "template": "flange_block",
+   "pcb_thickness_mm": [
+    0.0,
+    1.651
+   ],
+   "launch_pin_od_mm": 0.127,
+   "launch_dielectric_od_mm": 0.7366,
+   "materials": {
+    "housing": "passivated stainless steel (CRES)",
+    "center_contact": "gold-plated BeCu",
+    "bead": "Ultem 1000 (PEI) / Kel-F (PCTFE)",
+    "interface_dielectric": "air",
+    "block": "nickel-plated brass",
+    "launch_pin": "gold-plated BeCu",
+    "launch_dielectric": "PTFE",
+    "screws": "#0-80 SHCS (connector), #1-72 SHCS (board)"
+   },
+   "datasheet_url": "https://mpd.southwestmicrowave.com/wp-content/uploads/End-Launch-Connectors-2024.pdf",
+   "product_url": "https://mpd.southwestmicrowave.com/",
+   "cad": {
+    "step": "on request (catalogue: '3D models for mechanical layouts')",
+    "em_model": "encrypted HFSS model on request (HFSS 18+)",
+    "step_url": null
+   },
+   "origin": "source (catalogue 2024); body dimensions only in drawings (images) -> estimate",
+   "notes": "",
+   "id": "southwest-1092-01a-12"
+  },
+  {
+   "manufacturer": "Southwest Microwave",
+   "part_number": "1093-04A-12",
+   "series": "End Launch",
+   "interface": "2.92mm",
+   "gender": "plug (male)",
+   "f_max_GHz": 40.0,
+   "mounting": "edge clamp, solderless (standard block, thread-in)",
+   "template": "flange_block",
+   "pcb_thickness_mm": [
+    0.0,
+    1.651
+   ],
+   "launch_pin_od_mm": 0.127,
+   "launch_dielectric_od_mm": 0.7366,
+   "materials": {
+    "housing": "passivated stainless steel (CRES)",
+    "center_contact": "gold-plated BeCu",
+    "bead": "Ultem 1000 (PEI) / Kel-F (PCTFE)",
+    "interface_dielectric": "air",
+    "block": "nickel-plated brass",
+    "launch_pin": "gold-plated BeCu",
+    "launch_dielectric": "PTFE",
+    "screws": "#0-80 SHCS (connector), #1-72 SHCS (board)"
+   },
+   "datasheet_url": "https://mpd.southwestmicrowave.com/wp-content/uploads/End-Launch-Connectors-2024.pdf",
+   "product_url": "https://mpd.southwestmicrowave.com/",
+   "cad": {
+    "step": "on request (catalogue: '3D models for mechanical layouts')",
+    "em_model": "encrypted HFSS model on request (HFSS 18+)",
+    "step_url": null
+   },
+   "origin": "source (catalogue 2024); body dimensions only in drawings (images) -> estimate",
+   "notes": "",
+   "id": "southwest-1093-04a-12"
+  },
+  {
+   "manufacturer": "Southwest Microwave",
+   "part_number": "1092-01A-7",
+   "series": "End Launch",
+   "interface": "2.92mm",
+   "gender": "jack (female)",
+   "f_max_GHz": 40.0,
+   "mounting": "edge clamp, solderless (standard block)",
+   "template": "flange_block",
+   "pcb_thickness_mm": [
+    2.286,
+    5.334
+   ],
+   "launch_pin_od_mm": 0.127,
+   "launch_dielectric_od_mm": 0.7366,
+   "materials": {
+    "housing": "passivated stainless steel (CRES)",
+    "center_contact": "gold-plated BeCu",
+    "bead": "Ultem 1000 (PEI) / Kel-F (PCTFE)",
+    "interface_dielectric": "air",
+    "block": "nickel-plated brass",
+    "launch_pin": "gold-plated BeCu",
+    "launch_dielectric": "PTFE",
+    "screws": "#0-80 SHCS (connector), #1-72 SHCS (board)"
+   },
+   "datasheet_url": "https://mpd.southwestmicrowave.com/wp-content/uploads/End-Launch-Connectors-2024.pdf",
+   "product_url": "https://mpd.southwestmicrowave.com/",
+   "cad": {
+    "step": "on request (catalogue: '3D models for mechanical layouts')",
+    "em_model": "encrypted HFSS model on request (HFSS 18+)",
+    "step_url": null
+   },
+   "origin": "source (catalogue 2024); body dimensions only in drawings (images) -> estimate",
+   "notes": "",
+   "id": "southwest-1092-01a-7"
+  },
+  {
+   "manufacturer": "Southwest Microwave",
+   "part_number": "1093-04A-7",
+   "series": "End Launch",
+   "interface": "2.92mm",
+   "gender": "plug (male)",
+   "f_max_GHz": 40.0,
+   "mounting": "edge clamp, solderless (standard block)",
+   "template": "flange_block",
+   "pcb_thickness_mm": [
+    2.286,
+    5.334
+   ],
+   "launch_pin_od_mm": 0.127,
+   "launch_dielectric_od_mm": 0.7366,
+   "materials": {
+    "housing": "passivated stainless steel (CRES)",
+    "center_contact": "gold-plated BeCu",
+    "bead": "Ultem 1000 (PEI) / Kel-F (PCTFE)",
+    "interface_dielectric": "air",
+    "block": "nickel-plated brass",
+    "launch_pin": "gold-plated BeCu",
+    "launch_dielectric": "PTFE",
+    "screws": "#0-80 SHCS (connector), #1-72 SHCS (board)"
+   },
+   "datasheet_url": "https://mpd.southwestmicrowave.com/wp-content/uploads/End-Launch-Connectors-2024.pdf",
+   "product_url": "https://mpd.southwestmicrowave.com/",
+   "cad": {
+    "step": "on request (catalogue: '3D models for mechanical layouts')",
+    "em_model": "encrypted HFSS model on request (HFSS 18+)",
+    "step_url": null
+   },
+   "origin": "source (catalogue 2024); body dimensions only in drawings (images) -> estimate",
+   "notes": "",
+   "id": "southwest-1093-04a-7"
+  },
+  {
+   "manufacturer": "Southwest Microwave",
+   "part_number": "1092-01A-8",
+   "series": "End Launch",
+   "interface": "2.92mm",
+   "gender": "jack (female)",
+   "f_max_GHz": 40.0,
+   "mounting": "edge clamp, solderless (standard block)",
+   "template": "flange_block",
+   "pcb_thickness_mm": [
+    4.826,
+    7.62
+   ],
+   "launch_pin_od_mm": 0.127,
+   "launch_dielectric_od_mm": 0.7366,
+   "materials": {
+    "housing": "passivated stainless steel (CRES)",
+    "center_contact": "gold-plated BeCu",
+    "bead": "Ultem 1000 (PEI) / Kel-F (PCTFE)",
+    "interface_dielectric": "air",
+    "block": "nickel-plated brass",
+    "launch_pin": "gold-plated BeCu",
+    "launch_dielectric": "PTFE",
+    "screws": "#0-80 SHCS (connector), #1-72 SHCS (board)"
+   },
+   "datasheet_url": "https://mpd.southwestmicrowave.com/wp-content/uploads/End-Launch-Connectors-2024.pdf",
+   "product_url": "https://mpd.southwestmicrowave.com/",
+   "cad": {
+    "step": "on request (catalogue: '3D models for mechanical layouts')",
+    "em_model": "encrypted HFSS model on request (HFSS 18+)",
+    "step_url": null
+   },
+   "origin": "source (catalogue 2024); body dimensions only in drawings (images) -> estimate",
+   "notes": "",
+   "id": "southwest-1092-01a-8"
+  },
+  {
+   "manufacturer": "Southwest Microwave",
+   "part_number": "1093-04A-8",
+   "series": "End Launch",
+   "interface": "2.92mm",
+   "gender": "plug (male)",
+   "f_max_GHz": 40.0,
+   "mounting": "edge clamp, solderless (standard block)",
+   "template": "flange_block",
+   "pcb_thickness_mm": [
+    4.826,
+    7.62
+   ],
+   "launch_pin_od_mm": 0.127,
+   "launch_dielectric_od_mm": 0.7366,
+   "materials": {
+    "housing": "passivated stainless steel (CRES)",
+    "center_contact": "gold-plated BeCu",
+    "bead": "Ultem 1000 (PEI) / Kel-F (PCTFE)",
+    "interface_dielectric": "air",
+    "block": "nickel-plated brass",
+    "launch_pin": "gold-plated BeCu",
+    "launch_dielectric": "PTFE",
+    "screws": "#0-80 SHCS (connector), #1-72 SHCS (board)"
+   },
+   "datasheet_url": "https://mpd.southwestmicrowave.com/wp-content/uploads/End-Launch-Connectors-2024.pdf",
+   "product_url": "https://mpd.southwestmicrowave.com/",
+   "cad": {
+    "step": "on request (catalogue: '3D models for mechanical layouts')",
+    "em_model": "encrypted HFSS model on request (HFSS 18+)",
+    "step_url": null
+   },
+   "origin": "source (catalogue 2024); body dimensions only in drawings (images) -> estimate",
+   "notes": "",
+   "id": "southwest-1093-04a-8"
+  },
+  {
+   "manufacturer": "Southwest Microwave",
+   "part_number": "1092-01A-9",
+   "series": "End Launch",
+   "interface": "2.92mm",
+   "gender": "jack (female)",
+   "f_max_GHz": 40.0,
+   "mounting": "edge clamp, solderless (narrow block (.350 in), thread-in)",
+   "template": "flange_block",
+   "pcb_thickness_mm": [
+    0.0,
+    1.651
+   ],
+   "launch_pin_od_mm": 0.127,
+   "launch_dielectric_od_mm": 0.7366,
+   "materials": {
+    "housing": "passivated stainless steel (CRES)",
+    "center_contact": "gold-plated BeCu",
+    "bead": "Ultem 1000 (PEI) / Kel-F (PCTFE)",
+    "interface_dielectric": "air",
+    "block": "nickel-plated brass",
+    "launch_pin": "gold-plated BeCu",
+    "launch_dielectric": "PTFE",
+    "screws": "#0-80 SHCS (connector), #1-72 SHCS (board)"
+   },
+   "datasheet_url": "https://mpd.southwestmicrowave.com/wp-content/uploads/End-Launch-Connectors-2024.pdf",
+   "product_url": "https://mpd.southwestmicrowave.com/",
+   "cad": {
+    "step": "on request (catalogue: '3D models for mechanical layouts')",
+    "em_model": "encrypted HFSS model on request (HFSS 18+)",
+    "step_url": null
+   },
+   "origin": "source (catalogue 2024); body dimensions only in drawings (images) -> estimate",
+   "notes": "",
+   "id": "southwest-1092-01a-9"
+  },
+  {
+   "manufacturer": "Southwest Microwave",
+   "part_number": "1093-04A-9",
+   "series": "End Launch",
+   "interface": "2.92mm",
+   "gender": "plug (male)",
+   "f_max_GHz": 40.0,
+   "mounting": "edge clamp, solderless (narrow block (.350 in), thread-in)",
+   "template": "flange_block",
+   "pcb_thickness_mm": [
+    0.0,
+    1.651
+   ],
+   "launch_pin_od_mm": 0.127,
+   "launch_dielectric_od_mm": 0.7366,
+   "materials": {
+    "housing": "passivated stainless steel (CRES)",
+    "center_contact": "gold-plated BeCu",
+    "bead": "Ultem 1000 (PEI) / Kel-F (PCTFE)",
+    "interface_dielectric": "air",
+    "block": "nickel-plated brass",
+    "launch_pin": "gold-plated BeCu",
+    "launch_dielectric": "PTFE",
+    "screws": "#0-80 SHCS (connector), #1-72 SHCS (board)"
+   },
+   "datasheet_url": "https://mpd.southwestmicrowave.com/wp-content/uploads/End-Launch-Connectors-2024.pdf",
+   "product_url": "https://mpd.southwestmicrowave.com/",
+   "cad": {
+    "step": "on request (catalogue: '3D models for mechanical layouts')",
+    "em_model": "encrypted HFSS model on request (HFSS 18+)",
+    "step_url": null
+   },
+   "origin": "source (catalogue 2024); body dimensions only in drawings (images) -> estimate",
+   "notes": "",
+   "id": "southwest-1093-04a-9"
+  },
+  {
+   "manufacturer": "Southwest Microwave",
+   "part_number": "1092-01A-14",
+   "series": "End Launch",
+   "interface": "2.92mm",
+   "gender": "jack (female)",
+   "f_max_GHz": 40.0,
+   "mounting": "edge clamp, solderless (narrow block, thread-in)",
+   "template": "flange_block",
+   "pcb_thickness_mm": [
+    1.016,
+    2.286
+   ],
+   "launch_pin_od_mm": 0.127,
+   "launch_dielectric_od_mm": 0.7366,
+   "materials": {
+    "housing": "passivated stainless steel (CRES)",
+    "center_contact": "gold-plated BeCu",
+    "bead": "Ultem 1000 (PEI) / Kel-F (PCTFE)",
+    "interface_dielectric": "air",
+    "block": "nickel-plated brass",
+    "launch_pin": "gold-plated BeCu",
+    "launch_dielectric": "PTFE",
+    "screws": "#0-80 SHCS (connector), #1-72 SHCS (board)"
+   },
+   "datasheet_url": "https://mpd.southwestmicrowave.com/wp-content/uploads/End-Launch-Connectors-2024.pdf",
+   "product_url": "https://mpd.southwestmicrowave.com/",
+   "cad": {
+    "step": "on request (catalogue: '3D models for mechanical layouts')",
+    "em_model": "encrypted HFSS model on request (HFSS 18+)",
+    "step_url": null
+   },
+   "origin": "source (catalogue 2024); body dimensions only in drawings (images) -> estimate",
+   "notes": "",
+   "id": "southwest-1092-01a-14"
+  },
+  {
+   "manufacturer": "Southwest Microwave",
+   "part_number": "1093-04A-14",
+   "series": "End Launch",
+   "interface": "2.92mm",
+   "gender": "plug (male)",
+   "f_max_GHz": 40.0,
+   "mounting": "edge clamp, solderless (narrow block, thread-in)",
+   "template": "flange_block",
+   "pcb_thickness_mm": [
+    1.016,
+    2.286
+   ],
+   "launch_pin_od_mm": 0.127,
+   "launch_dielectric_od_mm": 0.7366,
+   "materials": {
+    "housing": "passivated stainless steel (CRES)",
+    "center_contact": "gold-plated BeCu",
+    "bead": "Ultem 1000 (PEI) / Kel-F (PCTFE)",
+    "interface_dielectric": "air",
+    "block": "nickel-plated brass",
+    "launch_pin": "gold-plated BeCu",
+    "launch_dielectric": "PTFE",
+    "screws": "#0-80 SHCS (connector), #1-72 SHCS (board)"
+   },
+   "datasheet_url": "https://mpd.southwestmicrowave.com/wp-content/uploads/End-Launch-Connectors-2024.pdf",
+   "product_url": "https://mpd.southwestmicrowave.com/",
+   "cad": {
+    "step": "on request (catalogue: '3D models for mechanical layouts')",
+    "em_model": "encrypted HFSS model on request (HFSS 18+)",
+    "step_url": null
+   },
+   "origin": "source (catalogue 2024); body dimensions only in drawings (images) -> estimate",
+   "notes": "",
+   "id": "southwest-1093-04a-14"
+  },
+  {
+   "manufacturer": "Southwest Microwave",
+   "part_number": "1492-02A-12",
+   "series": "End Launch",
+   "interface": "2.4mm",
+   "gender": "jack (female)",
+   "f_max_GHz": 50.0,
+   "mounting": "edge clamp, solderless (standard block, thread-in)",
+   "template": "flange_block",
+   "pcb_thickness_mm": [
+    0.0,
+    1.651
+   ],
+   "launch_pin_od_mm": 0.254,
+   "launch_dielectric_od_mm": 1.6129,
+   "materials": {
+    "housing": "passivated stainless steel (CRES)",
+    "center_contact": "gold-plated BeCu",
+    "bead": "Ultem 1000 (PEI) / Kel-F (PCTFE)",
+    "interface_dielectric": "air",
+    "block": "nickel-plated brass",
+    "launch_pin": "gold-plated BeCu",
+    "launch_dielectric": "PTFE",
+    "screws": "#0-80 SHCS (connector), #1-72 SHCS (board)"
+   },
+   "datasheet_url": "https://mpd.southwestmicrowave.com/wp-content/uploads/End-Launch-Connectors-2024.pdf",
+   "product_url": "https://mpd.southwestmicrowave.com/",
+   "cad": {
+    "step": "on request (catalogue: '3D models for mechanical layouts')",
+    "em_model": "encrypted HFSS model on request (HFSS 18+)",
+    "step_url": null
+   },
+   "origin": "source (catalogue 2024); body dimensions only in drawings (images) -> estimate",
+   "notes": "",
+   "id": "southwest-1492-02a-12"
+  },
+  {
+   "manufacturer": "Southwest Microwave",
+   "part_number": "1493-01A-12",
+   "series": "End Launch",
+   "interface": "2.4mm",
+   "gender": "plug (male)",
+   "f_max_GHz": 50.0,
+   "mounting": "edge clamp, solderless (standard block, thread-in)",
+   "template": "flange_block",
+   "pcb_thickness_mm": [
+    0.0,
+    1.651
+   ],
+   "launch_pin_od_mm": 0.254,
+   "launch_dielectric_od_mm": 1.6129,
+   "materials": {
+    "housing": "passivated stainless steel (CRES)",
+    "center_contact": "gold-plated BeCu",
+    "bead": "Ultem 1000 (PEI) / Kel-F (PCTFE)",
+    "interface_dielectric": "air",
+    "block": "nickel-plated brass",
+    "launch_pin": "gold-plated BeCu",
+    "launch_dielectric": "PTFE",
+    "screws": "#0-80 SHCS (connector), #1-72 SHCS (board)"
+   },
+   "datasheet_url": "https://mpd.southwestmicrowave.com/wp-content/uploads/End-Launch-Connectors-2024.pdf",
+   "product_url": "https://mpd.southwestmicrowave.com/",
+   "cad": {
+    "step": "on request (catalogue: '3D models for mechanical layouts')",
+    "em_model": "encrypted HFSS model on request (HFSS 18+)",
+    "step_url": null
+   },
+   "origin": "source (catalogue 2024); body dimensions only in drawings (images) -> estimate",
+   "notes": "",
+   "id": "southwest-1493-01a-12"
+  },
+  {
+   "manufacturer": "Southwest Microwave",
+   "part_number": "1492-02A-7",
+   "series": "End Launch",
+   "interface": "2.4mm",
+   "gender": "jack (female)",
+   "f_max_GHz": 50.0,
+   "mounting": "edge clamp, solderless (standard block)",
+   "template": "flange_block",
+   "pcb_thickness_mm": [
+    2.286,
+    5.334
+   ],
+   "launch_pin_od_mm": 0.254,
+   "launch_dielectric_od_mm": 1.6129,
+   "materials": {
+    "housing": "passivated stainless steel (CRES)",
+    "center_contact": "gold-plated BeCu",
+    "bead": "Ultem 1000 (PEI) / Kel-F (PCTFE)",
+    "interface_dielectric": "air",
+    "block": "nickel-plated brass",
+    "launch_pin": "gold-plated BeCu",
+    "launch_dielectric": "PTFE",
+    "screws": "#0-80 SHCS (connector), #1-72 SHCS (board)"
+   },
+   "datasheet_url": "https://mpd.southwestmicrowave.com/wp-content/uploads/End-Launch-Connectors-2024.pdf",
+   "product_url": "https://mpd.southwestmicrowave.com/",
+   "cad": {
+    "step": "on request (catalogue: '3D models for mechanical layouts')",
+    "em_model": "encrypted HFSS model on request (HFSS 18+)",
+    "step_url": null
+   },
+   "origin": "source (catalogue 2024); body dimensions only in drawings (images) -> estimate",
+   "notes": "",
+   "id": "southwest-1492-02a-7"
+  },
+  {
+   "manufacturer": "Southwest Microwave",
+   "part_number": "1493-01A-7",
+   "series": "End Launch",
+   "interface": "2.4mm",
+   "gender": "plug (male)",
+   "f_max_GHz": 50.0,
+   "mounting": "edge clamp, solderless (standard block)",
+   "template": "flange_block",
+   "pcb_thickness_mm": [
+    2.286,
+    5.334
+   ],
+   "launch_pin_od_mm": 0.254,
+   "launch_dielectric_od_mm": 1.6129,
+   "materials": {
+    "housing": "passivated stainless steel (CRES)",
+    "center_contact": "gold-plated BeCu",
+    "bead": "Ultem 1000 (PEI) / Kel-F (PCTFE)",
+    "interface_dielectric": "air",
+    "block": "nickel-plated brass",
+    "launch_pin": "gold-plated BeCu",
+    "launch_dielectric": "PTFE",
+    "screws": "#0-80 SHCS (connector), #1-72 SHCS (board)"
+   },
+   "datasheet_url": "https://mpd.southwestmicrowave.com/wp-content/uploads/End-Launch-Connectors-2024.pdf",
+   "product_url": "https://mpd.southwestmicrowave.com/",
+   "cad": {
+    "step": "on request (catalogue: '3D models for mechanical layouts')",
+    "em_model": "encrypted HFSS model on request (HFSS 18+)",
+    "step_url": null
+   },
+   "origin": "source (catalogue 2024); body dimensions only in drawings (images) -> estimate",
+   "notes": "",
+   "id": "southwest-1493-01a-7"
+  },
+  {
+   "manufacturer": "Southwest Microwave",
+   "part_number": "1492-02A-8",
+   "series": "End Launch",
+   "interface": "2.4mm",
+   "gender": "jack (female)",
+   "f_max_GHz": 50.0,
+   "mounting": "edge clamp, solderless (standard block)",
+   "template": "flange_block",
+   "pcb_thickness_mm": [
+    4.826,
+    7.62
+   ],
+   "launch_pin_od_mm": 0.254,
+   "launch_dielectric_od_mm": 1.6129,
+   "materials": {
+    "housing": "passivated stainless steel (CRES)",
+    "center_contact": "gold-plated BeCu",
+    "bead": "Ultem 1000 (PEI) / Kel-F (PCTFE)",
+    "interface_dielectric": "air",
+    "block": "nickel-plated brass",
+    "launch_pin": "gold-plated BeCu",
+    "launch_dielectric": "PTFE",
+    "screws": "#0-80 SHCS (connector), #1-72 SHCS (board)"
+   },
+   "datasheet_url": "https://mpd.southwestmicrowave.com/wp-content/uploads/End-Launch-Connectors-2024.pdf",
+   "product_url": "https://mpd.southwestmicrowave.com/",
+   "cad": {
+    "step": "on request (catalogue: '3D models for mechanical layouts')",
+    "em_model": "encrypted HFSS model on request (HFSS 18+)",
+    "step_url": null
+   },
+   "origin": "source (catalogue 2024); body dimensions only in drawings (images) -> estimate",
+   "notes": "",
+   "id": "southwest-1492-02a-8"
+  },
+  {
+   "manufacturer": "Southwest Microwave",
+   "part_number": "1493-01A-8",
+   "series": "End Launch",
+   "interface": "2.4mm",
+   "gender": "plug (male)",
+   "f_max_GHz": 50.0,
+   "mounting": "edge clamp, solderless (standard block)",
+   "template": "flange_block",
+   "pcb_thickness_mm": [
+    4.826,
+    7.62
+   ],
+   "launch_pin_od_mm": 0.254,
+   "launch_dielectric_od_mm": 1.6129,
+   "materials": {
+    "housing": "passivated stainless steel (CRES)",
+    "center_contact": "gold-plated BeCu",
+    "bead": "Ultem 1000 (PEI) / Kel-F (PCTFE)",
+    "interface_dielectric": "air",
+    "block": "nickel-plated brass",
+    "launch_pin": "gold-plated BeCu",
+    "launch_dielectric": "PTFE",
+    "screws": "#0-80 SHCS (connector), #1-72 SHCS (board)"
+   },
+   "datasheet_url": "https://mpd.southwestmicrowave.com/wp-content/uploads/End-Launch-Connectors-2024.pdf",
+   "product_url": "https://mpd.southwestmicrowave.com/",
+   "cad": {
+    "step": "on request (catalogue: '3D models for mechanical layouts')",
+    "em_model": "encrypted HFSS model on request (HFSS 18+)",
+    "step_url": null
+   },
+   "origin": "source (catalogue 2024); body dimensions only in drawings (images) -> estimate",
+   "notes": "",
+   "id": "southwest-1493-01a-8"
+  },
+  {
+   "manufacturer": "Southwest Microwave",
+   "part_number": "1492-02A-9",
+   "series": "End Launch",
+   "interface": "2.4mm",
+   "gender": "jack (female)",
+   "f_max_GHz": 50.0,
+   "mounting": "edge clamp, solderless (narrow block (.350 in), thread-in)",
+   "template": "flange_block",
+   "pcb_thickness_mm": [
+    0.0,
+    1.651
+   ],
+   "launch_pin_od_mm": 0.254,
+   "launch_dielectric_od_mm": 1.6129,
+   "materials": {
+    "housing": "passivated stainless steel (CRES)",
+    "center_contact": "gold-plated BeCu",
+    "bead": "Ultem 1000 (PEI) / Kel-F (PCTFE)",
+    "interface_dielectric": "air",
+    "block": "nickel-plated brass",
+    "launch_pin": "gold-plated BeCu",
+    "launch_dielectric": "PTFE",
+    "screws": "#0-80 SHCS (connector), #1-72 SHCS (board)"
+   },
+   "datasheet_url": "https://mpd.southwestmicrowave.com/wp-content/uploads/End-Launch-Connectors-2024.pdf",
+   "product_url": "https://mpd.southwestmicrowave.com/",
+   "cad": {
+    "step": "on request (catalogue: '3D models for mechanical layouts')",
+    "em_model": "encrypted HFSS model on request (HFSS 18+)",
+    "step_url": null
+   },
+   "origin": "source (catalogue 2024); body dimensions only in drawings (images) -> estimate",
+   "notes": "",
+   "id": "southwest-1492-02a-9"
+  },
+  {
+   "manufacturer": "Southwest Microwave",
+   "part_number": "1493-02A-9",
+   "series": "End Launch",
+   "interface": "2.4mm",
+   "gender": "plug (male)",
+   "f_max_GHz": 50.0,
+   "mounting": "edge clamp, solderless (narrow block (.350 in), thread-in)",
+   "template": "flange_block",
+   "pcb_thickness_mm": [
+    0.0,
+    1.651
+   ],
+   "launch_pin_od_mm": 0.254,
+   "launch_dielectric_od_mm": 1.6129,
+   "materials": {
+    "housing": "passivated stainless steel (CRES)",
+    "center_contact": "gold-plated BeCu",
+    "bead": "Ultem 1000 (PEI) / Kel-F (PCTFE)",
+    "interface_dielectric": "air",
+    "block": "nickel-plated brass",
+    "launch_pin": "gold-plated BeCu",
+    "launch_dielectric": "PTFE",
+    "screws": "#0-80 SHCS (connector), #1-72 SHCS (board)"
+   },
+   "datasheet_url": "https://mpd.southwestmicrowave.com/wp-content/uploads/End-Launch-Connectors-2024.pdf",
+   "product_url": "https://mpd.southwestmicrowave.com/",
+   "cad": {
+    "step": "on request (catalogue: '3D models for mechanical layouts')",
+    "em_model": "encrypted HFSS model on request (HFSS 18+)",
+    "step_url": null
+   },
+   "origin": "source (catalogue 2024); body dimensions only in drawings (images) -> estimate",
+   "notes": "",
+   "id": "southwest-1493-02a-9"
+  },
+  {
+   "manufacturer": "Southwest Microwave",
+   "part_number": "1492-02A-14",
+   "series": "End Launch",
+   "interface": "2.4mm",
+   "gender": "jack (female)",
+   "f_max_GHz": 50.0,
+   "mounting": "edge clamp, solderless (narrow block, thread-in)",
+   "template": "flange_block",
+   "pcb_thickness_mm": [
+    1.016,
+    2.286
+   ],
+   "launch_pin_od_mm": 0.254,
+   "launch_dielectric_od_mm": 1.6129,
+   "materials": {
+    "housing": "passivated stainless steel (CRES)",
+    "center_contact": "gold-plated BeCu",
+    "bead": "Ultem 1000 (PEI) / Kel-F (PCTFE)",
+    "interface_dielectric": "air",
+    "block": "nickel-plated brass",
+    "launch_pin": "gold-plated BeCu",
+    "launch_dielectric": "PTFE",
+    "screws": "#0-80 SHCS (connector), #1-72 SHCS (board)"
+   },
+   "datasheet_url": "https://mpd.southwestmicrowave.com/wp-content/uploads/End-Launch-Connectors-2024.pdf",
+   "product_url": "https://mpd.southwestmicrowave.com/",
+   "cad": {
+    "step": "on request (catalogue: '3D models for mechanical layouts')",
+    "em_model": "encrypted HFSS model on request (HFSS 18+)",
+    "step_url": null
+   },
+   "origin": "source (catalogue 2024); body dimensions only in drawings (images) -> estimate",
+   "notes": "",
+   "id": "southwest-1492-02a-14"
+  },
+  {
+   "manufacturer": "Southwest Microwave",
+   "part_number": "1493-02A-14",
+   "series": "End Launch",
+   "interface": "2.4mm",
+   "gender": "plug (male)",
+   "f_max_GHz": 50.0,
+   "mounting": "edge clamp, solderless (narrow block, thread-in)",
+   "template": "flange_block",
+   "pcb_thickness_mm": [
+    1.016,
+    2.286
+   ],
+   "launch_pin_od_mm": 0.254,
+   "launch_dielectric_od_mm": 1.6129,
+   "materials": {
+    "housing": "passivated stainless steel (CRES)",
+    "center_contact": "gold-plated BeCu",
+    "bead": "Ultem 1000 (PEI) / Kel-F (PCTFE)",
+    "interface_dielectric": "air",
+    "block": "nickel-plated brass",
+    "launch_pin": "gold-plated BeCu",
+    "launch_dielectric": "PTFE",
+    "screws": "#0-80 SHCS (connector), #1-72 SHCS (board)"
+   },
+   "datasheet_url": "https://mpd.southwestmicrowave.com/wp-content/uploads/End-Launch-Connectors-2024.pdf",
+   "product_url": "https://mpd.southwestmicrowave.com/",
+   "cad": {
+    "step": "on request (catalogue: '3D models for mechanical layouts')",
+    "em_model": "encrypted HFSS model on request (HFSS 18+)",
+    "step_url": null
+   },
+   "origin": "source (catalogue 2024); body dimensions only in drawings (images) -> estimate",
+   "notes": "",
+   "id": "southwest-1493-02a-14"
+  },
+  {
+   "manufacturer": "Southwest Microwave",
+   "part_number": "1492-03A-12",
+   "series": "End Launch",
+   "interface": "2.4mm",
+   "gender": "jack (female)",
+   "f_max_GHz": 50.0,
+   "mounting": "edge clamp, solderless (standard block, thread-in)",
+   "template": "flange_block",
+   "pcb_thickness_mm": [
+    0.0,
+    1.651
+   ],
+   "launch_pin_od_mm": 0.1778,
+   "launch_dielectric_od_mm": 0.9906,
+   "materials": {
+    "housing": "passivated stainless steel (CRES)",
+    "center_contact": "gold-plated BeCu",
+    "bead": "Ultem 1000 (PEI) / Kel-F (PCTFE)",
+    "interface_dielectric": "air",
+    "block": "nickel-plated brass",
+    "launch_pin": "gold-plated BeCu",
+    "launch_dielectric": "PTFE",
+    "screws": "#0-80 SHCS (connector), #1-72 SHCS (board)"
+   },
+   "datasheet_url": "https://mpd.southwestmicrowave.com/wp-content/uploads/End-Launch-Connectors-2024.pdf",
+   "product_url": "https://mpd.southwestmicrowave.com/",
+   "cad": {
+    "step": "on request (catalogue: '3D models for mechanical layouts')",
+    "em_model": "encrypted HFSS model on request (HFSS 18+)",
+    "step_url": null
+   },
+   "origin": "source (catalogue 2024); body dimensions only in drawings (images) -> estimate",
+   "notes": "",
+   "id": "southwest-1492-03a-12"
+  },
+  {
+   "manufacturer": "Southwest Microwave",
+   "part_number": "1493-03A-12",
+   "series": "End Launch",
+   "interface": "2.4mm",
+   "gender": "plug (male)",
+   "f_max_GHz": 50.0,
+   "mounting": "edge clamp, solderless (standard block, thread-in)",
+   "template": "flange_block",
+   "pcb_thickness_mm": [
+    0.0,
+    1.651
+   ],
+   "launch_pin_od_mm": 0.1778,
+   "launch_dielectric_od_mm": 0.9906,
+   "materials": {
+    "housing": "passivated stainless steel (CRES)",
+    "center_contact": "gold-plated BeCu",
+    "bead": "Ultem 1000 (PEI) / Kel-F (PCTFE)",
+    "interface_dielectric": "air",
+    "block": "nickel-plated brass",
+    "launch_pin": "gold-plated BeCu",
+    "launch_dielectric": "PTFE",
+    "screws": "#0-80 SHCS (connector), #1-72 SHCS (board)"
+   },
+   "datasheet_url": "https://mpd.southwestmicrowave.com/wp-content/uploads/End-Launch-Connectors-2024.pdf",
+   "product_url": "https://mpd.southwestmicrowave.com/",
+   "cad": {
+    "step": "on request (catalogue: '3D models for mechanical layouts')",
+    "em_model": "encrypted HFSS model on request (HFSS 18+)",
+    "step_url": null
+   },
+   "origin": "source (catalogue 2024); body dimensions only in drawings (images) -> estimate",
+   "notes": "",
+   "id": "southwest-1493-03a-12"
+  },
+  {
+   "manufacturer": "Southwest Microwave",
+   "part_number": "1492-03A-7",
+   "series": "End Launch",
+   "interface": "2.4mm",
+   "gender": "jack (female)",
+   "f_max_GHz": 50.0,
+   "mounting": "edge clamp, solderless (standard block)",
+   "template": "flange_block",
+   "pcb_thickness_mm": [
+    2.286,
+    5.334
+   ],
+   "launch_pin_od_mm": 0.1778,
+   "launch_dielectric_od_mm": 0.9906,
+   "materials": {
+    "housing": "passivated stainless steel (CRES)",
+    "center_contact": "gold-plated BeCu",
+    "bead": "Ultem 1000 (PEI) / Kel-F (PCTFE)",
+    "interface_dielectric": "air",
+    "block": "nickel-plated brass",
+    "launch_pin": "gold-plated BeCu",
+    "launch_dielectric": "PTFE",
+    "screws": "#0-80 SHCS (connector), #1-72 SHCS (board)"
+   },
+   "datasheet_url": "https://mpd.southwestmicrowave.com/wp-content/uploads/End-Launch-Connectors-2024.pdf",
+   "product_url": "https://mpd.southwestmicrowave.com/",
+   "cad": {
+    "step": "on request (catalogue: '3D models for mechanical layouts')",
+    "em_model": "encrypted HFSS model on request (HFSS 18+)",
+    "step_url": null
+   },
+   "origin": "source (catalogue 2024); body dimensions only in drawings (images) -> estimate",
+   "notes": "",
+   "id": "southwest-1492-03a-7"
+  },
+  {
+   "manufacturer": "Southwest Microwave",
+   "part_number": "1493-03A-7",
+   "series": "End Launch",
+   "interface": "2.4mm",
+   "gender": "plug (male)",
+   "f_max_GHz": 50.0,
+   "mounting": "edge clamp, solderless (standard block)",
+   "template": "flange_block",
+   "pcb_thickness_mm": [
+    2.286,
+    5.334
+   ],
+   "launch_pin_od_mm": 0.1778,
+   "launch_dielectric_od_mm": 0.9906,
+   "materials": {
+    "housing": "passivated stainless steel (CRES)",
+    "center_contact": "gold-plated BeCu",
+    "bead": "Ultem 1000 (PEI) / Kel-F (PCTFE)",
+    "interface_dielectric": "air",
+    "block": "nickel-plated brass",
+    "launch_pin": "gold-plated BeCu",
+    "launch_dielectric": "PTFE",
+    "screws": "#0-80 SHCS (connector), #1-72 SHCS (board)"
+   },
+   "datasheet_url": "https://mpd.southwestmicrowave.com/wp-content/uploads/End-Launch-Connectors-2024.pdf",
+   "product_url": "https://mpd.southwestmicrowave.com/",
+   "cad": {
+    "step": "on request (catalogue: '3D models for mechanical layouts')",
+    "em_model": "encrypted HFSS model on request (HFSS 18+)",
+    "step_url": null
+   },
+   "origin": "source (catalogue 2024); body dimensions only in drawings (images) -> estimate",
+   "notes": "",
+   "id": "southwest-1493-03a-7"
+  },
+  {
+   "manufacturer": "Southwest Microwave",
+   "part_number": "1492-03A-8",
+   "series": "End Launch",
+   "interface": "2.4mm",
+   "gender": "jack (female)",
+   "f_max_GHz": 50.0,
+   "mounting": "edge clamp, solderless (standard block)",
+   "template": "flange_block",
+   "pcb_thickness_mm": [
+    4.826,
+    7.62
+   ],
+   "launch_pin_od_mm": 0.1778,
+   "launch_dielectric_od_mm": 0.9906,
+   "materials": {
+    "housing": "passivated stainless steel (CRES)",
+    "center_contact": "gold-plated BeCu",
+    "bead": "Ultem 1000 (PEI) / Kel-F (PCTFE)",
+    "interface_dielectric": "air",
+    "block": "nickel-plated brass",
+    "launch_pin": "gold-plated BeCu",
+    "launch_dielectric": "PTFE",
+    "screws": "#0-80 SHCS (connector), #1-72 SHCS (board)"
+   },
+   "datasheet_url": "https://mpd.southwestmicrowave.com/wp-content/uploads/End-Launch-Connectors-2024.pdf",
+   "product_url": "https://mpd.southwestmicrowave.com/",
+   "cad": {
+    "step": "on request (catalogue: '3D models for mechanical layouts')",
+    "em_model": "encrypted HFSS model on request (HFSS 18+)",
+    "step_url": null
+   },
+   "origin": "source (catalogue 2024); body dimensions only in drawings (images) -> estimate",
+   "notes": "",
+   "id": "southwest-1492-03a-8"
+  },
+  {
+   "manufacturer": "Southwest Microwave",
+   "part_number": "1493-03A-8",
+   "series": "End Launch",
+   "interface": "2.4mm",
+   "gender": "plug (male)",
+   "f_max_GHz": 50.0,
+   "mounting": "edge clamp, solderless (standard block)",
+   "template": "flange_block",
+   "pcb_thickness_mm": [
+    4.826,
+    7.62
+   ],
+   "launch_pin_od_mm": 0.1778,
+   "launch_dielectric_od_mm": 0.9906,
+   "materials": {
+    "housing": "passivated stainless steel (CRES)",
+    "center_contact": "gold-plated BeCu",
+    "bead": "Ultem 1000 (PEI) / Kel-F (PCTFE)",
+    "interface_dielectric": "air",
+    "block": "nickel-plated brass",
+    "launch_pin": "gold-plated BeCu",
+    "launch_dielectric": "PTFE",
+    "screws": "#0-80 SHCS (connector), #1-72 SHCS (board)"
+   },
+   "datasheet_url": "https://mpd.southwestmicrowave.com/wp-content/uploads/End-Launch-Connectors-2024.pdf",
+   "product_url": "https://mpd.southwestmicrowave.com/",
+   "cad": {
+    "step": "on request (catalogue: '3D models for mechanical layouts')",
+    "em_model": "encrypted HFSS model on request (HFSS 18+)",
+    "step_url": null
+   },
+   "origin": "source (catalogue 2024); body dimensions only in drawings (images) -> estimate",
+   "notes": "",
+   "id": "southwest-1493-03a-8"
+  },
+  {
+   "manufacturer": "Southwest Microwave",
+   "part_number": "1492-03A-9",
+   "series": "End Launch",
+   "interface": "2.4mm",
+   "gender": "jack (female)",
+   "f_max_GHz": 50.0,
+   "mounting": "edge clamp, solderless (narrow block (.350 in), thread-in)",
+   "template": "flange_block",
+   "pcb_thickness_mm": [
+    0.0,
+    1.651
+   ],
+   "launch_pin_od_mm": 0.1778,
+   "launch_dielectric_od_mm": 0.9906,
+   "materials": {
+    "housing": "passivated stainless steel (CRES)",
+    "center_contact": "gold-plated BeCu",
+    "bead": "Ultem 1000 (PEI) / Kel-F (PCTFE)",
+    "interface_dielectric": "air",
+    "block": "nickel-plated brass",
+    "launch_pin": "gold-plated BeCu",
+    "launch_dielectric": "PTFE",
+    "screws": "#0-80 SHCS (connector), #1-72 SHCS (board)"
+   },
+   "datasheet_url": "https://mpd.southwestmicrowave.com/wp-content/uploads/End-Launch-Connectors-2024.pdf",
+   "product_url": "https://mpd.southwestmicrowave.com/",
+   "cad": {
+    "step": "on request (catalogue: '3D models for mechanical layouts')",
+    "em_model": "encrypted HFSS model on request (HFSS 18+)",
+    "step_url": null
+   },
+   "origin": "source (catalogue 2024); body dimensions only in drawings (images) -> estimate",
+   "notes": "",
+   "id": "southwest-1492-03a-9"
+  },
+  {
+   "manufacturer": "Southwest Microwave",
+   "part_number": "1493-03A-9",
+   "series": "End Launch",
+   "interface": "2.4mm",
+   "gender": "plug (male)",
+   "f_max_GHz": 50.0,
+   "mounting": "edge clamp, solderless (narrow block (.350 in), thread-in)",
+   "template": "flange_block",
+   "pcb_thickness_mm": [
+    0.0,
+    1.651
+   ],
+   "launch_pin_od_mm": 0.1778,
+   "launch_dielectric_od_mm": 0.9906,
+   "materials": {
+    "housing": "passivated stainless steel (CRES)",
+    "center_contact": "gold-plated BeCu",
+    "bead": "Ultem 1000 (PEI) / Kel-F (PCTFE)",
+    "interface_dielectric": "air",
+    "block": "nickel-plated brass",
+    "launch_pin": "gold-plated BeCu",
+    "launch_dielectric": "PTFE",
+    "screws": "#0-80 SHCS (connector), #1-72 SHCS (board)"
+   },
+   "datasheet_url": "https://mpd.southwestmicrowave.com/wp-content/uploads/End-Launch-Connectors-2024.pdf",
+   "product_url": "https://mpd.southwestmicrowave.com/",
+   "cad": {
+    "step": "on request (catalogue: '3D models for mechanical layouts')",
+    "em_model": "encrypted HFSS model on request (HFSS 18+)",
+    "step_url": null
+   },
+   "origin": "source (catalogue 2024); body dimensions only in drawings (images) -> estimate",
+   "notes": "",
+   "id": "southwest-1493-03a-9"
+  },
+  {
+   "manufacturer": "Southwest Microwave",
+   "part_number": "1492-03A-14",
+   "series": "End Launch",
+   "interface": "2.4mm",
+   "gender": "jack (female)",
+   "f_max_GHz": 50.0,
+   "mounting": "edge clamp, solderless (narrow block, thread-in)",
+   "template": "flange_block",
+   "pcb_thickness_mm": [
+    1.016,
+    2.286
+   ],
+   "launch_pin_od_mm": 0.1778,
+   "launch_dielectric_od_mm": 0.9906,
+   "materials": {
+    "housing": "passivated stainless steel (CRES)",
+    "center_contact": "gold-plated BeCu",
+    "bead": "Ultem 1000 (PEI) / Kel-F (PCTFE)",
+    "interface_dielectric": "air",
+    "block": "nickel-plated brass",
+    "launch_pin": "gold-plated BeCu",
+    "launch_dielectric": "PTFE",
+    "screws": "#0-80 SHCS (connector), #1-72 SHCS (board)"
+   },
+   "datasheet_url": "https://mpd.southwestmicrowave.com/wp-content/uploads/End-Launch-Connectors-2024.pdf",
+   "product_url": "https://mpd.southwestmicrowave.com/",
+   "cad": {
+    "step": "on request (catalogue: '3D models for mechanical layouts')",
+    "em_model": "encrypted HFSS model on request (HFSS 18+)",
+    "step_url": null
+   },
+   "origin": "source (catalogue 2024); body dimensions only in drawings (images) -> estimate",
+   "notes": "",
+   "id": "southwest-1492-03a-14"
+  },
+  {
+   "manufacturer": "Southwest Microwave",
+   "part_number": "1493-03A-14",
+   "series": "End Launch",
+   "interface": "2.4mm",
+   "gender": "plug (male)",
+   "f_max_GHz": 50.0,
+   "mounting": "edge clamp, solderless (narrow block, thread-in)",
+   "template": "flange_block",
+   "pcb_thickness_mm": [
+    1.016,
+    2.286
+   ],
+   "launch_pin_od_mm": 0.1778,
+   "launch_dielectric_od_mm": 0.9906,
+   "materials": {
+    "housing": "passivated stainless steel (CRES)",
+    "center_contact": "gold-plated BeCu",
+    "bead": "Ultem 1000 (PEI) / Kel-F (PCTFE)",
+    "interface_dielectric": "air",
+    "block": "nickel-plated brass",
+    "launch_pin": "gold-plated BeCu",
+    "launch_dielectric": "PTFE",
+    "screws": "#0-80 SHCS (connector), #1-72 SHCS (board)"
+   },
+   "datasheet_url": "https://mpd.southwestmicrowave.com/wp-content/uploads/End-Launch-Connectors-2024.pdf",
+   "product_url": "https://mpd.southwestmicrowave.com/",
+   "cad": {
+    "step": "on request (catalogue: '3D models for mechanical layouts')",
+    "em_model": "encrypted HFSS model on request (HFSS 18+)",
+    "step_url": null
+   },
+   "origin": "source (catalogue 2024); body dimensions only in drawings (images) -> estimate",
+   "notes": "",
+   "id": "southwest-1493-03a-14"
+  },
+  {
+   "manufacturer": "Southwest Microwave",
+   "part_number": "1492-04A-12",
+   "series": "End Launch",
+   "interface": "2.4mm",
+   "gender": "jack (female)",
+   "f_max_GHz": 50.0,
+   "mounting": "edge clamp, solderless (standard block, thread-in)",
+   "template": "flange_block",
+   "pcb_thickness_mm": [
+    0.0,
+    1.651
+   ],
+   "launch_pin_od_mm": 0.127,
+   "launch_dielectric_od_mm": 0.7366,
+   "materials": {
+    "housing": "passivated stainless steel (CRES)",
+    "center_contact": "gold-plated BeCu",
+    "bead": "Ultem 1000 (PEI) / Kel-F (PCTFE)",
+    "interface_dielectric": "air",
+    "block": "nickel-plated brass",
+    "launch_pin": "gold-plated BeCu",
+    "launch_dielectric": "PTFE",
+    "screws": "#0-80 SHCS (connector), #1-72 SHCS (board)"
+   },
+   "datasheet_url": "https://mpd.southwestmicrowave.com/wp-content/uploads/End-Launch-Connectors-2024.pdf",
+   "product_url": "https://mpd.southwestmicrowave.com/",
+   "cad": {
+    "step": "on request (catalogue: '3D models for mechanical layouts')",
+    "em_model": "encrypted HFSS model on request (HFSS 18+)",
+    "step_url": null
+   },
+   "origin": "source (catalogue 2024); body dimensions only in drawings (images) -> estimate",
+   "notes": "",
+   "id": "southwest-1492-04a-12"
+  },
+  {
+   "manufacturer": "Southwest Microwave",
+   "part_number": "1493-04A-12",
+   "series": "End Launch",
+   "interface": "2.4mm",
+   "gender": "plug (male)",
+   "f_max_GHz": 50.0,
+   "mounting": "edge clamp, solderless (standard block, thread-in)",
+   "template": "flange_block",
+   "pcb_thickness_mm": [
+    0.0,
+    1.651
+   ],
+   "launch_pin_od_mm": 0.127,
+   "launch_dielectric_od_mm": 0.7366,
+   "materials": {
+    "housing": "passivated stainless steel (CRES)",
+    "center_contact": "gold-plated BeCu",
+    "bead": "Ultem 1000 (PEI) / Kel-F (PCTFE)",
+    "interface_dielectric": "air",
+    "block": "nickel-plated brass",
+    "launch_pin": "gold-plated BeCu",
+    "launch_dielectric": "PTFE",
+    "screws": "#0-80 SHCS (connector), #1-72 SHCS (board)"
+   },
+   "datasheet_url": "https://mpd.southwestmicrowave.com/wp-content/uploads/End-Launch-Connectors-2024.pdf",
+   "product_url": "https://mpd.southwestmicrowave.com/",
+   "cad": {
+    "step": "on request (catalogue: '3D models for mechanical layouts')",
+    "em_model": "encrypted HFSS model on request (HFSS 18+)",
+    "step_url": null
+   },
+   "origin": "source (catalogue 2024); body dimensions only in drawings (images) -> estimate",
+   "notes": "",
+   "id": "southwest-1493-04a-12"
+  },
+  {
+   "manufacturer": "Southwest Microwave",
+   "part_number": "1492-04A-7",
+   "series": "End Launch",
+   "interface": "2.4mm",
+   "gender": "jack (female)",
+   "f_max_GHz": 50.0,
+   "mounting": "edge clamp, solderless (standard block)",
+   "template": "flange_block",
+   "pcb_thickness_mm": [
+    2.286,
+    5.334
+   ],
+   "launch_pin_od_mm": 0.127,
+   "launch_dielectric_od_mm": 0.7366,
+   "materials": {
+    "housing": "passivated stainless steel (CRES)",
+    "center_contact": "gold-plated BeCu",
+    "bead": "Ultem 1000 (PEI) / Kel-F (PCTFE)",
+    "interface_dielectric": "air",
+    "block": "nickel-plated brass",
+    "launch_pin": "gold-plated BeCu",
+    "launch_dielectric": "PTFE",
+    "screws": "#0-80 SHCS (connector), #1-72 SHCS (board)"
+   },
+   "datasheet_url": "https://mpd.southwestmicrowave.com/wp-content/uploads/End-Launch-Connectors-2024.pdf",
+   "product_url": "https://mpd.southwestmicrowave.com/",
+   "cad": {
+    "step": "on request (catalogue: '3D models for mechanical layouts')",
+    "em_model": "encrypted HFSS model on request (HFSS 18+)",
+    "step_url": null
+   },
+   "origin": "source (catalogue 2024); body dimensions only in drawings (images) -> estimate",
+   "notes": "",
+   "id": "southwest-1492-04a-7"
+  },
+  {
+   "manufacturer": "Southwest Microwave",
+   "part_number": "1493-04A-7",
+   "series": "End Launch",
+   "interface": "2.4mm",
+   "gender": "plug (male)",
+   "f_max_GHz": 50.0,
+   "mounting": "edge clamp, solderless (standard block)",
+   "template": "flange_block",
+   "pcb_thickness_mm": [
+    2.286,
+    5.334
+   ],
+   "launch_pin_od_mm": 0.127,
+   "launch_dielectric_od_mm": 0.7366,
+   "materials": {
+    "housing": "passivated stainless steel (CRES)",
+    "center_contact": "gold-plated BeCu",
+    "bead": "Ultem 1000 (PEI) / Kel-F (PCTFE)",
+    "interface_dielectric": "air",
+    "block": "nickel-plated brass",
+    "launch_pin": "gold-plated BeCu",
+    "launch_dielectric": "PTFE",
+    "screws": "#0-80 SHCS (connector), #1-72 SHCS (board)"
+   },
+   "datasheet_url": "https://mpd.southwestmicrowave.com/wp-content/uploads/End-Launch-Connectors-2024.pdf",
+   "product_url": "https://mpd.southwestmicrowave.com/",
+   "cad": {
+    "step": "on request (catalogue: '3D models for mechanical layouts')",
+    "em_model": "encrypted HFSS model on request (HFSS 18+)",
+    "step_url": null
+   },
+   "origin": "source (catalogue 2024); body dimensions only in drawings (images) -> estimate",
+   "notes": "",
+   "id": "southwest-1493-04a-7"
+  },
+  {
+   "manufacturer": "Southwest Microwave",
+   "part_number": "1492-04A-8",
+   "series": "End Launch",
+   "interface": "2.4mm",
+   "gender": "jack (female)",
+   "f_max_GHz": 50.0,
+   "mounting": "edge clamp, solderless (standard block)",
+   "template": "flange_block",
+   "pcb_thickness_mm": [
+    4.826,
+    7.62
+   ],
+   "launch_pin_od_mm": 0.127,
+   "launch_dielectric_od_mm": 0.7366,
+   "materials": {
+    "housing": "passivated stainless steel (CRES)",
+    "center_contact": "gold-plated BeCu",
+    "bead": "Ultem 1000 (PEI) / Kel-F (PCTFE)",
+    "interface_dielectric": "air",
+    "block": "nickel-plated brass",
+    "launch_pin": "gold-plated BeCu",
+    "launch_dielectric": "PTFE",
+    "screws": "#0-80 SHCS (connector), #1-72 SHCS (board)"
+   },
+   "datasheet_url": "https://mpd.southwestmicrowave.com/wp-content/uploads/End-Launch-Connectors-2024.pdf",
+   "product_url": "https://mpd.southwestmicrowave.com/",
+   "cad": {
+    "step": "on request (catalogue: '3D models for mechanical layouts')",
+    "em_model": "encrypted HFSS model on request (HFSS 18+)",
+    "step_url": null
+   },
+   "origin": "source (catalogue 2024); body dimensions only in drawings (images) -> estimate",
+   "notes": "",
+   "id": "southwest-1492-04a-8"
+  },
+  {
+   "manufacturer": "Southwest Microwave",
+   "part_number": "1493-04A-8",
+   "series": "End Launch",
+   "interface": "2.4mm",
+   "gender": "plug (male)",
+   "f_max_GHz": 50.0,
+   "mounting": "edge clamp, solderless (standard block)",
+   "template": "flange_block",
+   "pcb_thickness_mm": [
+    4.826,
+    7.62
+   ],
+   "launch_pin_od_mm": 0.127,
+   "launch_dielectric_od_mm": 0.7366,
+   "materials": {
+    "housing": "passivated stainless steel (CRES)",
+    "center_contact": "gold-plated BeCu",
+    "bead": "Ultem 1000 (PEI) / Kel-F (PCTFE)",
+    "interface_dielectric": "air",
+    "block": "nickel-plated brass",
+    "launch_pin": "gold-plated BeCu",
+    "launch_dielectric": "PTFE",
+    "screws": "#0-80 SHCS (connector), #1-72 SHCS (board)"
+   },
+   "datasheet_url": "https://mpd.southwestmicrowave.com/wp-content/uploads/End-Launch-Connectors-2024.pdf",
+   "product_url": "https://mpd.southwestmicrowave.com/",
+   "cad": {
+    "step": "on request (catalogue: '3D models for mechanical layouts')",
+    "em_model": "encrypted HFSS model on request (HFSS 18+)",
+    "step_url": null
+   },
+   "origin": "source (catalogue 2024); body dimensions only in drawings (images) -> estimate",
+   "notes": "",
+   "id": "southwest-1493-04a-8"
+  },
+  {
+   "manufacturer": "Southwest Microwave",
+   "part_number": "1492-04A-9",
+   "series": "End Launch",
+   "interface": "2.4mm",
+   "gender": "jack (female)",
+   "f_max_GHz": 50.0,
+   "mounting": "edge clamp, solderless (narrow block (.350 in), thread-in)",
+   "template": "flange_block",
+   "pcb_thickness_mm": [
+    0.0,
+    1.651
+   ],
+   "launch_pin_od_mm": 0.127,
+   "launch_dielectric_od_mm": 0.7366,
+   "materials": {
+    "housing": "passivated stainless steel (CRES)",
+    "center_contact": "gold-plated BeCu",
+    "bead": "Ultem 1000 (PEI) / Kel-F (PCTFE)",
+    "interface_dielectric": "air",
+    "block": "nickel-plated brass",
+    "launch_pin": "gold-plated BeCu",
+    "launch_dielectric": "PTFE",
+    "screws": "#0-80 SHCS (connector), #1-72 SHCS (board)"
+   },
+   "datasheet_url": "https://mpd.southwestmicrowave.com/wp-content/uploads/End-Launch-Connectors-2024.pdf",
+   "product_url": "https://mpd.southwestmicrowave.com/",
+   "cad": {
+    "step": "on request (catalogue: '3D models for mechanical layouts')",
+    "em_model": "encrypted HFSS model on request (HFSS 18+)",
+    "step_url": null
+   },
+   "origin": "source (catalogue 2024); body dimensions only in drawings (images) -> estimate",
+   "notes": "",
+   "id": "southwest-1492-04a-9"
+  },
+  {
+   "manufacturer": "Southwest Microwave",
+   "part_number": "1493-04A-9",
+   "series": "End Launch",
+   "interface": "2.4mm",
+   "gender": "plug (male)",
+   "f_max_GHz": 50.0,
+   "mounting": "edge clamp, solderless (narrow block (.350 in), thread-in)",
+   "template": "flange_block",
+   "pcb_thickness_mm": [
+    0.0,
+    1.651
+   ],
+   "launch_pin_od_mm": 0.127,
+   "launch_dielectric_od_mm": 0.7366,
+   "materials": {
+    "housing": "passivated stainless steel (CRES)",
+    "center_contact": "gold-plated BeCu",
+    "bead": "Ultem 1000 (PEI) / Kel-F (PCTFE)",
+    "interface_dielectric": "air",
+    "block": "nickel-plated brass",
+    "launch_pin": "gold-plated BeCu",
+    "launch_dielectric": "PTFE",
+    "screws": "#0-80 SHCS (connector), #1-72 SHCS (board)"
+   },
+   "datasheet_url": "https://mpd.southwestmicrowave.com/wp-content/uploads/End-Launch-Connectors-2024.pdf",
+   "product_url": "https://mpd.southwestmicrowave.com/",
+   "cad": {
+    "step": "on request (catalogue: '3D models for mechanical layouts')",
+    "em_model": "encrypted HFSS model on request (HFSS 18+)",
+    "step_url": null
+   },
+   "origin": "source (catalogue 2024); body dimensions only in drawings (images) -> estimate",
+   "notes": "",
+   "id": "southwest-1493-04a-9"
+  },
+  {
+   "manufacturer": "Southwest Microwave",
+   "part_number": "1492-04A-14",
+   "series": "End Launch",
+   "interface": "2.4mm",
+   "gender": "jack (female)",
+   "f_max_GHz": 50.0,
+   "mounting": "edge clamp, solderless (narrow block, thread-in)",
+   "template": "flange_block",
+   "pcb_thickness_mm": [
+    1.016,
+    2.286
+   ],
+   "launch_pin_od_mm": 0.127,
+   "launch_dielectric_od_mm": 0.7366,
+   "materials": {
+    "housing": "passivated stainless steel (CRES)",
+    "center_contact": "gold-plated BeCu",
+    "bead": "Ultem 1000 (PEI) / Kel-F (PCTFE)",
+    "interface_dielectric": "air",
+    "block": "nickel-plated brass",
+    "launch_pin": "gold-plated BeCu",
+    "launch_dielectric": "PTFE",
+    "screws": "#0-80 SHCS (connector), #1-72 SHCS (board)"
+   },
+   "datasheet_url": "https://mpd.southwestmicrowave.com/wp-content/uploads/End-Launch-Connectors-2024.pdf",
+   "product_url": "https://mpd.southwestmicrowave.com/",
+   "cad": {
+    "step": "on request (catalogue: '3D models for mechanical layouts')",
+    "em_model": "encrypted HFSS model on request (HFSS 18+)",
+    "step_url": null
+   },
+   "origin": "source (catalogue 2024); body dimensions only in drawings (images) -> estimate",
+   "notes": "",
+   "id": "southwest-1492-04a-14"
+  },
+  {
+   "manufacturer": "Southwest Microwave",
+   "part_number": "1493-04A-14",
+   "series": "End Launch",
+   "interface": "2.4mm",
+   "gender": "plug (male)",
+   "f_max_GHz": 50.0,
+   "mounting": "edge clamp, solderless (narrow block, thread-in)",
+   "template": "flange_block",
+   "pcb_thickness_mm": [
+    1.016,
+    2.286
+   ],
+   "launch_pin_od_mm": 0.127,
+   "launch_dielectric_od_mm": 0.7366,
+   "materials": {
+    "housing": "passivated stainless steel (CRES)",
+    "center_contact": "gold-plated BeCu",
+    "bead": "Ultem 1000 (PEI) / Kel-F (PCTFE)",
+    "interface_dielectric": "air",
+    "block": "nickel-plated brass",
+    "launch_pin": "gold-plated BeCu",
+    "launch_dielectric": "PTFE",
+    "screws": "#0-80 SHCS (connector), #1-72 SHCS (board)"
+   },
+   "datasheet_url": "https://mpd.southwestmicrowave.com/wp-content/uploads/End-Launch-Connectors-2024.pdf",
+   "product_url": "https://mpd.southwestmicrowave.com/",
+   "cad": {
+    "step": "on request (catalogue: '3D models for mechanical layouts')",
+    "em_model": "encrypted HFSS model on request (HFSS 18+)",
+    "step_url": null
+   },
+   "origin": "source (catalogue 2024); body dimensions only in drawings (images) -> estimate",
+   "notes": "",
+   "id": "southwest-1493-04a-14"
+  },
+  {
+   "manufacturer": "Amphenol SV Microwave",
+   "part_number": "1521-00002",
+   "series": "",
+   "interface": "2.92mm",
+   "gender": "jack (female)",
+   "f_max_GHz": 40,
+   "mounting": "edge launch, 4 legs, solder",
+   "template": "legs_tab",
+   "pcb_thickness_mm": null,
+   "launch_pin_od_mm": null,
+   "launch_dielectric_od_mm": null,
+   "materials": {
+    "finish": "gold"
+   },
+   "datasheet_url": "https://www.svmicrowave.com/Attachment/DownloadFile?downloadId=8355",
+   "product_url": "https://www.svmicrowave.com/292mm-female-pcb-edge-launch-connector-4-leg",
+   "cad": {
+    "step": "yes (direct download)",
+    "step_url": "https://www.svmicrowave.com/Attachment/DownloadFile?downloadId=8356",
+    "em_model": "HFSS https://www.svmicrowave.com/Attachment/DownloadFile?downloadId=11843 ; CST https://www.svmicrowave.com/Attachment/DownloadFile?downloadId=14754"
+   },
+   "origin": "source",
+   "notes": "",
+   "id": "amphenol-1521-00002"
+  },
+  {
+   "manufacturer": "Amphenol SV Microwave",
+   "part_number": "1621-60050",
+   "series": "",
+   "interface": "2.4mm",
+   "gender": "jack (female)",
+   "f_max_GHz": 50,
+   "mounting": "edge launch, 4 legs, solder",
+   "template": "legs_tab",
+   "pcb_thickness_mm": null,
+   "launch_pin_od_mm": null,
+   "launch_dielectric_od_mm": null,
+   "materials": {
+    "finish": "gold"
+   },
+   "datasheet_url": "https://www.svmicrowave.com/Attachment/DownloadFile?downloadId=8374",
+   "product_url": "https://www.svmicrowave.com/24mm-female-pcb-edge-launch-connector-4-legs",
+   "cad": {
+    "step": "yes (direct download)",
+    "step_url": "https://www.svmicrowave.com/Attachment/DownloadFile?downloadId=8375",
+    "em_model": "HFSS https://www.svmicrowave.com/Attachment/DownloadFile?downloadId=22688 ; CST https://www.svmicrowave.com/Attachment/DownloadFile?downloadId=14759"
+   },
+   "origin": "source",
+   "notes": "",
+   "id": "amphenol-1621-60050"
+  },
+  {
+   "manufacturer": "Amphenol SV Microwave",
+   "part_number": "1521-60051",
+   "series": "",
+   "interface": "2.92mm",
+   "gender": "jack (female)",
+   "f_max_GHz": 40,
+   "mounting": "edge launch, solder",
+   "template": "legs_tab",
+   "pcb_thickness_mm": [
+    1.575,
+    1.575
+   ],
+   "launch_pin_od_mm": null,
+   "launch_dielectric_od_mm": null,
+   "materials": {},
+   "datasheet_url": null,
+   "product_url": "https://www.svmicrowave.com/292mm-female-pcb-edge-launch-connector-062-pcb-thickness",
+   "cad": {
+    "step": "likely (SV product pages offer CAD download)",
+    "step_url": null,
+    "em_model": "HFSS/CST likely"
+   },
+   "origin": "source",
+   "notes": "",
+   "id": "amphenol-1521-60051"
+  },
+  {
+   "manufacturer": "Amphenol SV Microwave",
+   "part_number": "1521-60125",
+   "series": "",
+   "interface": "2.92mm",
+   "gender": "jack (female)",
+   "f_max_GHz": 40,
+   "mounting": "edge launch, solder",
+   "template": "legs_tab",
+   "pcb_thickness_mm": [
+    2.362,
+    2.362
+   ],
+   "launch_pin_od_mm": null,
+   "launch_dielectric_od_mm": null,
+   "materials": {},
+   "datasheet_url": null,
+   "product_url": "https://www.svmicrowave.com/292mm-female-pcb-edge-launch-connector-093-pcb-thickness",
+   "cad": {
+    "step": "likely (SV product pages offer CAD download)",
+    "step_url": null,
+    "em_model": "HFSS/CST likely"
+   },
+   "origin": "source",
+   "notes": "",
+   "id": "amphenol-1521-60125"
+  },
+  {
+   "manufacturer": "Amphenol SV Microwave",
+   "part_number": "1621-60008",
+   "series": "",
+   "interface": "2.4mm",
+   "gender": "jack (female)",
+   "f_max_GHz": 50,
+   "mounting": "edge launch, solder",
+   "template": "legs_tab",
+   "pcb_thickness_mm": [
+    1.575,
+    1.575
+   ],
+   "launch_pin_od_mm": null,
+   "launch_dielectric_od_mm": null,
+   "materials": {},
+   "datasheet_url": null,
+   "product_url": "https://www.svmicrowave.com/24mm-female-pcb-edge-launch-connector-062-pcb-thickness",
+   "cad": {
+    "step": "likely (SV product pages offer CAD download)",
+    "step_url": null,
+    "em_model": "HFSS/CST likely"
+   },
+   "origin": "source",
+   "notes": "",
+   "id": "amphenol-1621-60008"
+  },
+  {
+   "manufacturer": "Amphenol SV Microwave",
+   "part_number": "1621-60051",
+   "series": "",
+   "interface": "2.4mm",
+   "gender": "jack (female)",
+   "f_max_GHz": 50,
+   "mounting": "edge launch, solder",
+   "template": "legs_tab",
+   "pcb_thickness_mm": [
+    2.362,
+    2.362
+   ],
+   "launch_pin_od_mm": null,
+   "launch_dielectric_od_mm": null,
+   "materials": {},
+   "datasheet_url": null,
+   "product_url": "https://www.svmicrowave.com/24mm-female-pcb-edge-launch-connector-093-pcb-thickness",
+   "cad": {
+    "step": "likely (SV product pages offer CAD download)",
+    "step_url": null,
+    "em_model": "HFSS/CST likely"
+   },
+   "origin": "source",
+   "notes": "",
+   "id": "amphenol-1621-60051"
+  },
+  {
+   "manufacturer": "Amphenol SV Microwave",
+   "part_number": "1621-60092",
+   "series": "",
+   "interface": "2.4mm",
+   "gender": "jack (female)",
+   "f_max_GHz": 50,
+   "mounting": "edge launch, 2-hole flange, torque resistant (TraceGuard), solder",
+   "template": "flange_block",
+   "pcb_thickness_mm": null,
+   "launch_pin_od_mm": null,
+   "launch_dielectric_od_mm": null,
+   "materials": {
+    "finish": "gold",
+    "seal": "glass"
+   },
+   "datasheet_url": "https://www.svmicrowave.com/Attachment/DownloadFile?downloadId=16929&productId=6513",
+   "product_url": "https://svmicrowave.com/24mm-female-pcb-edge-launch-connector-2-hole-torque-resistant",
+   "cad": {
+    "step": "yes (direct download)",
+    "step_url": "https://www.svmicrowave.com/Attachment/DownloadFile?downloadId=22711&productId=6513",
+    "em_model": "HFSS/CST on request form"
+   },
+   "origin": "source",
+   "notes": "",
+   "id": "amphenol-1621-60092"
+  },
+  {
+   "manufacturer": "Amphenol SV Microwave",
+   "part_number": "2921-61778",
+   "series": "",
+   "interface": "SMA",
+   "gender": "jack (female)",
+   "f_max_GHz": null,
+   "mounting": "edge launch, TraceGuard, solder",
+   "template": "flange_block",
+   "pcb_thickness_mm": null,
+   "launch_pin_od_mm": null,
+   "launch_dielectric_od_mm": null,
+   "materials": {},
+   "datasheet_url": "https://www.svmicrowave.com/Attachment/DownloadFile?downloadId=16927",
+   "product_url": null,
+   "cad": {
+    "step": "unknown",
+    "step_url": null,
+    "em_model": null
+   },
+   "origin": "source",
+   "notes": "datasheet not opened; f_max not verified",
+   "id": "amphenol-2921-61778"
+  },
+  {
+   "manufacturer": "Amphenol SV Microwave",
+   "part_number": "1521-60235",
+   "series": "",
+   "interface": "2.92mm",
+   "gender": "jack (female)",
+   "f_max_GHz": 40,
+   "mounting": "edge launch, TraceGuard, solder",
+   "template": "flange_block",
+   "pcb_thickness_mm": null,
+   "launch_pin_od_mm": null,
+   "launch_dielectric_od_mm": null,
+   "materials": {},
+   "datasheet_url": "https://www.svmicrowave.com/Attachment/DownloadFile?downloadId=16925",
+   "product_url": null,
+   "cad": {
+    "step": "unknown",
+    "step_url": null,
+    "em_model": null
+   },
+   "origin": "source",
+   "notes": "datasheet not opened",
+   "id": "amphenol-1521-60235"
+  },
+  {
+   "manufacturer": "Amphenol SV Microwave",
+   "part_number": "SF2921-61450",
+   "series": "",
+   "interface": "SMA",
+   "gender": "jack (female)",
+   "f_max_GHz": 18,
+   "mounting": "edge, solderless compression, 2-hole",
+   "template": "flange_block",
+   "pcb_thickness_mm": null,
+   "launch_pin_od_mm": null,
+   "launch_dielectric_od_mm": null,
+   "materials": {},
+   "datasheet_url": "https://www.mouser.com/datasheet/3/59/1/SF2921-61450_PDD.pdf",
+   "product_url": "https://www.mouser.in/new/amphenol/amphenol-sv-solderless-edge-launch",
+   "cad": {
+    "step": "unknown",
+    "step_url": null,
+    "em_model": null
+   },
+   "origin": "source",
+   "notes": "",
+   "id": "amphenol-sf2921-61450"
+  },
+  {
+   "manufacturer": "Amphenol SV Microwave",
+   "part_number": "SF1521-60107",
+   "series": "",
+   "interface": "2.92mm",
+   "gender": "jack (female)",
+   "f_max_GHz": 40,
+   "mounting": "edge, solderless compression, 2-hole",
+   "template": "flange_block",
+   "pcb_thickness_mm": null,
+   "launch_pin_od_mm": null,
+   "launch_dielectric_od_mm": null,
+   "materials": {},
+   "datasheet_url": "https://svmicrowave.com/Attachment/DownloadFile?downloadId=8682",
+   "product_url": "https://www.mouser.in/new/amphenol/amphenol-sv-solderless-edge-launch",
+   "cad": {
+    "step": "unknown",
+    "step_url": null,
+    "em_model": null
+   },
+   "origin": "source",
+   "notes": "usable to 46 GHz (Mouser)",
+   "id": "amphenol-sf1521-60107"
+  },
+  {
+   "manufacturer": "Amphenol SV Microwave",
+   "part_number": "SF1621-60036",
+   "series": "",
+   "interface": "2.4mm",
+   "gender": "jack (female)",
+   "f_max_GHz": 50,
+   "mounting": "edge, solderless compression, 2-hole",
+   "template": "flange_block",
+   "pcb_thickness_mm": null,
+   "launch_pin_od_mm": null,
+   "launch_dielectric_od_mm": null,
+   "materials": {},
+   "datasheet_url": "https://svmicrowave.com/Attachment/DownloadFile?downloadId=8725",
+   "product_url": "https://www.mouser.in/new/amphenol/amphenol-sv-solderless-edge-launch",
+   "cad": {
+    "step": "unknown",
+    "step_url": null,
+    "em_model": null
+   },
+   "origin": "source",
+   "notes": "",
+   "id": "amphenol-sf1621-60036"
+  },
+  {
+   "manufacturer": "Rosenberger",
+   "part_number": "02K243-40ME3",
+   "series": "",
+   "interface": "2.92mm",
+   "gender": "jack (female)",
+   "f_max_GHz": 40,
+   "mounting": "edge launch, clamp (1 clamp, 2 screws), center contact soldered",
+   "template": "flange_block",
+   "pcb_thickness_mm": null,
+   "launch_pin_od_mm": null,
+   "launch_dielectric_od_mm": null,
+   "materials": {
+    "outer_contact": "brass, >=0.8 um Au over chemical Ni",
+    "center_contact": "BeCu, >=1.27 um Au over Ni",
+    "dielectric": "PEEK (dielectric 1) + PTFE (dielectric 2)",
+    "screws": "stainless steel"
+   },
+   "datasheet_url": "https://products.rosenberger.com/_ocassets/db/02K243-40ME3.pdf",
+   "product_url": "https://www.rfmw.com/products/detail/02k24340me3-rosenberger/241019/",
+   "cad": {
+    "step": "not found on public pages (ask Rosenberger)",
+    "step_url": null,
+    "em_model": null
+   },
+   "origin": "source",
+   "notes": "RL >= 14 dB DC-40 GHz; PCB layout B 208",
+   "id": "rosenberger-02k243-40me3"
+  },
+  {
+   "manufacturer": "Rosenberger",
+   "part_number": "32K243-40ML5",
+   "series": "",
+   "interface": "SMA",
+   "gender": "jack (female)",
+   "f_max_GHz": 18,
+   "mounting": "edge mount, clamp style",
+   "template": "flange_block",
+   "pcb_thickness_mm": null,
+   "launch_pin_od_mm": null,
+   "launch_dielectric_od_mm": null,
+   "materials": {
+    "outer_contact": "brass, AuroDur gold",
+    "center_contact": "BeCu, AuroDur gold",
+    "dielectric": "PTFE"
+   },
+   "datasheet_url": "https://products.rosenberger.com/_ocassets/db/32K243-40ML5.pdf",
+   "product_url": "https://www.rfmw.com/products/detail/32k24340ml5-rosenberger/306965/",
+   "cad": {
+    "step": "not found on public pages (ask Rosenberger)",
+    "step_url": null,
+    "em_model": null
+   },
+   "origin": "source",
+   "notes": "VSWR 1.1 + 0.02 f[GHz]; PCB layout B 208",
+   "id": "rosenberger-32k243-40ml5"
+  },
+  {
+   "manufacturer": "Samtec",
+   "part_number": "292-J-P-EP-ST-EL(W)-01",
+   "series": "",
+   "interface": "2.92mm",
+   "gender": "jack (female)",
+   "f_max_GHz": 40,
+   "mounting": "edge launch, solderless compression",
+   "template": "flange_block",
+   "pcb_thickness_mm": null,
+   "launch_pin_od_mm": null,
+   "launch_dielectric_od_mm": null,
+   "materials": {
+    "body": "passivated stainless steel (CRES)",
+    "center_contact": "gold-plated BeCu (50 uin Au over Ni)",
+    "bead": "Ultem 1000 (PEI)",
+    "launch_dielectric": "PTFE",
+    "screws": "stainless steel"
+   },
+   "datasheet_url": "https://suddendocs.samtec.com/productspecs/292-elw.pdf",
+   "product_url": "https://www.samtec.com/products/292-EL",
+   "cad": {
+    "step": "yes (Samtec configurator 3D/CAD download, login)",
+    "step_url": null,
+    "em_model": "Samtec offers simulation models on request"
+   },
+   "origin": "source",
+   "notes": "VSWR 1.10 typ to 18 GHz, 1.15 typ 18-40 GHz; IL 0.035*sqrt(f[GHz]) dB max",
+   "id": "samtec-292-j-p-ep-st-el(w)-01"
+  },
+  {
+   "manufacturer": "Samtec",
+   "part_number": "240-EL series",
+   "series": "",
+   "interface": "2.4mm",
+   "gender": "jack (female)",
+   "f_max_GHz": 50,
+   "mounting": "edge launch, solderless compression",
+   "template": "flange_block",
+   "pcb_thickness_mm": null,
+   "launch_pin_od_mm": null,
+   "launch_dielectric_od_mm": null,
+   "materials": {},
+   "datasheet_url": null,
+   "product_url": "https://www.samtec.com/products/240-EL",
+   "cad": {
+    "step": "yes (Samtec configurator 3D/CAD download, login)",
+    "step_url": null,
+    "em_model": null
+   },
+   "origin": "source",
+   "notes": "",
+   "id": "samtec-240-el"
+  },
+  {
+   "manufacturer": "HUBER+SUHNER",
+   "part_number": "85221629 (92_SMA-S50-0-200/122_NE)",
+   "series": "",
+   "interface": "SMA",
+   "gender": "jack (female)",
+   "f_max_GHz": 26.5,
+   "mounting": "edge mount, microstrip",
+   "template": "flange_block",
+   "pcb_thickness_mm": null,
+   "launch_pin_od_mm": null,
+   "launch_dielectric_od_mm": null,
+   "materials": {
+    "body": "passivated stainless steel (CRES)",
+    "outer_contact": "passivated stainless steel (CRES)",
+    "center_contact": "gold-plated BeCu",
+    "bead": "Ultem 1000 (PEI)"
+   },
+   "datasheet_url": "https://shop.richardsonrfpd.com/docs/rfpd/Precision_compression_mount_PCB_connectors.pdf",
+   "product_url": null,
+   "cad": {
+    "step": "3D libraries mentioned; HFSS model on request",
+    "step_url": null,
+    "em_model": "HFSS on request"
+   },
+   "origin": "source",
+   "notes": "RL >= 17 dB to 26.5 GHz",
+   "id": "hubersuhner-85221629"
+  },
+  {
+   "manufacturer": "HUBER+SUHNER",
+   "part_number": "85221630 (92_SK-S50-0-200/199_NE)",
+   "series": "",
+   "interface": "2.92mm",
+   "gender": "jack (female)",
+   "f_max_GHz": 40,
+   "mounting": "edge mount, microstrip",
+   "template": "flange_block",
+   "pcb_thickness_mm": null,
+   "launch_pin_od_mm": null,
+   "launch_dielectric_od_mm": null,
+   "materials": {
+    "body": "passivated stainless steel (CRES)",
+    "outer_contact": "passivated stainless steel (CRES)",
+    "center_contact": "gold-plated BeCu",
+    "bead": "Ultem 1000 (PEI)"
+   },
+   "datasheet_url": "https://shop.richardsonrfpd.com/docs/rfpd/Precision_compression_mount_PCB_connectors.pdf",
+   "product_url": null,
+   "cad": {
+    "step": "3D libraries mentioned; HFSS model on request",
+    "step_url": null,
+    "em_model": "HFSS on request"
+   },
+   "origin": "source",
+   "notes": "RL >= 17 dB to 40 GHz",
+   "id": "hubersuhner-85221630"
+  },
+  {
+   "manufacturer": "HUBER+SUHNER",
+   "part_number": "85221631 (92_PC24-S50-0-200/199_NE)",
+   "series": "",
+   "interface": "2.4mm",
+   "gender": "jack (female)",
+   "f_max_GHz": 50,
+   "mounting": "edge mount, microstrip",
+   "template": "flange_block",
+   "pcb_thickness_mm": null,
+   "launch_pin_od_mm": null,
+   "launch_dielectric_od_mm": null,
+   "materials": {
+    "body": "passivated stainless steel (CRES)",
+    "outer_contact": "passivated stainless steel (CRES)",
+    "center_contact": "gold-plated BeCu",
+    "bead": "Ultem 1000 (PEI)"
+   },
+   "datasheet_url": "https://shop.richardsonrfpd.com/docs/rfpd/Precision_compression_mount_PCB_connectors.pdf",
+   "product_url": null,
+   "cad": {
+    "step": "3D libraries mentioned; HFSS model on request",
+    "step_url": null,
+    "em_model": "HFSS on request"
+   },
+   "origin": "source",
+   "notes": "RL >= 17 dB to 50 GHz",
+   "id": "hubersuhner-85221631"
+  },
+  {
+   "manufacturer": "Cinch Connectivity (Johnson)",
+   "part_number": "142-0701-801",
+   "series": "",
+   "interface": "SMA",
+   "gender": "jack (female)",
+   "f_max_GHz": 18,
+   "mounting": "end launch, tab contact, 2 legs, solder",
+   "template": "legs_tab",
+   "pcb_thickness_mm": [
+    1.575,
+    1.575
+   ],
+   "launch_pin_od_mm": null,
+   "launch_dielectric_od_mm": null,
+   "materials": {
+    "body": "gold-plated brass (or nickel)",
+    "center_contact": "gold-plated BeCu (female)",
+    "interface_dielectric": "PTFE",
+    "nut_spring": "BeCu"
+   },
+   "datasheet_url": "https://www.eg.bucknell.edu/~dkelley/eceg497/lab/Datasheet_SMA-BoardEdge_Johnson.pdf",
+   "product_url": "https://www.cinch.com/products/rf-microwave/connectors/142-0701-801",
+   "cad": {
+    "step": "Cinch/Bel product page (CAD tab), not verified",
+    "step_url": null,
+    "em_model": null
+   },
+   "origin": "source",
+   "notes": "VSWR typ < 1.5 to 18 GHz",
+   "id": "cinch-142-0701-801"
+  },
+  {
+   "manufacturer": "Cinch Connectivity (Johnson)",
+   "part_number": "142-0701-806",
+   "series": "",
+   "interface": "SMA",
+   "gender": "jack (female)",
+   "f_max_GHz": 18,
+   "mounting": "end launch, tab contact, 2 legs, solder",
+   "template": "legs_tab",
+   "pcb_thickness_mm": [
+    1.575,
+    1.575
+   ],
+   "launch_pin_od_mm": null,
+   "launch_dielectric_od_mm": null,
+   "materials": {
+    "body": "gold-plated brass (or nickel)",
+    "center_contact": "gold-plated BeCu (female)",
+    "interface_dielectric": "PTFE",
+    "nut_spring": "BeCu"
+   },
+   "datasheet_url": "https://www.eg.bucknell.edu/~dkelley/eceg497/lab/Datasheet_SMA-BoardEdge_Johnson.pdf",
+   "product_url": "https://www.cinch.com/products/rf-microwave/connectors/142-0701-806",
+   "cad": {
+    "step": "Cinch/Bel product page (CAD tab), not verified",
+    "step_url": null,
+    "em_model": null
+   },
+   "origin": "source",
+   "notes": "VSWR typ < 1.5 to 18 GHz",
+   "id": "cinch-142-0701-806"
+  },
+  {
+   "manufacturer": "Cinch Connectivity (Johnson)",
+   "part_number": "142-0701-851",
+   "series": "",
+   "interface": "SMA",
+   "gender": "jack (female)",
+   "f_max_GHz": 18,
+   "mounting": "end launch, tab contact, 2 legs, solder",
+   "template": "legs_tab",
+   "pcb_thickness_mm": [
+    1.575,
+    1.575
+   ],
+   "launch_pin_od_mm": null,
+   "launch_dielectric_od_mm": null,
+   "materials": {
+    "body": "gold-plated brass (or nickel)",
+    "center_contact": "gold-plated BeCu (female)",
+    "interface_dielectric": "PTFE",
+    "nut_spring": "BeCu"
+   },
+   "datasheet_url": "https://www.eg.bucknell.edu/~dkelley/eceg497/lab/Datasheet_SMA-BoardEdge_Johnson.pdf",
+   "product_url": "https://www.cinch.com/products/rf-microwave/connectors/142-0701-851",
+   "cad": {
+    "step": "Cinch/Bel product page (CAD tab), not verified",
+    "step_url": null,
+    "em_model": null
+   },
+   "origin": "source",
+   "notes": "VSWR typ < 1.5 to 18 GHz",
+   "id": "cinch-142-0701-851"
+  },
+  {
+   "manufacturer": "Cinch Connectivity (Johnson)",
+   "part_number": "142-0701-861",
+   "series": "",
+   "interface": "SMA",
+   "gender": "jack (female)",
+   "f_max_GHz": 18,
+   "mounting": "end launch, tab contact, 2 legs, solder",
+   "template": "legs_tab",
+   "pcb_thickness_mm": [
+    1.575,
+    1.575
+   ],
+   "launch_pin_od_mm": null,
+   "launch_dielectric_od_mm": null,
+   "materials": {
+    "body": "gold-plated brass (or nickel)",
+    "center_contact": "gold-plated BeCu (female)",
+    "interface_dielectric": "PTFE",
+    "nut_spring": "BeCu"
+   },
+   "datasheet_url": "https://www.eg.bucknell.edu/~dkelley/eceg497/lab/Datasheet_SMA-BoardEdge_Johnson.pdf",
+   "product_url": "https://www.cinch.com/products/rf-microwave/connectors/142-0701-861",
+   "cad": {
+    "step": "Cinch/Bel product page (CAD tab), not verified",
+    "step_url": null,
+    "em_model": null
+   },
+   "origin": "source",
+   "notes": "VSWR typ < 1.5 to 18 GHz",
+   "id": "cinch-142-0701-861"
+  },
+  {
+   "manufacturer": "Cinch Connectivity (Johnson)",
+   "part_number": "142-0701-871",
+   "series": "",
+   "interface": "SMA",
+   "gender": "jack (female)",
+   "f_max_GHz": 18,
+   "mounting": "end launch, tab contact, 2 legs, solder",
+   "template": "legs_tab",
+   "pcb_thickness_mm": [
+    1.575,
+    1.575
+   ],
+   "launch_pin_od_mm": null,
+   "launch_dielectric_od_mm": null,
+   "materials": {
+    "body": "gold-plated brass (or nickel)",
+    "center_contact": "gold-plated BeCu (female)",
+    "interface_dielectric": "PTFE",
+    "nut_spring": "BeCu"
+   },
+   "datasheet_url": "https://www.eg.bucknell.edu/~dkelley/eceg497/lab/Datasheet_SMA-BoardEdge_Johnson.pdf",
+   "product_url": "https://www.cinch.com/products/rf-microwave/connectors/142-0701-871",
+   "cad": {
+    "step": "Cinch/Bel product page (CAD tab), not verified",
+    "step_url": null,
+    "em_model": null
+   },
+   "origin": "source",
+   "notes": "VSWR typ < 1.5 to 18 GHz",
+   "id": "cinch-142-0701-871"
+  },
+  {
+   "manufacturer": "Cinch Connectivity (Johnson)",
+   "part_number": "142-0701-876",
+   "series": "",
+   "interface": "SMA",
+   "gender": "jack (female)",
+   "f_max_GHz": 18,
+   "mounting": "end launch, tab contact, 2 legs, solder",
+   "template": "legs_tab",
+   "pcb_thickness_mm": [
+    1.575,
+    1.575
+   ],
+   "launch_pin_od_mm": null,
+   "launch_dielectric_od_mm": null,
+   "materials": {
+    "body": "gold-plated brass (or nickel)",
+    "center_contact": "gold-plated BeCu (female)",
+    "interface_dielectric": "PTFE",
+    "nut_spring": "BeCu"
+   },
+   "datasheet_url": "https://www.eg.bucknell.edu/~dkelley/eceg497/lab/Datasheet_SMA-BoardEdge_Johnson.pdf",
+   "product_url": "https://www.cinch.com/products/rf-microwave/connectors/142-0701-876",
+   "cad": {
+    "step": "Cinch/Bel product page (CAD tab), not verified",
+    "step_url": null,
+    "em_model": null
+   },
+   "origin": "source",
+   "notes": "VSWR typ < 1.5 to 18 GHz",
+   "id": "cinch-142-0701-876"
+  },
+  {
+   "manufacturer": "Cinch Connectivity (Johnson)",
+   "part_number": "142-0711-821",
+   "series": "",
+   "interface": "SMA",
+   "gender": "jack (female)",
+   "f_max_GHz": 18,
+   "mounting": "end launch, tab contact, 2 legs, solder",
+   "template": "legs_tab",
+   "pcb_thickness_mm": [
+    1.575,
+    1.575
+   ],
+   "launch_pin_od_mm": null,
+   "launch_dielectric_od_mm": null,
+   "materials": {
+    "body": "gold-plated brass (or nickel)",
+    "center_contact": "gold-plated BeCu (female)",
+    "interface_dielectric": "PTFE",
+    "nut_spring": "BeCu"
+   },
+   "datasheet_url": "https://www.eg.bucknell.edu/~dkelley/eceg497/lab/Datasheet_SMA-BoardEdge_Johnson.pdf",
+   "product_url": "https://www.cinch.com/products/rf-microwave/connectors/142-0711-821",
+   "cad": {
+    "step": "Cinch/Bel product page (CAD tab), not verified",
+    "step_url": null,
+    "em_model": null
+   },
+   "origin": "source",
+   "notes": "VSWR typ < 1.5 to 18 GHz",
+   "id": "cinch-142-0711-821"
+  },
+  {
+   "manufacturer": "Cinch Connectivity (Johnson)",
+   "part_number": "142-0711-826",
+   "series": "",
+   "interface": "SMA",
+   "gender": "jack (female)",
+   "f_max_GHz": 18,
+   "mounting": "end launch, tab contact, 2 legs, solder",
+   "template": "legs_tab",
+   "pcb_thickness_mm": [
+    1.575,
+    1.575
+   ],
+   "launch_pin_od_mm": null,
+   "launch_dielectric_od_mm": null,
+   "materials": {
+    "body": "gold-plated brass (or nickel)",
+    "center_contact": "gold-plated BeCu (female)",
+    "interface_dielectric": "PTFE",
+    "nut_spring": "BeCu"
+   },
+   "datasheet_url": "https://www.eg.bucknell.edu/~dkelley/eceg497/lab/Datasheet_SMA-BoardEdge_Johnson.pdf",
+   "product_url": "https://www.cinch.com/products/rf-microwave/connectors/142-0711-826",
+   "cad": {
+    "step": "Cinch/Bel product page (CAD tab), not verified",
+    "step_url": null,
+    "em_model": null
+   },
+   "origin": "source",
+   "notes": "VSWR typ < 1.5 to 18 GHz",
+   "id": "cinch-142-0711-826"
+  },
+  {
+   "manufacturer": "Cinch Connectivity (Johnson)",
+   "part_number": "142-0711-871",
+   "series": "",
+   "interface": "SMA",
+   "gender": "jack (female)",
+   "f_max_GHz": 18,
+   "mounting": "end launch, tab contact, 2 legs, solder",
+   "template": "legs_tab",
+   "pcb_thickness_mm": [
+    1.194,
+    1.194
+   ],
+   "launch_pin_od_mm": null,
+   "launch_dielectric_od_mm": null,
+   "materials": {
+    "body": "gold-plated brass (or nickel)",
+    "center_contact": "gold-plated BeCu (female)",
+    "interface_dielectric": "PTFE",
+    "nut_spring": "BeCu"
+   },
+   "datasheet_url": "https://www.eg.bucknell.edu/~dkelley/eceg497/lab/Datasheet_SMA-BoardEdge_Johnson.pdf",
+   "product_url": "https://www.cinch.com/products/rf-microwave/connectors/142-0711-871",
+   "cad": {
+    "step": "Cinch/Bel product page (CAD tab), not verified",
+    "step_url": null,
+    "em_model": null
+   },
+   "origin": "source",
+   "notes": "VSWR typ < 1.5 to 18 GHz",
+   "id": "cinch-142-0711-871"
+  },
+  {
+   "manufacturer": "Cinch Connectivity (Johnson)",
+   "part_number": "142-0711-876",
+   "series": "",
+   "interface": "SMA",
+   "gender": "jack (female)",
+   "f_max_GHz": 18,
+   "mounting": "end launch, tab contact, 2 legs, solder",
+   "template": "legs_tab",
+   "pcb_thickness_mm": [
+    1.194,
+    1.194
+   ],
+   "launch_pin_od_mm": null,
+   "launch_dielectric_od_mm": null,
+   "materials": {
+    "body": "gold-plated brass (or nickel)",
+    "center_contact": "gold-plated BeCu (female)",
+    "interface_dielectric": "PTFE",
+    "nut_spring": "BeCu"
+   },
+   "datasheet_url": "https://www.eg.bucknell.edu/~dkelley/eceg497/lab/Datasheet_SMA-BoardEdge_Johnson.pdf",
+   "product_url": "https://www.cinch.com/products/rf-microwave/connectors/142-0711-876",
+   "cad": {
+    "step": "Cinch/Bel product page (CAD tab), not verified",
+    "step_url": null,
+    "em_model": null
+   },
+   "origin": "source",
+   "notes": "VSWR typ < 1.5 to 18 GHz",
+   "id": "cinch-142-0711-876"
+  },
+  {
+   "manufacturer": "Cinch Connectivity (Johnson)",
+   "part_number": "142-0711-881",
+   "series": "",
+   "interface": "SMA",
+   "gender": "jack (female)",
+   "f_max_GHz": 18,
+   "mounting": "end launch, tab contact, 2 legs, solder",
+   "template": "legs_tab",
+   "pcb_thickness_mm": [
+    1.194,
+    1.194
+   ],
+   "launch_pin_od_mm": null,
+   "launch_dielectric_od_mm": null,
+   "materials": {
+    "body": "gold-plated brass (or nickel)",
+    "center_contact": "gold-plated BeCu (female)",
+    "interface_dielectric": "PTFE",
+    "nut_spring": "BeCu"
+   },
+   "datasheet_url": "https://www.eg.bucknell.edu/~dkelley/eceg497/lab/Datasheet_SMA-BoardEdge_Johnson.pdf",
+   "product_url": "https://www.cinch.com/products/rf-microwave/connectors/142-0711-881",
+   "cad": {
+    "step": "Cinch/Bel product page (CAD tab), not verified",
+    "step_url": null,
+    "em_model": null
+   },
+   "origin": "source",
+   "notes": "VSWR typ < 1.5 to 18 GHz",
+   "id": "cinch-142-0711-881"
+  },
+  {
+   "manufacturer": "Cinch Connectivity (Johnson)",
+   "part_number": "142-0711-886",
+   "series": "",
+   "interface": "SMA",
+   "gender": "jack (female)",
+   "f_max_GHz": 18,
+   "mounting": "end launch, tab contact, 2 legs, solder",
+   "template": "legs_tab",
+   "pcb_thickness_mm": [
+    1.194,
+    1.194
+   ],
+   "launch_pin_od_mm": null,
+   "launch_dielectric_od_mm": null,
+   "materials": {
+    "body": "gold-plated brass (or nickel)",
+    "center_contact": "gold-plated BeCu (female)",
+    "interface_dielectric": "PTFE",
+    "nut_spring": "BeCu"
+   },
+   "datasheet_url": "https://www.eg.bucknell.edu/~dkelley/eceg497/lab/Datasheet_SMA-BoardEdge_Johnson.pdf",
+   "product_url": "https://www.cinch.com/products/rf-microwave/connectors/142-0711-886",
+   "cad": {
+    "step": "Cinch/Bel product page (CAD tab), not verified",
+    "step_url": null,
+    "em_model": null
+   },
+   "origin": "source",
+   "notes": "VSWR typ < 1.5 to 18 GHz",
+   "id": "cinch-142-0711-886"
+  },
+  {
+   "manufacturer": "Cinch Connectivity (Johnson)",
+   "part_number": "142-0701-881",
+   "series": "",
+   "interface": "SMA",
+   "gender": "jack (female)",
+   "f_max_GHz": 18,
+   "mounting": "end launch, tab contact, 2 legs, solder",
+   "template": "legs_tab",
+   "pcb_thickness_mm": [
+    0.787,
+    0.787
+   ],
+   "launch_pin_od_mm": null,
+   "launch_dielectric_od_mm": null,
+   "materials": {
+    "body": "gold-plated brass (or nickel)",
+    "center_contact": "gold-plated BeCu (female)",
+    "interface_dielectric": "PTFE",
+    "nut_spring": "BeCu"
+   },
+   "datasheet_url": "https://www.eg.bucknell.edu/~dkelley/eceg497/lab/Datasheet_SMA-BoardEdge_Johnson.pdf",
+   "product_url": "https://www.cinch.com/products/rf-microwave/connectors/142-0701-881",
+   "cad": {
+    "step": "Cinch/Bel product page (CAD tab), not verified",
+    "step_url": null,
+    "em_model": null
+   },
+   "origin": "source",
+   "notes": "VSWR typ < 1.5 to 18 GHz",
+   "id": "cinch-142-0701-881"
+  },
+  {
+   "manufacturer": "Cinch Connectivity (Johnson)",
+   "part_number": "142-0701-886",
+   "series": "",
+   "interface": "SMA",
+   "gender": "jack (female)",
+   "f_max_GHz": 18,
+   "mounting": "end launch, tab contact, 2 legs, solder",
+   "template": "legs_tab",
+   "pcb_thickness_mm": [
+    0.787,
+    0.787
+   ],
+   "launch_pin_od_mm": null,
+   "launch_dielectric_od_mm": null,
+   "materials": {
+    "body": "gold-plated brass (or nickel)",
+    "center_contact": "gold-plated BeCu (female)",
+    "interface_dielectric": "PTFE",
+    "nut_spring": "BeCu"
+   },
+   "datasheet_url": "https://www.eg.bucknell.edu/~dkelley/eceg497/lab/Datasheet_SMA-BoardEdge_Johnson.pdf",
+   "product_url": "https://www.cinch.com/products/rf-microwave/connectors/142-0701-886",
+   "cad": {
+    "step": "Cinch/Bel product page (CAD tab), not verified",
+    "step_url": null,
+    "em_model": null
+   },
+   "origin": "source",
+   "notes": "VSWR typ < 1.5 to 18 GHz",
+   "id": "cinch-142-0701-886"
+  },
+  {
+   "manufacturer": "Cinch Connectivity (Johnson)",
+   "part_number": "145-0701-251",
+   "series": "",
+   "interface": "2.92mm",
+   "gender": "jack (female)",
+   "f_max_GHz": null,
+   "mounting": "end launch, solder",
+   "template": "legs_tab",
+   "pcb_thickness_mm": null,
+   "launch_pin_od_mm": null,
+   "launch_dielectric_od_mm": null,
+   "materials": {},
+   "datasheet_url": null,
+   "product_url": "https://www.digikey.at/en/products/detail/cinch-connectivity-solutions-johnson/145-0701-251/17278652",
+   "cad": {
+    "step": "unknown",
+    "step_url": null,
+    "em_model": null
+   },
+   "origin": "source",
+   "notes": "f_max not read (2.92 mm: typ. 40 GHz)",
+   "id": "cinch-145-0701-251"
+  },
+  {
+   "manufacturer": "Amphenol RF",
+   "part_number": "132322",
+   "series": "",
+   "interface": "SMA",
+   "gender": "jack (female)",
+   "f_max_GHz": 18,
+   "mounting": "end launch, solder",
+   "template": "legs_tab",
+   "pcb_thickness_mm": [
+    0,
+    1.575
+   ],
+   "launch_pin_od_mm": null,
+   "launch_dielectric_od_mm": null,
+   "materials": {
+    "body": "gold-plated brass",
+    "center_contact": "gold-plated BeCu",
+    "interface_dielectric": "PTFE"
+   },
+   "datasheet_url": null,
+   "product_url": "https://www.amphenolrf.com/132322.html",
+   "cad": {
+    "step": "Amphenol RF product page (not readable here)",
+    "step_url": null,
+    "em_model": null
+   },
+   "origin": "source",
+   "notes": "",
+   "id": "amphenol-132322"
+  },
+  {
+   "manufacturer": "Amphenol RF",
+   "part_number": "132357",
+   "series": "",
+   "interface": "SMA",
+   "gender": "jack (female)",
+   "f_max_GHz": 18,
+   "mounting": "end launch, flat tab, ribbed, solder",
+   "template": "legs_tab",
+   "pcb_thickness_mm": [
+    1.575,
+    1.575
+   ],
+   "launch_pin_od_mm": null,
+   "launch_dielectric_od_mm": null,
+   "materials": {
+    "center_contact": "gold-plated BeCu",
+    "body_finish": "gold"
+   },
+   "datasheet_url": "https://docs.rs-online.com/9216/A700000006757212.pdf",
+   "product_url": "https://www.amphenolrf.com/132357.html",
+   "cad": {
+    "step": "unknown",
+    "step_url": null,
+    "em_model": null
+   },
+   "origin": "source",
+   "notes": "",
+   "id": "amphenol-132357"
+  },
+  {
+   "manufacturer": "Amphenol RF",
+   "part_number": "132255",
+   "series": "",
+   "interface": "SMA",
+   "gender": "jack (female)",
+   "f_max_GHz": null,
+   "mounting": "end launch, high frequency, 0.062 in",
+   "template": "legs_tab",
+   "pcb_thickness_mm": [
+    1.575,
+    1.575
+   ],
+   "launch_pin_od_mm": null,
+   "launch_dielectric_od_mm": null,
+   "materials": {},
+   "datasheet_url": null,
+   "product_url": "https://www.amphenolrf.com/132255.html",
+   "cad": {
+    "step": "unknown",
+    "step_url": null,
+    "em_model": null
+   },
+   "origin": "source",
+   "notes": "'High Frequency' variant; f_max not read",
+   "id": "amphenol-132255"
+  },
+  {
+   "manufacturer": "Amphenol RF",
+   "part_number": "132289-14",
+   "series": "",
+   "interface": "SMA",
+   "gender": "jack (female)",
+   "f_max_GHz": null,
+   "mounting": "end launch, bulkhead, O-ring, 0.062 in",
+   "template": "legs_tab",
+   "pcb_thickness_mm": [
+    1.575,
+    1.575
+   ],
+   "launch_pin_od_mm": null,
+   "launch_dielectric_od_mm": null,
+   "materials": {},
+   "datasheet_url": null,
+   "product_url": "https://www.amphenolrf.com/132289-14.html",
+   "cad": {
+    "step": "unknown",
+    "step_url": null,
+    "em_model": null
+   },
+   "origin": "source",
+   "notes": "",
+   "id": "amphenol-132289-14"
+  },
+  {
+   "manufacturer": "Amphenol RF",
+   "part_number": "132366-10",
+   "series": "",
+   "interface": "SMA",
+   "gender": "plug (male)",
+   "f_max_GHz": null,
+   "mounting": "end launch, 0.062 in",
+   "template": "legs_tab",
+   "pcb_thickness_mm": [
+    1.575,
+    1.575
+   ],
+   "launch_pin_od_mm": null,
+   "launch_dielectric_od_mm": null,
+   "materials": {},
+   "datasheet_url": null,
+   "product_url": "https://www.amphenolrf.com/132366-10.html",
+   "cad": {
+    "step": "unknown",
+    "step_url": null,
+    "em_model": null
+   },
+   "origin": "source",
+   "notes": "",
+   "id": "amphenol-132366-10"
+  },
+  {
+   "manufacturer": "Molex",
+   "part_number": "73251-1150 (0732511150)",
+   "series": "",
+   "interface": "SMA",
+   "gender": "jack (female)",
+   "f_max_GHz": 18,
+   "mounting": "edge mount, solder",
+   "template": "legs_tab",
+   "pcb_thickness_mm": [
+    1.6,
+    1.6
+   ],
+   "launch_pin_od_mm": null,
+   "launch_dielectric_od_mm": null,
+   "materials": {
+    "body": "brass, 0.25 um Au",
+    "center_contact": "gold-plated BeCu",
+    "interface_dielectric": "PTFE"
+   },
+   "datasheet_url": "https://www.molex.com/en-us/products/part-detail/732511150?display=pdf",
+   "product_url": "https://www.molex.com/en-us/products/part-detail/732511150",
+   "cad": {
+    "step": "yes (direct download)",
+    "step_url": "https://www.molex.com/content/dam/molex/molex-dot-com/products/automated/en-us/3dcadmodels/732/73251/732511150_stp.zip",
+    "em_model": null
+   },
+   "origin": "source",
+   "notes": "",
+   "id": "molex-73251-1150"
+  },
+  {
+   "manufacturer": "Molex",
+   "part_number": "73251-4432 (0732514432)",
+   "series": "",
+   "interface": "SMA",
+   "gender": "jack (female)",
+   "f_max_GHz": null,
+   "mounting": "board edge, end launch, solder",
+   "template": "legs_tab",
+   "pcb_thickness_mm": null,
+   "launch_pin_od_mm": null,
+   "launch_dielectric_od_mm": null,
+   "materials": {},
+   "datasheet_url": null,
+   "product_url": "https://www.digikey.com/en/products/detail/molex/0732514432/11305622",
+   "cad": {
+    "step": "unknown",
+    "step_url": null,
+    "em_model": null
+   },
+   "origin": "source",
+   "notes": "",
+   "id": "molex-73251-4432"
+  }
+ ]
+}

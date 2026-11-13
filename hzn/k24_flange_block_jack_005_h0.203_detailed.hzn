@@ -1,0 +1,317 @@
+{
+ "name": "k24_flange_block_jack_005_h0.203_detailed",
+ "designs": [
+  {
+   "name": "Detailed",
+   "units": "mm",
+   "kind": "3d",
+   "settings": {
+    "SolutionType": "Modal",
+    "AutoOpen": "Off",
+    "AutoOpenBoundary": "Auto",
+    "AutoOpenPadding": "",
+    "FilterAirMargin": "12mm",
+    "MaterialOverride": "True"
+   },
+   "variables": {},
+   "objects": [
+    {
+     "name": "transition_block",
+     "history": [
+      {
+       "kind": "Import",
+       "props": {
+        "File": "../step/k24_flange_block_jack_005_h0.203.step",
+        "Body": "0"
+       },
+       "suppressed": false
+      }
+     ],
+     "material": "nickel",
+     "solve_inside": true,
+     "model": true,
+     "color": "#a7a7a7",
+     "transparency": 0.0,
+     "wireframe": false,
+     "visible": true,
+     "consumed_by": null,
+     "group": "",
+     "orientation": "Global"
+    },
+    {
+     "name": "launch_dielectric",
+     "history": [
+      {
+       "kind": "Import",
+       "props": {
+        "File": "../step/k24_flange_block_jack_005_h0.203.step",
+        "Body": "1"
+       },
+       "suppressed": false
+      }
+     ],
+     "material": "PTFE_connector",
+     "solve_inside": true,
+     "model": true,
+     "color": "#bebebe",
+     "transparency": 0.0,
+     "wireframe": false,
+     "visible": true,
+     "consumed_by": null,
+     "group": "",
+     "orientation": "Global"
+    },
+    {
+     "name": "connector_housing",
+     "history": [
+      {
+       "kind": "Import",
+       "props": {
+        "File": "../step/k24_flange_block_jack_005_h0.203.step",
+        "Body": "2"
+       },
+       "suppressed": false
+      }
+     ],
+     "material": "stainless_steel",
+     "solve_inside": true,
+     "model": true,
+     "color": "#9aa3aa",
+     "transparency": 0.0,
+     "wireframe": false,
+     "visible": true,
+     "consumed_by": null,
+     "group": "",
+     "orientation": "Global"
+    },
+    {
+     "name": "center_contact_and_launch_pin",
+     "history": [
+      {
+       "kind": "Import",
+       "props": {
+        "File": "../step/k24_flange_block_jack_005_h0.203.step",
+        "Body": "3"
+       },
+       "suppressed": false
+      }
+     ],
+     "material": "gold",
+     "solve_inside": true,
+     "model": true,
+     "color": "#e5c100",
+     "transparency": 0.0,
+     "wireframe": false,
+     "visible": true,
+     "consumed_by": null,
+     "group": "",
+     "orientation": "Global"
+    },
+    {
+     "name": "bead",
+     "history": [
+      {
+       "kind": "Import",
+       "props": {
+        "File": "../step/k24_flange_block_jack_005_h0.203.step",
+        "Body": "4"
+       },
+       "suppressed": false
+      }
+     ],
+     "material": "Ultem_1000",
+     "solve_inside": true,
+     "model": true,
+     "color": "#bebebe",
+     "transparency": 0.0,
+     "wireframe": false,
+     "visible": true,
+     "consumed_by": null,
+     "group": "",
+     "orientation": "Global"
+    },
+    {
+     "name": "screw_1",
+     "history": [
+      {
+       "kind": "Import",
+       "props": {
+        "File": "../step/k24_flange_block_jack_005_h0.203.step",
+        "Body": "5"
+       },
+       "suppressed": false
+      }
+     ],
+     "material": "stainless_steel",
+     "solve_inside": true,
+     "model": true,
+     "color": "#9aa3aa",
+     "transparency": 0.0,
+     "wireframe": false,
+     "visible": true,
+     "consumed_by": null,
+     "group": "",
+     "orientation": "Global"
+    },
+    {
+     "name": "screw_2",
+     "history": [
+      {
+       "kind": "Import",
+       "props": {
+        "File": "../step/k24_flange_block_jack_005_h0.203.step",
+        "Body": "6"
+       },
+       "suppressed": false
+      }
+     ],
+     "material": "stainless_steel",
+     "solve_inside": true,
+     "model": true,
+     "color": "#9aa3aa",
+     "transparency": 0.0,
+     "wireframe": false,
+     "visible": true,
+     "consumed_by": null,
+     "group": "",
+     "orientation": "Global"
+    },
+    {
+     "name": "screw_3",
+     "history": [
+      {
+       "kind": "Import",
+       "props": {
+        "File": "../step/k24_flange_block_jack_005_h0.203.step",
+        "Body": "7"
+       },
+       "suppressed": false
+      }
+     ],
+     "material": "stainless_steel",
+     "solve_inside": true,
+     "model": true,
+     "color": "#9aa3aa",
+     "transparency": 0.0,
+     "wireframe": false,
+     "visible": true,
+     "consumed_by": null,
+     "group": "",
+     "orientation": "Global"
+    },
+    {
+     "name": "screw_4",
+     "history": [
+      {
+       "kind": "Import",
+       "props": {
+        "File": "../step/k24_flange_block_jack_005_h0.203.step",
+        "Body": "8"
+       },
+       "suppressed": false
+      }
+     ],
+     "material": "stainless_steel",
+     "solve_inside": true,
+     "model": true,
+     "color": "#9aa3aa",
+     "transparency": 0.0,
+     "wireframe": false,
+     "visible": true,
+     "consumed_by": null,
+     "group": "",
+     "orientation": "Global"
+    }
+   ],
+   "boundaries": [],
+   "excitations": [],
+   "mesh_ops": [],
+   "setups": [],
+   "spheres": [],
+   "reports": [],
+   "field_plots": [],
+   "coord_systems": [],
+   "field_exprs": [],
+   "field_funcs": [],
+   "optimetrics": [],
+   "parametrics": [],
+   "working_cs": "Global",
+   "notes": "",
+   "stackup": null,
+   "components": [],
+   "wires": [],
+   "connectors": []
+  }
+ ],
+ "variables": {},
+ "materials": [
+  {
+   "name": "PTFE_connector",
+   "permittivity": "2.05",
+   "permeability": "1",
+   "conductivity": "0",
+   "loss_tangent": "0.0003",
+   "magnetic_loss_tangent": "0",
+   "color": "#f4f4f4",
+   "pec": false,
+   "library": "Project",
+   "description": "solid PTFE in RF connectors (typ. 2.02-2.08)",
+   "dispersion": "None",
+   "measured_frequency": "1GHz",
+   "eps_static": "4.6",
+   "eps_infinity": "4.2",
+   "relaxation_frequency": "1GHz",
+   "anisotropic": false,
+   "permittivity_tensor": "",
+   "permeability_tensor": "",
+   "loss_tangent_tensor": "",
+   "emsutil_key": ""
+  },
+  {
+   "name": "Ultem_1000",
+   "permittivity": "3.15",
+   "permeability": "1",
+   "conductivity": "0",
+   "loss_tangent": "0.0025",
+   "magnetic_loss_tangent": "0",
+   "color": "#c8732a",
+   "pec": false,
+   "library": "Project",
+   "description": "PEI support bead (SABIC Ultem 1000, typical at 1-10 GHz)",
+   "dispersion": "None",
+   "measured_frequency": "1GHz",
+   "eps_static": "4.6",
+   "eps_infinity": "4.2",
+   "relaxation_frequency": "1GHz",
+   "anisotropic": false,
+   "permittivity_tensor": "",
+   "permeability_tensor": "",
+   "loss_tangent_tensor": "",
+   "emsutil_key": ""
+  },
+  {
+   "name": "Kel-F_PCTFE",
+   "permittivity": "2.35",
+   "permeability": "1",
+   "conductivity": "0",
+   "loss_tangent": "0.005",
+   "magnetic_loss_tangent": "0",
+   "color": "#d9e6f2",
+   "pec": false,
+   "library": "Project",
+   "description": "PCTFE support bead (typical)",
+   "dispersion": "None",
+   "measured_frequency": "1GHz",
+   "eps_static": "4.6",
+   "eps_infinity": "4.2",
+   "relaxation_frequency": "1GHz",
+   "anisotropic": false,
+   "permittivity_tensor": "",
+   "permeability_tensor": "",
+   "loss_tangent_tensor": "",
+   "emsutil_key": ""
+  }
+ ],
+ "format": "hertzon-project",
+ "version": 2
+}

@@ -1,0 +1,84 @@
+{
+ "model": "sma_legs_tab_jack_h1.57",
+ "params": {
+  "name": "sma_legs_tab_jack_h1.57",
+  "interface": "SMA",
+  "template": "legs_tab",
+  "board_h": 1.575,
+  "t_cu": 0.035,
+  "launch_option": ".010",
+  "bead": "Ultem 1000 (PEI)",
+  "narrow": false,
+  "n_legs": 4,
+  "thread_segments": 24,
+  "origin": {
+   "like": "Johnson 142-0701-801, Molex 73251-1150, Amphenol 132322"
+  }
+ },
+ "dimensions_mm": {
+  "b": 4.13,
+  "a": 1.27,
+  "pin_male": 0.92,
+  "thr_D": 6.35,
+  "thr_P": 0.7056,
+  "socket_bore": 0.92,
+  "socket_depth_est": 2.3,
+  "thread_len_est": 5.6,
+  "bead_len_est": 0.9,
+  "bead_z_est": 3.25,
+  "neck": 0.9401,
+  "line_w": 1.8586,
+  "line_g": 0.25,
+  "tab_w_est": 0.76,
+  "tab_t_est": 0.3,
+  "tab_len_est": 3.0,
+  "z_axis": 0.185,
+  "body_len_est": 3.0,
+  "body_w_est": 6.35,
+  "leg_w_est": 1.0,
+  "leg_t_est": 0.5,
+  "leg_len_est": 3.8,
+  "leg_x_est": 2.4
+ },
+ "frame": "board top copper z=0 at t_cu, board in y>0, edge at y=0, axis along -Y at z=z_axis",
+ "bodies": [
+  {
+   "index": 0,
+   "name": "outer_body",
+   "material": "gold-plated brass",
+   "hertzon_material": "gold",
+   "volume_mm3": 165.7269
+  },
+  {
+   "index": 1,
+   "name": "center_contact",
+   "material": "gold-plated BeCu",
+   "hertzon_material": "gold",
+   "volume_mm3": 8.8424
+  },
+  {
+   "index": 2,
+   "name": "dielectric",
+   "material": "PTFE",
+   "hertzon_material": "Teflon (tm)",
+   "volume_mm3": 104.3153
+  }
+ ],
+ "step": "sma_legs_tab_jack_h1.57.step",
+ "overlaps_mm3": [],
+ "estimated": [
+  "bead_len_est",
+  "bead_z_est",
+  "body_len_est",
+  "body_w_est",
+  "leg_len_est",
+  "leg_t_est",
+  "leg_w_est",
+  "leg_x_est",
+  "socket_depth_est",
+  "tab_len_est",
+  "tab_t_est",
+  "tab_w_est",
+  "thread_len_est"
+ ]
+}

@@ -1,0 +1,134 @@
+{
+ "model": "k292_flange_block_jack_005_h0.203",
+ "params": {
+  "name": "k292_flange_block_jack_005_h0.203",
+  "interface": "2.92mm",
+  "template": "flange_block",
+  "board_h": 0.203,
+  "t_cu": 0.035,
+  "launch_option": ".005",
+  "bead": "Ultem 1000 (PEI)",
+  "narrow": false,
+  "n_legs": 4,
+  "thread_segments": 24,
+  "origin": {
+   "like": "Southwest Microwave 1092-01A-12"
+  }
+ },
+ "dimensions_mm": {
+  "b": 2.92,
+  "a": 1.27,
+  "pin_male": 0.91,
+  "thr_D": 6.35,
+  "thr_P": 0.7056,
+  "socket_bore": 0.91,
+  "socket_depth_est": 2.3,
+  "thread_len_est": 5.6,
+  "bead_len_est": 0.9,
+  "bead_z_est": 3.25,
+  "neck": 0.6647,
+  "line_w": 0.33,
+  "line_g": 0.15,
+  "launch_pin": 0.127,
+  "launch_diel": 0.7366,
+  "z_axis": 0.0985,
+  "block_w_est": 12.7,
+  "block_len_est": 6.35,
+  "block_top_est": 3.2,
+  "block_bot_est": 1.6,
+  "wall_est": 0.3,
+  "launch_over_est": 0.4,
+  "channel_w_est": 0.93,
+  "channel_h_est": 0.5075,
+  "channel_len_est": 1.8,
+  "flange_t_est": 2.0,
+  "flange_h_est": 7.6,
+  "screw_dx_est": 4.65
+ },
+ "frame": "board top copper z=0 at t_cu, board in y>0, edge at y=0, axis along -Y at z=z_axis",
+ "bodies": [
+  {
+   "index": 0,
+   "name": "transition_block",
+   "material": "nickel-plated brass",
+   "hertzon_material": "nickel",
+   "volume_mm3": 369.9727
+  },
+  {
+   "index": 1,
+   "name": "launch_dielectric",
+   "material": "PTFE",
+   "hertzon_material": "Teflon (tm)",
+   "volume_mm3": 0.124
+  },
+  {
+   "index": 2,
+   "name": "connector_housing",
+   "material": "passivated stainless steel (CRES)",
+   "hertzon_material": "stainless_steel",
+   "volume_mm3": 275.3454
+  },
+  {
+   "index": 3,
+   "name": "center_contact_and_launch_pin",
+   "material": "gold-plated BeCu",
+   "hertzon_material": "gold",
+   "volume_mm3": 6.795
+  },
+  {
+   "index": 4,
+   "name": "bead",
+   "material": "Ultem 1000 (PEI)",
+   "hertzon_material": "Ultem_1000",
+   "volume_mm3": 5.7147
+  },
+  {
+   "index": 5,
+   "name": "screw_1",
+   "material": "stainless steel",
+   "hertzon_material": "stainless steel",
+   "volume_mm3": 12.7955
+  },
+  {
+   "index": 6,
+   "name": "screw_2",
+   "material": "stainless steel",
+   "hertzon_material": "stainless steel",
+   "volume_mm3": 22.3161
+  },
+  {
+   "index": 7,
+   "name": "screw_3",
+   "material": "stainless steel",
+   "hertzon_material": "stainless steel",
+   "volume_mm3": 12.7955
+  },
+  {
+   "index": 8,
+   "name": "screw_4",
+   "material": "stainless steel",
+   "hertzon_material": "stainless steel",
+   "volume_mm3": 22.3161
+  }
+ ],
+ "step": "k292_flange_block_jack_005_h0.203.step",
+ "overlaps_mm3": [],
+ "estimated": [
+  "bead_len_est",
+  "bead_z_est",
+  "block_bot_est",
+  "block_len_est",
+  "block_top_est",
+  "block_w_est",
+  "channel_h_est",
+  "channel_len_est",
+  "channel_w_est",
+  "flange_h_est",
+  "flange_t_est",
+  "launch_over_est",
+  "screw_dx_est",
+  "socket_depth_est",
+  "thread_len_est",
+  "wall_est"
+ ]
+}

@@ -1,0 +1,155 @@
+{
+ "interfaces": {
+  "SMA": {
+   "interface": "SMA",
+   "standard": "MIL-STD-348 Fig. 310, IEC 61169-15",
+   "f_max_GHz": 18.0,
+   "outer_conductor_id_mm": 4.13,
+   "center_conductor_od_mm": 1.27,
+   "dielectric": "PTFE",
+   "z0_ohm": 49.38,
+   "te11_cutoff_GHz": 24.7,
+   "coupling_thread": "1/4-36 UNS-2A (jack)",
+   "thread_major_mm": 6.35,
+   "thread_pitch_mm": 0.7056,
+   "male_pin_od_mm": 0.92,
+   "origin": "standard",
+   "notes": "PTFE-filled at the interface. 18 GHz standard, precision/'Super SMA' 26.5-27 GHz. Dielectric OD 0.161-0.165 in (4.09-4.19 mm); pin 0.036-0.037 in."
+  },
+  "2.92mm": {
+   "interface": "2.92mm",
+   "standard": "IEEE 287 / IEC 61169-35 (K, RPC-2.92, SK)",
+   "f_max_GHz": 40.0,
+   "outer_conductor_id_mm": 2.92,
+   "center_conductor_od_mm": 1.27,
+   "dielectric": "air",
+   "z0_ohm": 49.9,
+   "te11_cutoff_GHz": 45.5,
+   "coupling_thread": "1/4-36 UNS-2A (jack)",
+   "thread_major_mm": 6.35,
+   "thread_pitch_mm": 0.7056,
+   "male_pin_od_mm": 0.91,
+   "origin": "standard",
+   "notes": "Air at the interface; mechanically compatible with SMA and 3.5 mm. Support bead (Ultem, Kel-F or PEEK) a few mm behind the reference plane, compensated by an undercut.",
+   "bead_compensation_mm": {
+    "Ultem 1000 (PEI)": {
+     "neck_od_mm": 0.665,
+     "origin": "estimate (50 ohm with the outer conductor unchanged)"
+    },
+    "Kel-F (PCTFE)": {
+     "neck_od_mm": 0.813,
+     "origin": "estimate (50 ohm with the outer conductor unchanged)"
+    },
+    "PEEK": {
+     "neck_od_mm": 0.657,
+     "origin": "estimate (50 ohm with the outer conductor unchanged)"
+    }
+   }
+  },
+  "2.4mm": {
+   "interface": "2.4mm",
+   "standard": "IEEE 287 / IEC 61169-32 (RPC-2.40, PC 2.4)",
+   "f_max_GHz": 50.0,
+   "outer_conductor_id_mm": 2.4,
+   "center_conductor_od_mm": 1.042,
+   "dielectric": "air",
+   "z0_ohm": 50.01,
+   "te11_cutoff_GHz": 55.4,
+   "coupling_thread": "M7x0.75-6g (jack)",
+   "thread_major_mm": 7.0,
+   "thread_pitch_mm": 0.75,
+   "male_pin_od_mm": 0.51,
+   "origin": "standard",
+   "notes": "Air at the interface; intermates with 1.85 mm. Not compatible with SMA/2.92 mm.",
+   "bead_compensation_mm": {
+    "Ultem 1000 (PEI)": {
+     "neck_od_mm": 0.546,
+     "origin": "estimate (50 ohm with the outer conductor unchanged)"
+    },
+    "Kel-F (PCTFE)": {
+     "neck_od_mm": 0.668,
+     "origin": "estimate (50 ohm with the outer conductor unchanged)"
+    },
+    "PEEK": {
+     "neck_od_mm": 0.54,
+     "origin": "estimate (50 ohm with the outer conductor unchanged)"
+    }
+   }
+  }
+ },
+ "dielectrics": {
+  "PTFE": {
+   "er": 2.05,
+   "tand": 0.0003,
+   "hertzon_material": "Teflon (tm)",
+   "note": "Hertzon 'Teflon (tm)' has er 2.1 / tand 0.001; solid PTFE in connectors is 2.02-2.08"
+  },
+  "Ultem 1000 (PEI)": {
+   "er": 3.15,
+   "tand": 0.0025,
+   "hertzon_material": "Ultem_1000",
+   "note": "new material, er 3.15 tand 0.0025 at 1-10 GHz (SABIC data, typical)"
+  },
+  "Kel-F (PCTFE)": {
+   "er": 2.35,
+   "tand": 0.005,
+   "hertzon_material": "Kel-F_PCTFE",
+   "note": "new material, er 2.3-2.5, tand ~0.005 at GHz (typical)"
+  },
+  "PEEK": {
+   "er": 3.2,
+   "tand": 0.003,
+   "hertzon_material": "PEEK"
+  },
+  "glass (Corning 7070 type)": {
+   "er": 4.1,
+   "tand": 0.0012,
+   "hertzon_material": "Glass_7070",
+   "note": "hermetic glass beads, er 4.1 (7070) to 6.7 (Kovar seal glass)"
+  },
+  "air": {
+   "er": 1.0006,
+   "tand": 0.0,
+   "hertzon_material": "air"
+  }
+ },
+ "metals": {
+  "gold-plated BeCu": {
+   "sigma": 41000000.0,
+   "hertzon_material": "gold",
+   "note": "skin depth at 10 GHz 0.79 um; 1.27 um Au is > 1.6 skin depths -> use gold"
+  },
+  "gold-plated brass": {
+   "sigma": 41000000.0,
+   "hertzon_material": "gold"
+  },
+  "passivated stainless steel (CRES)": {
+   "sigma": 1100000.0,
+   "hertzon_material": "stainless_steel"
+  },
+  "nickel-plated brass": {
+   "sigma": 14500000.0,
+   "hertzon_material": "nickel",
+   "note": "Ni is ferromagnetic; for HF use sigma_eff ~ 2-4e6 S/m (mu_r ~ 1 at >10 GHz but Ni losses are high); 'brass' underestimates the loss"
+  },
+  "brass": {
+   "sigma": 15000000.0,
+   "hertzon_material": "brass"
+  }
+ },
+ "note_2_5mm": "There is no standard 2.5 mm coaxial connector. The user's '2.5 mm' is read as 2.4 mm (50 GHz). Nearby sizes: 2.92 mm (40 GHz), 2.4 mm (50 GHz), 1.85 mm (67 GHz, intermates with 2.4 mm).",
+ "swm_launch_options_in": {
+  ".010": [
+   0.01,
+   0.0635
+  ],
+  ".007": [
+   0.007,
+   0.039
+  ],
+  ".005": [
+   0.005,
+   0.029
+  ]
+ }
+}

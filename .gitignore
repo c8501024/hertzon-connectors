@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+# solver output next to the projects
+hzn/*.results/
+hzn/*_results/
+*.hzn.lock

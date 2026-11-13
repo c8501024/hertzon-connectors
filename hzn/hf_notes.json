@@ -1,0 +1,87 @@
+{
+ "sma_legs_tab_jack_h1.57": {
+  "line": "GCPW on RO4003C h=1.575 mm: w=1.859 mm, g=0.25 mm (analytic open-board Z0 50.0 ohm)",
+  "box": "Open board: Radiation on the top and side faces of the air box; the plane y = 0 (connector body face), the substrate bottom and the coax walls are Perfect E. Bottom legs lie on the ground and are not drawn.",
+  "f_max_GHz": 18.0,
+  "interface": "SMA",
+  "template": "legs_tab",
+  "coax_z0_ohm": 49.38,
+  "bead": "Ultem 1000 (PEI)",
+  "bead_neck_mm": 0.94
+ },
+ "k292_legs_tab_jack_h1.57": {
+  "line": "GCPW on RO4003C h=1.575 mm: w=1.019 mm, g=0.1 mm (analytic open-board Z0 50.0 ohm)",
+  "box": "Open board: Radiation on the top and side faces of the air box; the plane y = 0 (connector body face), the substrate bottom and the coax walls are Perfect E. Bottom legs lie on the ground and are not drawn.",
+  "f_max_GHz": 40.0,
+  "interface": "2.92mm",
+  "template": "legs_tab",
+  "coax_z0_ohm": 49.9,
+  "bead": "Ultem 1000 (PEI)",
+  "bead_neck_mm": 0.665
+ },
+ "k24_legs_tab_jack_h1.57": {
+  "line": "GCPW on RO4003C h=1.575 mm: w=1.019 mm, g=0.1 mm (analytic open-board Z0 50.0 ohm)",
+  "box": "Open board: Radiation on the top and side faces of the air box; the plane y = 0 (connector body face), the substrate bottom and the coax walls are Perfect E. Bottom legs lie on the ground and are not drawn.",
+  "f_max_GHz": 50.0,
+  "interface": "2.4mm",
+  "template": "legs_tab",
+  "coax_z0_ohm": 50.01,
+  "bead": "Ultem 1000 (PEI)",
+  "bead_neck_mm": 0.546
+ },
+ "sma_flange_block_jack_010_h0.508": {
+  "line": "GCPW on RO4003C h=0.508 mm: w=0.755 mm, g=0.25 mm (analytic open-board Z0 55.7 ohm; width calibrated to 50 ohm port impedance in the shielded model)",
+  "box": "Air, channel and substrate are closed by Perfect E walls: the block, the via fence of the GCPW and a lid at Hair above the line. Wbox = w+2g+1.2 mm keeps box modes above f_max.",
+  "f_max_GHz": 27.0,
+  "interface": "SMA",
+  "template": "flange_block",
+  "coax_z0_ohm": 49.38,
+  "bead": "Ultem 1000 (PEI)",
+  "bead_neck_mm": 0.94,
+  "launch_section_z0_ohm": 77.4
+ },
+ "k292_flange_block_jack_010_h0.203": {
+  "line": "GCPW on RO4003C h=0.203 mm: w=0.330 mm, g=0.15 mm (analytic open-board Z0 56.3 ohm; width calibrated to 50 ohm port impedance in the shielded model)",
+  "box": "Air, channel and substrate are closed by Perfect E walls: the block, the via fence of the GCPW and a lid at Hair above the line. Wbox = w+2g+1.2 mm keeps box modes above f_max.",
+  "f_max_GHz": 40.0,
+  "interface": "2.92mm",
+  "template": "flange_block",
+  "coax_z0_ohm": 49.9,
+  "bead": "Ultem 1000 (PEI)",
+  "bead_neck_mm": 0.665,
+  "launch_section_z0_ohm": 77.4
+ },
+ "k292_flange_block_jack_005_h0.203": {
+  "line": "GCPW on RO4003C h=0.203 mm: w=0.330 mm, g=0.15 mm (analytic open-board Z0 56.3 ohm; width calibrated to 50 ohm port impedance in the shielded model)",
+  "box": "Air, channel and substrate are closed by Perfect E walls: the block, the via fence of the GCPW and a lid at Hair above the line. Wbox = w+2g+1.2 mm keeps box modes above f_max.",
+  "f_max_GHz": 40.0,
+  "interface": "2.92mm",
+  "template": "flange_block",
+  "coax_z0_ohm": 49.9,
+  "bead": "Ultem 1000 (PEI)",
+  "bead_neck_mm": 0.665,
+  "launch_section_z0_ohm": 73.6
+ },
+ "k24_flange_block_jack_007_h0.203": {
+  "line": "GCPW on RO4003C h=0.203 mm: w=0.330 mm, g=0.15 mm (analytic open-board Z0 56.3 ohm; width calibrated to 50 ohm port impedance in the shielded model)",
+  "box": "Air, channel and substrate are closed by Perfect E walls: the block, the via fence of the GCPW and a lid at Hair above the line. Wbox = w+2g+1.2 mm keeps box modes above f_max.",
+  "f_max_GHz": 50.0,
+  "interface": "2.4mm",
+  "template": "flange_block",
+  "coax_z0_ohm": 50.01,
+  "bead": "Ultem 1000 (PEI)",
+  "bead_neck_mm": 0.546,
+  "launch_section_z0_ohm": 71.9
+ },
+ "k24_flange_block_jack_005_h0.203": {
+  "line": "GCPW on RO4003C h=0.203 mm: w=0.330 mm, g=0.15 mm (analytic open-board Z0 56.3 ohm; width calibrated to 50 ohm port impedance in the shielded model)",
+  "box": "Air, channel and substrate are closed by Perfect E walls: the block, the via fence of the GCPW and a lid at Hair above the line. Wbox = w+2g+1.2 mm keeps box modes above f_max.",
+  "f_max_GHz": 50.0,
+  "interface": "2.4mm",
+  "template": "flange_block",
+  "coax_z0_ohm": 50.01,
+  "bead": "Ultem 1000 (PEI)",
+  "bead_neck_mm": 0.546,
+  "launch_section_z0_ohm": 73.6
+ }
+}

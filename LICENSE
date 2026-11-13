@@ -1,0 +1,16 @@
+hertzon-connectors - edge-launch connector library for Hertzon
+Copyright (C) 2026 Hertzon contributors
+
+Code (gen/): GNU General Public License, version 2 or (at your option) any later version, as Hertzon.
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the
+implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License
+for more details: https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+
+Data and models (data/, step/, hzn/, sparams/, preview/, docs/): Creative Commons Attribution 4.0
+International (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/
+Attribution: "hertzon-connectors, https://github.com/c8501024/hertzon-connectors".
+
+The models are this project's own parametric models from published standard dimensions and catalogue values;
+no manufacturer CAD or EM file is included. Manufacturer and product names are trademarks of their owners and
+are used only to identify the parts. Values marked as estimates are not manufacturer data: check them against
+the manufacturer's drawing before you build hardware.
